@@ -263,7 +263,7 @@
     "id": "design-military-issue-clothing",
     "domain": "design objects",
     "tier": "moderate",
-    "theme": "Garments first developed as military issue before becoming civilian fashion.",
+    "theme": "Clothing and eyewear first developed for military use before becoming civilian fashion.",
     "decoy": "Classic menswear staples with utilitarian origins",
     "members": [
       {"title": "Trench coat", "description": "Belted double-breasted gabardine coat with epaulettes and a storm flap."},
@@ -290,7 +290,7 @@
       {"title": "Braun SK 4", "description": "1956 radio-phonograph with a clear acrylic lid, nicknamed Snow White's Coffin."},
       {"title": "Vitsoe 606 Universal Shelving System", "description": "Wall-mounted aluminum track shelving launched in 1960."},
       {"title": "Vitsoe 620 Chair Programme", "description": "Modular 1962 lounge seating on a swivel or fixed base."},
-      {"title": "Braun T 1000", "description": "Aluminum-cased 1963 multiband world receiver with a hinged front cover."},
+      {"title": "Braun T 1000", "description": "Aluminum-cased 1963 multiband world receiver built for globe-trotting listeners."},
       {"title": "Braun ET 66", "description": "1987 black pocket calculator with convex round buttons."},
       {"title": "Braun TP 1", "description": "1959 portable pairing a pocket receiver with a small phonograph."},
       {"title": "Braun T 2 lighter", "description": "Cylindrical 1968 table lighter in chrome or black."},
@@ -420,7 +420,7 @@
       {"title": "Toblerone", "description": "Matterhorn silhouette on the box of a triangular Swiss chocolate bar."},
       {"title": "Carrefour", "description": "Red and blue arrow-like wedges for a French hypermarket chain."},
       {"title": "Pittsburgh Zoo & PPG Aquarium", "description": "Stylized black tree above the name of a Pennsylvania zoo."},
-      {"title": "WWF", "description": "Black and white giant panda for a conservation charity."},
+      {"title": "Guild of Food Writers", "description": "Fountain-pen nib emblem of a British association of cookery authors."},
       {"title": "NBC", "description": "Six colored feathers fanning out, for an American TV network."},
       {"title": "Formula 1 (1994-2017)", "description": "Black slanted F beside red speed stripes, for motor racing's top series."},
       {"title": "Hartford Whalers", "description": "Green W topped by a blue whale's tail, for a hockey team."}
@@ -437,13 +437,13 @@
     "theme": "Brand names taken from genuine words or phrases in a language other than English.",
     "decoy": "Brands with foreign-sounding names",
     "members": [
-      {"title": "LEGO", "description": "Interlocking plastic bricks from Billund in Denmark."},
+      {"title": "Audi", "description": "German carmaker whose badge is four interlocking silver rings."},
       {"title": "Volvo", "description": "Swedish carmaker known for boxy estates and safety engineering."},
       {"title": "Vespa", "description": "Italian step-through scooter with a pressed-steel body."},
       {"title": "Nivea", "description": "German skin cream sold in a flat blue tin with white lettering."},
-      {"title": "ASICS", "description": "Japanese running-shoe maker whose stripes crisscross the side."},
+      {"title": "Hyundai", "description": "South Korean carmaker behind the Pony, its first home-grown model."},
       {"title": "Samsung", "description": "South Korean electronics giant behind the Galaxy phones."},
-      {"title": "Muji", "description": "Japanese retailer of plain, minimal household goods and stationery."},
+      {"title": "Le Creuset", "description": "French maker of enameled cast-iron pots in graded orange."},
       {"title": "Fjällräven", "description": "Swedish outdoor label behind the boxy Kånken backpack."}
     ],
     "intruders": [
@@ -476,22 +476,21 @@
     "id": "design-genericized-trademarks",
     "domain": "design objects",
     "tier": "subtle",
-    "theme": "Former brand names that lost trademark protection after becoming the generic word for the product.",
+    "theme": "Brand names that a court or trademark office formally ruled to be generic words, ending the owner's exclusive claim to them in that country.",
     "decoy": "Everyday products known by a brand-like coinage",
     "members": [
       {"title": "Escalator", "description": "Moving staircase of linked steps, promoted by Otis from 1900."},
       {"title": "Thermos", "description": "Vacuum-insulated bottle keeping drinks hot or cold for hours."},
-      {"title": "Yo-yo", "description": "Spool that climbs back up its string when flicked."},
-      {"title": "Cellophane", "description": "Transparent film of regenerated cellulose for wrapping."},
+      {"title": "Yo-yo", "description": "Spool that climbs back up its string when flicked, sold by Duncan."},
+      {"title": "Cellophane", "description": "Transparent film of regenerated cellulose, sold by DuPont for wrapping."},
       {"title": "Aspirin", "description": "Pain-relief tablet of acetylsalicylic acid, first sold by Bayer."},
-      {"title": "Trampoline", "description": "Taut fabric bed on springs in a steel frame, for bouncing."},
       {"title": "Linoleum", "description": "Floor covering of linseed oil and cork on a canvas backing."},
-      {"title": "Mimeograph", "description": "Stencil duplicator that pushes ink through a waxed master."}
+      {"title": "Shredded Wheat", "description": "Pillow-shaped biscuits of baked wheat strands, eaten with milk."},
+      {"title": "Murphy bed", "description": "Bed that pivots up on a hinge into a wall cabinet."}
     ],
     "intruders": [
-      {"title": "Jet Ski", "description": "Stand-up personal watercraft steered by handlebars, from Kawasaki.", "why": "Kawasaki has kept it a registered trademark despite everyday generic use."},
-      {"title": "Rollerblade", "description": "Boots riding on a single straight line of polyurethane wheels.", "why": "Rollerblade Inc. has kept it a registered trademark; the generic term is inline skate."},
-      {"title": "Hula Hoop", "description": "Plastic hoop twirled around the waist, a huge 1958 craze.", "why": "Wham-O has kept it a registered trademark; the generic object is simply a hoop."}
+      {"title": "Nylon", "description": "Synthetic polyamide fiber from DuPont that replaced silk in stockings.", "why": "DuPont deliberately never registered 'nylon' as a trademark, so no ruling was ever needed; it is a coinage people widely assume was a lost brand name."},
+      {"title": "Spandex", "description": "Stretchy polyurethane fiber from DuPont used in leggings and cycling shorts.", "why": "Coined as the generic fiber name (an anagram of 'expands'); DuPont's brand was Lycra, so it never was a trademark to lose."}
     ]
   },
   {
@@ -582,24 +581,25 @@
     ]
   },
   {
-    "id": "design-renamed-products",
+    "id": "design-iso-iec-standardized",
     "domain": "design objects",
     "tier": "subtle",
-    "theme": "Products first introduced under a different name before being renamed.",
-    "decoy": "Classic household products and toys",
+    "theme": "Designs whose form or dimensions are fixed by an ISO or IEC international standard.",
+    "decoy": "Everyday designs and symbols recognized all over the world",
     "members": [
-      {"title": "Frisbee", "description": "Plastic flying disc thrown with a flick of the wrist."},
-      {"title": "Post-it Note", "description": "Small yellow pad of repositionable sticky paper squares."},
-      {"title": "Q-tips", "description": "Cotton-tipped swabs on a stick, sold in round tubs."},
-      {"title": "Etch A Sketch", "description": "Red-framed screen drawn on by turning two white knobs."},
-      {"title": "Crock-Pot", "description": "Countertop stoneware slow cooker for all-day stews."},
-      {"title": "Super Soaker", "description": "Pump-action water gun with a pressurized reservoir."},
-      {"title": "Lava Lamp", "description": "Tapered glass vessel of rising and falling colored wax blobs."},
-      {"title": "Cabbage Patch Kids", "description": "Soft-sculpture dolls with yarn hair and adoption papers."}
+      {"title": "A4 paper", "description": "Sheet of 210 by 297 mm whose halves keep the same proportions."},
+      {"title": "Shipping container", "description": "Corrugated steel box twenty or forty feet long, stacked on cargo ships."},
+      {"title": "Payment card", "description": "Plastic card of 85.60 by 53.98 mm with embossed account numbers."},
+      {"title": "QR code", "description": "Square grid of black modules with three nested corner squares."},
+      {"title": "Radiation trefoil", "description": "Three black blades around a central dot on a yellow field."},
+      {"title": "Wheelchair symbol", "description": "White pictogram of a seated wheelchair user on a blue square."},
+      {"title": "Running man exit sign", "description": "Green pictogram of a figure hurrying toward a doorway."},
+      {"title": "Standby power symbol", "description": "Broken circle pierced by a short vertical line, on device buttons."},
+      {"title": "USB-C", "description": "Reversible oval plug for charging and data on phones and laptops."}
     ],
     "intruders": [
-      {"title": "Slinky", "description": "Pre-compressed steel spring that walks down stairs.", "why": "Betty James picked the word from a dictionary before its 1945 launch; it has always been sold as Slinky."},
-      {"title": "Barbie", "description": "Slim fashion doll launched at the 1959 American Toy Fair.", "why": "Sold as Barbie from day one. Mattel based it on Germany's Bild Lilli doll, but that was a different product."}
+      {"title": "Lightning connector", "description": "Apple's reversible eight-pin plug for charging and data on iPhones.", "why": "A proprietary Apple design that no ISO or IEC standard specifies. It was USB-C's direct rival and looks like its twin."},
+      {"title": "US Letter paper", "description": "Sheet of 8.5 by 11 inches used across North America.", "why": "Its size comes from American trade practice, later written into ANSI rules, not from ISO 216. It is A4's everyday office counterpart."}
     ]
   }
 ]
