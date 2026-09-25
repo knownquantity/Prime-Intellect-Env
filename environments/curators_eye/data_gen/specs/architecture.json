@@ -52,7 +52,7 @@
       {
         "title": "Oresund Bridge",
         "description": "Road and rail span linking Copenhagen and Malmo by way of an island and tunnel.",
-        "why": "Its main span is cable-stayed, with stays running straight from the pylons to the deck. It looks like its Danish neighbor, the Great Belt East Bridge, which is a suspension bridge."
+        "why": "Its main span is cable-stayed, with stays running straight from the pylons to the deck and no main cables. It is a long Danish strait crossing like the Great Belt East Bridge, which is a suspension bridge."
       },
       {
         "title": "Pont de Normandie",
@@ -702,7 +702,7 @@
     "id": "architecture-relocated",
     "domain": "architecture",
     "tier": "moderate",
-    "theme": "Structures taken apart and re-erected at a new site far from where they first stood.",
+    "theme": "Structures dismantled and re-erected on a different site from the one where they were first built.",
     "decoy": "Famous historic structures that now draw crowds of visitors",
     "members": [
       {
@@ -718,8 +718,8 @@
         "description": "Twin rock temples of Ramesses II with four colossal seated statues."
       },
       {
-        "title": "Pergamon Altar",
-        "description": "Hellenistic altar with a sweeping frieze of gods battling giants."
+        "title": "Temple of Kalabsha",
+        "description": "Large Nubian sandstone temple to the local god Mandulis."
       },
       {
         "title": "Temple of Debod",
@@ -1007,7 +1007,7 @@
       },
       {
         "title": "Stata Center",
-        "description": "Tilting, colliding computer science building at MIT."
+        "description": "Tilting, colliding computer science and linguistics building at MIT."
       },
       {
         "title": "Jay Pritzker Pavilion",
@@ -1015,7 +1015,7 @@
       },
       {
         "title": "Lou Ruvo Center for Brain Health",
-        "description": "Las Vegas medical center with a warped grid of white steel."
+        "description": "Las Vegas medical center with a wavy lattice of steel and windows."
       }
     ],
     "intruders": [

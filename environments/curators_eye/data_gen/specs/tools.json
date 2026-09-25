@@ -562,12 +562,12 @@
     "intruders": [
       {
         "title": "Leyden jar",
-        "description": "Glass jar coated inside and out with metal foil, for storing charge.",
+        "description": "Foil-lined glass jar with a brass rod, for storing charge.",
         "why": "Invented in 1745-46 by Ewald von Kleist and, independently, Pieter van Musschenbroek at Leiden. It feels like early experimental apparatus of the air-pump era but is from the 1700s."
       },
       {
         "title": "Achromatic telescope",
-        "description": "Tube with a two-glass objective lens that cancels colored fringes.",
+        "description": "Tube with a two-glass objective that cancels colored fringes.",
         "why": "Chester Moor Hall devised achromatic lenses around 1730 and John Dollond patented them in 1758. It sits naturally beside the 1600s reflecting telescope, which was a workaround for the same color problem."
       }
     ]
