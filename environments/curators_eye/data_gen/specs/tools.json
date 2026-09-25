@@ -241,7 +241,7 @@
     "id": "tools-heating-appliances",
     "domain": "tools",
     "tier": "obvious",
-    "theme": "Countertop kitchen appliances that cook or heat food.",
+    "theme": "Countertop kitchen appliances that cook or heat food or drink.",
     "decoy": "Plug-in countertop kitchen appliances",
     "members": [
       {
@@ -1116,8 +1116,8 @@
         "description": "Committee design of 1958-60 that introduced nested block structure."
       },
       {
-        "title": "PHP",
-        "description": "Server-side scripting embedded in web pages, behind WordPress."
+        "title": "BCPL",
+        "description": "Typeless 1960s Cambridge systems notation that paved the way for B and C."
       },
       {
         "title": "Prolog",

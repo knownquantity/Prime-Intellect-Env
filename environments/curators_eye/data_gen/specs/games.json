@@ -58,7 +58,6 @@
       {"title": "Hanabi", "description": "Build a fireworks display in order while seeing every hand except your own."},
       {"title": "The Mind", "description": "Lay numbered cards in ascending order with no talking allowed."},
       {"title": "Spirit Island", "description": "Island spirits drive off colonizing invaders with growing elemental powers."},
-      {"title": "Gloomhaven", "description": "A mercenary band tackles a branching campaign of tactical dungeon scenarios."},
       {"title": "Flash Point: Fire Rescue", "description": "Firefighters pull victims from a burning building before it collapses."},
       {"title": "Mysterium", "description": "A ghost sends dreamlike picture clues to a team of psychic investigators."},
       {"title": "Horrified", "description": "Villagers face classic movie monsters such as Dracula and the Mummy."},
@@ -95,7 +94,7 @@
     "id": "games-shedding-card-games",
     "domain": "games",
     "tier": "obvious",
-    "theme": "Shedding card games: the aim is to be the first to get rid of all your cards.",
+    "theme": "Shedding card games: the goal is to get rid of all of your cards.",
     "decoy": "Popular family and folk card games",
     "members": [
       {"title": "President", "description": "Finishing order sets a social hierarchy, and ranks swap hands next deal."},
@@ -214,7 +213,6 @@
       {"title": "Heyawake", "description": "Shade cells in walled rooms; no unshaded line may span three rooms."},
       {"title": "Masyu", "description": "Draw a loop through black and white circles, turning or going straight on each."},
       {"title": "Shikaku", "description": "Divide the grid into rectangles, each holding one number equal to its area."},
-      {"title": "Hitori", "description": "Shade repeated numbers so no row or column keeps a duplicate."},
       {"title": "KenKen", "description": "Fill a Latin square so caged groups hit targets via arithmetic."}
     ],
     "intruders": [
@@ -227,7 +225,7 @@
     "domain": "games",
     "tier": "moderate",
     "theme": "Board and card games designed by Reiner Knizia.",
-    "decoy": "Acclaimed German-style auction and tile games of the 1990s and 2000s",
+    "decoy": "Acclaimed strategy games built on auctions, tile-laying and hand management",
     "members": [
       {"title": "Tigris & Euphrates", "description": "Build civilizations in ancient Mesopotamia, scored by your weakest color."},
       {"title": "Lost Cities", "description": "Two rivals fund expeditions, risking losses on underfunded routes."},
@@ -295,7 +293,7 @@
     "id": "games-cartridge-based",
     "domain": "games",
     "tier": "moderate",
-    "theme": "Hardware whose software shipped only on cartridges or plug-in cards, never on optical discs.",
+    "theme": "Hardware whose software came on cartridges or plug-in cards rather than on optical discs.",
     "decoy": "Nintendo-era home and portable game hardware",
     "members": [
       {"title": "Nintendo Entertainment System", "description": "Gray 8-bit box with a front-loading slot, launched in America in 1985."},
@@ -473,7 +471,7 @@
       {"title": "Show jumping", "description": "Horse and rider tackle a course of colored fences and water jumps."},
       {"title": "Eventing", "description": "Horse and rider combine dressage, cross-country, and fences over several days."},
       {"title": "Skyjo", "description": "Flip and swap a hidden grid of numbered cards, some of them negative."},
-      {"title": "Cross-country running", "description": "Teams race over fields and hills, with the top five finishers counting."}
+      {"title": "Disc golf", "description": "Players throw flying discs at chain-and-basket targets around a wooded course."}
     ],
     "intruders": [
       {"title": "Spades", "description": "Partners bid how many rounds they will take, and spades are always trump.", "why": "The side with the highest total wins, usually by reaching 500. It shares its deck and structure with Hearts."},
@@ -558,7 +556,7 @@
       {"title": "Super Mario World", "description": "A plumber rides a green dinosaur across Dinosaur Land."},
       {"title": "Super Mario 64", "description": "A plumber explores painting worlds inside a castle in full 3D."},
       {"title": "Halo: Combat Evolved", "description": "A cyborg super-soldier fights alien forces on a ring-shaped world."},
-      {"title": "The Legend of Zelda: Breath of the Wild", "description": "An amnesiac knight climbs and glides across an open Hyrule."},
+      {"title": "Resistance: Fall of Man", "description": "Alternate-history shooter where soldiers fight an alien Chimera invasion of Britain."},
       {"title": "Nintendo Land", "description": "Theme-park collection of minigames built around a second screen."},
       {"title": "Astro's Playroom", "description": "A small robot explores a machine's interior, showing off haptic feedback."},
       {"title": "F-Zero", "description": "Futuristic hover-racing on flat tracks rendered with Mode 7 scaling."},
