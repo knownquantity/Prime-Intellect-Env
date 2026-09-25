@@ -107,25 +107,25 @@
     ]
   },
   {
-    "id": "design-unplugged-kitchen-classics",
+    "id": "design-digital-timepieces",
     "domain": "design objects",
     "tier": "obvious",
-    "theme": "Kitchen and coffee design classics that work without electricity.",
-    "decoy": "Iconic coffee and kitchen design objects",
+    "theme": "Timepieces that show the time as numerals on a digital readout, with no hands.",
+    "decoy": "Iconic watches and clocks of the late 20th century",
     "members": [
-      {"title": "Bialetti Moka Express", "description": "Octagonal aluminum pot from 1933 with a mustachioed mascot."},
-      {"title": "Chemex", "description": "Hourglass glass flask with a wooden collar and a leather tie."},
-      {"title": "Bodum Chambord", "description": "Chrome-framed glass carafe with a mesh plunger for steeped brews."},
-      {"title": "AeroPress", "description": "Plastic syringe-like tube that forces a brew through a paper filter."},
-      {"title": "Hario V60", "description": "Cone with spiral ribs and one large hole, for pour-over brewing."},
-      {"title": "Anna G. corkscrew", "description": "Smiling figure in a dress whose arms rise as she opens wine."},
-      {"title": "Le Creuset Dutch oven", "description": "Enameled cast-iron pot in flame orange, made in France since 1925."},
-      {"title": "Weber kettle grill", "description": "Round black charcoal barbecue on three legs with a domed lid."}
+      {"title": "Hamilton Pulsar P1", "description": "1972 gold-cased wrist computer that lights up red at a button press."},
+      {"title": "Casio F-91W", "description": "Cheap black resin 1989 Casio with a tiny backlight and an alarm."},
+      {"title": "Casio G-Shock DW-5000C", "description": "1983 resin watch engineered to survive a ten-meter drop."},
+      {"title": "Casio CA-53W", "description": "Slim Casio wrist calculator with a tiny rubber keypad."},
+      {"title": "Timex Ironman", "description": "1986 triathlon sports watch with a lap-counting stopwatch."},
+      {"title": "Timex Datalink", "description": "1994 Timex that synced data from flashing lines on a PC monitor."},
+      {"title": "Seiko 06LC", "description": "1973 Seiko quartz watch with a six-figure liquid-crystal panel."},
+      {"title": "Solari Cifra 3", "description": "Gino Valle's 1965 cylindrical table clock with flipping plastic leaves."}
     ],
     "intruders": [
-      {"title": "Technivorm Moccamaster", "description": "Dutch 1968 drip brewer with a boxy aluminum frame and glass carafe.", "why": "It plugs in: an electric element heats the water. It sits beside the Chemex as a design-classic brewer."},
-      {"title": "KitchenAid stand mixer", "description": "Egmont Arens' 1937 tilt-head stand mixer in enameled steel.", "why": "Driven by an electric motor, though it is as much a design icon as the Moka pot."},
-      {"title": "Dualit toaster", "description": "Chunky stainless-steel British toaster with a mechanical timer.", "why": "Its heating elements run on mains electricity; only the timer is mechanical."}
+      {"title": "Casio MQ-24", "description": "Cheap black resin Casio with a plain white face and a buckle strap.", "why": "An analog quartz watch with hands. It is as cheap and ubiquitous as the F-91W."},
+      {"title": "Swatch", "description": "1983 Swiss plastic quartz watch with a sealed, welded case.", "why": "The original Swatch tells time with hands, though it shares the Casios' plastic, quartz and mass-market appeal."},
+      {"title": "Nelson Ball Clock", "description": "George Nelson's 1949 wall clock ringed by twelve wooden balls.", "why": "It tells time with hands; the balls only mark the hours. Like the Cifra 3, it is a design-classic clock."}
     ]
   },
   {
@@ -161,10 +161,10 @@
       {"title": "PH Artichoke", "description": "Copper leaves in staggered rows around a bulb, first made for a Copenhagen restaurant."},
       {"title": "Taraxacum", "description": "Castiglioni brothers' cocoon of sprayed resin over a steel skeleton."},
       {"title": "Heracleum", "description": "Bertjan Pot's branching metal stems ending in small LED lenses."},
-      {"title": "Aim", "description": "Bouroullec brothers' lamps on long looping cables, free to be rearranged."},
+      {"title": "Flowerpot VP1", "description": "Verner Panton's 1968 lamp of two stacked enameled hemispheres."},
       {"title": "Frisbi", "description": "Achille Castiglioni's translucent disc floating below a small metal shade."},
       {"title": "Zettel'z", "description": "Ingo Maurer's lamp bristling with clipped paper notes on wires."},
-      {"title": "Le Klint 101", "description": "Hand-pleated plastic shade folded in Denmark from one sheet."}
+      {"title": "Le Klint 101", "description": "Hand-pleated shade folded in Denmark from a single sheet."}
     ],
     "intruders": [
       {"title": "Arco", "description": "Castiglioni brothers' arching steel stem rising from a heavy marble block.", "why": "A floor lamp: the arc carries the shade over a table to mimic a pendant without ceiling wiring."},
@@ -184,12 +184,12 @@
       {"title": "Red and Blue Chair", "description": "Rietveld's angular De Stijl seat of primary-colored planes and black battens."},
       {"title": "Paimio Chair", "description": "Alvar Aalto's sanatorium armchair with a scrolled bent-plywood seat."},
       {"title": "Peacock Chair", "description": "Hans Wegner's armchair with a fan of flattened spindles behind the sitter."},
-      {"title": "Shaker ladder-back chair", "description": "Plain rush-seated side chair with horizontal slats, from a religious community."},
+      {"title": "Shaker ladder-back chair", "description": "Plain side chair with horizontal slats and a woven seat, from a religious community."},
       {"title": "Adirondack chair", "description": "Slatted outdoor lounger with a sloped seat and broad flat armrests."}
     ],
     "intruders": [
-      {"title": "Ant Chair", "description": "Arne Jacobsen's pinch-waisted molded plywood seat, first made with three supports.", "why": "Its legs are chromed tubular steel; only the seat shell is plywood."},
-      {"title": "Series 7", "description": "Arne Jacobsen's hourglass molded plywood shell, stacked in countless cafes.", "why": "The plywood shell sits on tubular steel legs."},
+      {"title": "Ant Chair", "description": "Arne Jacobsen's pinch-waisted plywood chair, first made with three supports.", "why": "Its legs are chromed tubular steel; only the seat shell is plywood."},
+      {"title": "Series 7", "description": "Arne Jacobsen's hourglass plywood chair, stacked in countless cafes.", "why": "The plywood shell sits on tubular steel legs."},
       {"title": "Eames Lounge Chair", "description": "Molded rosewood plywood shells with leather cushions and a matching ottoman.", "why": "The plywood shells ride on a cast-aluminum swivel base joined by aluminum braces."}
     ]
   },
@@ -225,7 +225,7 @@
       {"title": "Air-Chair", "description": "Jasper Morrison's stackable polypropylene chair made by gas-assisted injection."},
       {"title": "Selene", "description": "Vico Magistretti's 1969 fiberglass chair with S-profiled supports."},
       {"title": "Bofinger Chair", "description": "Helmut Bätzner's 1966 stackable fiberglass-polyester chair from a German firm."},
-      {"title": "Bellini Chair", "description": "Mario Bellini's 1998 stackable polypropylene chair with a slotted back."},
+      {"title": "Bellini Chair", "description": "Mario Bellini's 1998 stackable polypropylene chair for Heller."},
       {"title": "White resin patio chair", "description": "Cheap stackable garden chair found on terraces worldwide."},
       {"title": "Tip Ton", "description": "Barber Osgerby's polypropylene chair that tilts forward on its skids."},
       {"title": "Myto", "description": "Konstantin Grcic's perforated plastic cantilever chair released in 2008."}
@@ -233,7 +233,7 @@
     "intruders": [
       {"title": "Tulip Chair", "description": "Eero Saarinen's white chair that seems to grow from a single stem.", "why": "The fiberglass shell sits on a separate cast-aluminum base. Saarinen wanted one material but could not achieve it, so it only looks monolithic."},
       {"title": "Eames Plastic Side Chair", "description": "Charles and Ray Eames's 1950 fiberglass shell chair in soft muted colors.", "why": "The shell is bolted, via rubber shock mounts, to separate wire or wooden bases."},
-      {"title": "Tom Vac", "description": "Ron Arad's rippled polypropylene chair, first made in aluminum for a Milan show.", "why": "The rippled shell is fixed onto separate tubular steel legs."}
+      {"title": "Tom Vac", "description": "Ron Arad's rippled polypropylene chair, first made in aluminum in Milan.", "why": "The rippled shell is fixed onto separate tubular steel legs."}
     ]
   },
   {
@@ -256,7 +256,7 @@
     "intruders": [
       {"title": "Mini", "description": "Tiny 1959 British two-door with its wheels pushed to the corners.", "why": "Its engine sits transversely at the front, driving the front wheels. It shares the Fiat 500's small-car fame."},
       {"title": "Citroën 2CV", "description": "Corrugated French economy car with a roll-back canvas roof.", "why": "Its flat-twin engine is at the front, driving the front wheels. Its canvas roof and mission echo the Fiat 500 and Beetle."},
-      {"title": "Trabant", "description": "East German small car with a body of cotton-fiber-reinforced plastic.", "why": "Its two-stroke engine is at the front, driving the front wheels, though it was the Eastern bloc's people's car like the Beetle."}
+      {"title": "Trabant", "description": "East German economy car with a plastic body reinforced by cotton.", "why": "Its two-stroke engine is at the front, driving the front wheels, though it was the Eastern bloc's people's car like the Beetle."}
     ]
   },
   {
@@ -277,7 +277,7 @@
     ],
     "intruders": [
       {"title": "Clarks Desert Boot", "description": "Lightweight suede ankle boot on a crepe sole, worn by 1960s mods.", "why": "Nathan Clark designed it for civilian sale, inspired by boots officers had made in Cairo bazaars. The military link is inspiration, not issue."},
-      {"title": "Levi's 501", "description": "Riveted indigo denim trousers with a button fly.", "why": "Made as workwear for miners and laborers, not for soldiers."}
+      {"title": "Levi's 501", "description": "Riveted indigo denim trousers with a button fly and leather patch.", "why": "Made as workwear for miners and laborers, not for soldiers."}
     ]
   },
   {
@@ -297,8 +297,8 @@
       {"title": "Braun HLD 4", "description": "Compact 1970 handheld hair dryer with a slim angular body."}
     ],
     "intruders": [
-      {"title": "Braun Sixtant", "description": "1962 electric shaver with a black body and a matte silver foil head.", "why": "Designed by Hans Gugelot and Gerd Alfred Müller. It is a quintessential Braun object of the Rams era, but not his work."},
-      {"title": "Braun KF 20", "description": "Cylindrical 1972 drip coffee maker in stacked tiers of colored plastic.", "why": "Designed by Florian Seiffert, a member of the Braun team Rams led."}
+      {"title": "Braun Sixtant", "description": "1962 electric shaver in black with a matte silver foil head.", "why": "Designed by Hans Gugelot and Gerd Alfred Müller. It is a quintessential Braun object of the Rams era, but not his work."},
+      {"title": "Braun KF 20", "description": "Cylindrical 1972 drip coffee maker in tiers of colored plastic.", "why": "Designed by Florian Seiffert, a member of the Braun team Rams led."}
     ]
   },
   {
@@ -341,7 +341,7 @@
     ],
     "intruders": [
       {"title": "Kay Bojesen monkey", "description": "Kay Bojesen's jointed wooden monkey toy of teak and limba.", "why": "Bojesen was Danish. His toy sits naturally beside Toikka's birds as a Nordic collectible."},
-      {"title": "IKEA Poäng", "description": "Noboru Nakamura's cantilevered bentwood armchair for a flat-pack retailer.", "why": "Designed by a Japanese designer for Swedish IKEA; its bent birch recalls Aalto's work."}
+      {"title": "IKEA Poäng", "description": "Noboru Nakamura's bentwood armchair for a flat-pack retailer.", "why": "Designed by a Japanese designer for Swedish IKEA; its bent birch recalls Aalto's work."}
     ]
   },
   {
@@ -361,7 +361,7 @@
       {"title": "Omega Ploprof", "description": "Chunky 1970 steel watch with a monobloc case and a red bezel-lock button."}
     ],
     "intruders": [
-      {"title": "Rolex GMT-Master", "description": "1954 steel watch with a two-tone red and blue bezel.", "why": "Developed with Pan Am for airline pilots tracking two time zones. It shares the Submariner's case and rotating bezel."},
+      {"title": "Rolex GMT-Master", "description": "1954 steel watch with a two-tone red and blue rotating bezel.", "why": "Developed with Pan Am for airline pilots tracking two time zones. It shares the Submariner's case and rotating bezel."},
       {"title": "Omega Speedmaster Professional", "description": "1957 steel chronograph with a tachymeter scale, worn on the Moon.", "why": "A racing chronograph later flown by NASA; it was never built for use in water."},
       {"title": "Rolex Explorer", "description": "1953 steel watch with a black dial and bold 3-6-9 numerals.", "why": "Tied to mountaineering and the 1953 Everest expedition, not to the sea."}
     ]
@@ -383,8 +383,8 @@
       {"title": "Nike Air Force 1", "description": "1982 all-white leather model with a chunky cupsole."}
     ],
     "intruders": [
-      {"title": "Adidas Stan Smith", "description": "White leather low-top with perforated stripes and a green heel tab.", "why": "A tennis shoe, first sold as the Robert Haillet. Its clean white leather makes it look like the Superstar."},
-      {"title": "Adidas Samba", "description": "Slim low-top with a gum sole and a suede T-toe.", "why": "Made for football training on frozen ground, not basketball."},
+      {"title": "Adidas Stan Smith", "description": "White leather low-top with perforated stripes and green heel tab.", "why": "A tennis shoe, first sold as the Robert Haillet. Its clean white leather makes it look like the Superstar."},
+      {"title": "Adidas Samba", "description": "Slim low-top with a gum sole and a suede T-shaped toe overlay.", "why": "Made for football training on frozen ground, not basketball."},
       {"title": "Nike Air Max 1", "description": "1987 low-top with a visible heel air unit and mesh panels.", "why": "A running shoe, though it sits alongside the Air Force 1 and Jordan 1 in sneaker culture."}
     ]
   },
@@ -405,8 +405,8 @@
       {"title": "AirPods", "description": "White wireless earbuds with stems, stored in a flip-top charging case."}
     ],
     "intruders": [
-      {"title": "Macintosh 128K", "description": "Beige all-in-one computer with a built-in nine-inch screen and handle.", "why": "Designed by Jerry Manock and Terry Oyama's team, years before Ive joined Apple."},
-      {"title": "Apple IIc", "description": "Compact off-white portable computer with a fold-down carry handle.", "why": "Designed with Hartmut Esslinger's frogdesign in the 'Snow White' language, long before Ive's group."}
+      {"title": "Macintosh 128K", "description": "Apple's beige all-in-one with a built-in nine-inch screen and handle.", "why": "Designed by Jerry Manock and Terry Oyama's team, years before Ive joined Apple."},
+      {"title": "Apple IIc", "description": "Apple's compact off-white portable computer with a fold-down handle.", "why": "Designed with Hartmut Esslinger's frogdesign in the 'Snow White' language, long before Ive's group."}
     ]
   },
   {
@@ -422,7 +422,7 @@
       {"title": "Pittsburgh Zoo & PPG Aquarium", "description": "Stylized black tree above the name of a Pennsylvania zoo."},
       {"title": "WWF", "description": "Black and white giant panda for a conservation charity."},
       {"title": "NBC", "description": "Six colored feathers fanning out, for an American TV network."},
-      {"title": "Formula 1 (1994-2017)", "description": "Red slanted F with speed stripes, for motor racing's top series."},
+      {"title": "Formula 1 (1994-2017)", "description": "Black slanted F beside red speed stripes, for motor racing's top series."},
       {"title": "Hartford Whalers", "description": "Green W topped by a blue whale's tail, for a hockey team."}
     ],
     "intruders": [
@@ -444,7 +444,7 @@
       {"title": "ASICS", "description": "Japanese running-shoe maker whose stripes crisscross the side."},
       {"title": "Samsung", "description": "South Korean electronics giant behind the Galaxy phones."},
       {"title": "Muji", "description": "Japanese retailer of plain, minimal household goods and stationery."},
-      {"title": "Fjällräven", "description": "Swedish outdoor brand behind the boxy Kånken backpack."}
+      {"title": "Fjällräven", "description": "Swedish outdoor label behind the boxy Kånken backpack."}
     ],
     "intruders": [
       {"title": "Häagen-Dazs", "description": "American ice cream brand sold in small round pint cartons.", "why": "The name is invented gibberish styled to sound Danish; it is not a word in any language."},
@@ -483,7 +483,7 @@
       {"title": "Thermos", "description": "Vacuum-insulated bottle keeping drinks hot or cold for hours."},
       {"title": "Yo-yo", "description": "Spool that climbs back up its string when flicked."},
       {"title": "Cellophane", "description": "Transparent film of regenerated cellulose for wrapping."},
-      {"title": "Zipper", "description": "Two interlocking rows of teeth joined by a sliding pull."},
+      {"title": "Aspirin", "description": "Pain-relief tablet of acetylsalicylic acid, first sold by Bayer."},
       {"title": "Trampoline", "description": "Taut fabric bed on springs in a steel frame, for bouncing."},
       {"title": "Linoleum", "description": "Floor covering of linseed oil and cork on a canvas backing."},
       {"title": "Mimeograph", "description": "Stencil duplicator that pushes ink through a waxed master."}
@@ -533,8 +533,8 @@
       {"title": "Shell Chair", "description": "Hans Wegner's three-legged lounge chair of curved laminated wood."}
     ],
     "intruders": [
-      {"title": "Ghost Chair", "description": "Philippe Starck's clear polycarbonate armchair with an oval Louis XVI back.", "why": "Starck's Louis Ghost is called 'Ghost' for its see-through material; its outline is a Louis XVI armchair, not a ghost."},
-      {"title": "Djinn Chair", "description": "Olivier Mourgue's low foam-padded lounge chair, seen in '2001: A Space Odyssey'.", "why": "Named after the spirits of Middle Eastern folklore, not for any resemblance in outline."}
+      {"title": "Louis Ghost", "description": "Philippe Starck's clear polycarbonate armchair with an oval Louis XVI back.", "why": "Called 'Ghost' for its see-through material; its outline is a Louis XVI armchair, not a ghost."},
+      {"title": "Djinn Chair", "description": "Olivier Mourgue's low foam lounge chair, seen in '2001: A Space Odyssey'.", "why": "Named after the spirits of Middle Eastern folklore, not for any resemblance in outline."}
     ]
   },
   {
