@@ -1,0 +1,1580 @@
+[
+  {
+    "id": "architecture-suspension-bridges",
+    "domain": "architecture",
+    "tier": "obvious",
+    "theme": "Suspension bridges: the roadway is hung from vertical hangers attached to main cables draped over towers and anchored at each end.",
+    "decoy": "Famous long-span road bridges held up by towers and cables",
+    "members": [
+      {
+        "title": "Akashi Kaikyo Bridge",
+        "description": "Span linking Kobe to Awaji Island across a strait prone to typhoons."
+      },
+      {
+        "title": "Humber Bridge",
+        "description": "Crossing of a wide estuary in East Yorkshire, opened in 1981."
+      },
+      {
+        "title": "Verrazzano-Narrows Bridge",
+        "description": "Double-level span joining Staten Island and Brooklyn at the mouth of New York Harbor."
+      },
+      {
+        "title": "Great Belt East Bridge",
+        "description": "Danish span carrying a motorway between Zealand and the islet of Sprogo."
+      },
+      {
+        "title": "Tsing Ma Bridge",
+        "description": "Road and rail span on the route to Hong Kong's airport."
+      },
+      {
+        "title": "Mackinac Bridge",
+        "description": "Five-mile crossing joining the two peninsulas of Michigan."
+      },
+      {
+        "title": "George Washington Bridge",
+        "description": "Double-deck Hudson River crossing between Upper Manhattan and Fort Lee."
+      },
+      {
+        "title": "Forth Road Bridge",
+        "description": "Motorway span in Scotland beside a famous red railway bridge."
+      },
+      {
+        "title": "Lions Gate Bridge",
+        "description": "Green-painted crossing from Vancouver's Stanley Park to the North Shore."
+      }
+    ],
+    "intruders": [
+      {
+        "title": "Millau Viaduct",
+        "description": "Span on slender piers carrying a motorway high over the Tarn valley in France.",
+        "why": "A cable-stayed bridge: straight stays run from each pylon directly to the deck, with no main cables. Its fans of cables make it look like a suspension design."
+      },
+      {
+        "title": "Oresund Bridge",
+        "description": "Road and rail span linking Copenhagen and Malmo by way of an island and tunnel.",
+        "why": "Its main span is cable-stayed, with stays running straight from the pylons to the deck. It looks like its Danish neighbor, the Great Belt East Bridge, which is a suspension bridge."
+      },
+      {
+        "title": "Pont de Normandie",
+        "description": "Span over the Seine estuary between Le Havre and Honfleur.",
+        "why": "A cable-stayed bridge with inverted-Y pylons and no main cables, though its long span and tall towers read as a suspension bridge."
+      }
+    ]
+  },
+  {
+    "id": "architecture-gothic-cathedrals",
+    "domain": "architecture",
+    "tier": "obvious",
+    "theme": "Cathedrals built in the Gothic style, with pointed arches, ribbed vaults, and flying buttresses.",
+    "decoy": "Great historic cathedrals of Europe",
+    "members": [
+      {
+        "title": "Notre-Dame de Paris",
+        "description": "Twin-towered cathedral on the Ile de la Cite with famous rose windows."
+      },
+      {
+        "title": "Chartres Cathedral",
+        "description": "Cathedral southwest of Paris famed for its medieval stained glass and mismatched spires."
+      },
+      {
+        "title": "Reims Cathedral",
+        "description": "Cathedral where French kings were traditionally crowned, home to a smiling angel carving."
+      },
+      {
+        "title": "Amiens Cathedral",
+        "description": "Picardy cathedral with a vast nave and a labyrinth inlaid in its floor."
+      },
+      {
+        "title": "Salisbury Cathedral",
+        "description": "English cathedral with a soaring spire, holding an original copy of Magna Carta."
+      },
+      {
+        "title": "Milan Cathedral",
+        "description": "Pale marble cathedral bristling with spires and statues in Lombardy's capital."
+      },
+      {
+        "title": "Seville Cathedral",
+        "description": "Andalusian cathedral whose bell tower began life as a minaret."
+      },
+      {
+        "title": "York Minster",
+        "description": "Northern English cathedral with a great east window of medieval glass."
+      }
+    ],
+    "intruders": [
+      {
+        "title": "St Paul's Cathedral",
+        "description": "London cathedral with a great dome, rebuilt after the fire of 1666.",
+        "why": "Christopher Wren's English Baroque design, with round arches and a classical dome. Its medieval predecessor, Old St Paul's, was Gothic."
+      },
+      {
+        "title": "Pisa Cathedral",
+        "description": "Marble cathedral in Tuscany beside a famously tilting bell tower.",
+        "why": "Pisan Romanesque, with round arches and an arcaded marble facade and no flying buttresses. It is medieval, which makes it look Gothic."
+      },
+      {
+        "title": "Speyer Cathedral",
+        "description": "Imperial cathedral on the Rhine where Salian emperors are buried.",
+        "why": "A major Romanesque church with round arches and massive walls. It is a medieval cathedral of the same scale as the Gothic ones."
+      }
+    ]
+  },
+  {
+    "id": "architecture-frank-lloyd-wright",
+    "domain": "architecture",
+    "tier": "obvious",
+    "theme": "Buildings designed by Frank Lloyd Wright.",
+    "decoy": "Landmark American houses and buildings of the early and mid twentieth century",
+    "members": [
+      {
+        "title": "Fallingwater",
+        "description": "House cantilevered over a waterfall on Bear Run in Pennsylvania."
+      },
+      {
+        "title": "Robie House",
+        "description": "Long, low brick house with sweeping eaves on Chicago's South Side."
+      },
+      {
+        "title": "Unity Temple",
+        "description": "Concrete Unitarian church in Oak Park, Illinois, lit by skylights."
+      },
+      {
+        "title": "Johnson Wax Headquarters",
+        "description": "Office in Racine, Wisconsin, with slender mushroom-shaped columns and glass tubing."
+      },
+      {
+        "title": "Marin County Civic Center",
+        "description": "Long blue-roofed government complex bridging hills north of San Francisco."
+      },
+      {
+        "title": "Hollyhock House",
+        "description": "Los Angeles house for an oil heiress, decorated with stylized flowers."
+      },
+      {
+        "title": "Price Tower",
+        "description": "Nineteen-story tower in Bartlesville, Oklahoma, with copper-trimmed floors."
+      },
+      {
+        "title": "Ennis House",
+        "description": "Los Angeles house built of patterned concrete blocks with a Mayan feel."
+      },
+      {
+        "title": "Darwin D. Martin House",
+        "description": "Buffalo estate of linked horizontal pavilions for a soap company executive."
+      }
+    ],
+    "intruders": [
+      {
+        "title": "Gamble House",
+        "description": "Pasadena house of dark timber and deep eaves for a soap company heir.",
+        "why": "Designed by the brothers Greene & Greene in 1908. Its horizontal lines and craftsmanship often get it mistaken for a Wright house."
+      },
+      {
+        "title": "Kaufmann Desert House",
+        "description": "Flat-roofed glass and steel house in Palm Springs for a Pittsburgh store owner.",
+        "why": "Designed by Richard Neutra in 1946 for Edgar Kaufmann, the same client who commissioned Fallingwater from Wright."
+      }
+    ]
+  },
+  {
+    "id": "architecture-art-deco-skyscrapers",
+    "domain": "architecture",
+    "tier": "obvious",
+    "theme": "Skyscrapers designed in the Art Deco style.",
+    "decoy": "Early American skyscrapers built before the Second World War",
+    "members": [
+      {
+        "title": "Chrysler Building",
+        "description": "Manhattan tower crowned by stainless-steel sunbursts and eagle gargoyles."
+      },
+      {
+        "title": "Empire State Building",
+        "description": "Limestone Midtown tower with a mooring mast for airships at its top."
+      },
+      {
+        "title": "Chanin Building",
+        "description": "Midtown office tower near Grand Central with a bronze frieze at its base."
+      },
+      {
+        "title": "Guardian Building",
+        "description": "Detroit bank headquarters clad in orange brick and bright tilework."
+      },
+      {
+        "title": "Fisher Building",
+        "description": "Detroit office tower with a gilded roof and a painted three-story arcade."
+      },
+      {
+        "title": "Chicago Board of Trade Building",
+        "description": "LaSalle Street tower topped by an aluminum statue of Ceres."
+      },
+      {
+        "title": "Los Angeles City Hall",
+        "description": "White civic tower with a pyramid-shaped top in downtown Los Angeles."
+      },
+      {
+        "title": "Carew Tower",
+        "description": "Cincinnati office and hotel complex from 1930 with an observation deck."
+      }
+    ],
+    "intruders": [
+      {
+        "title": "Woolworth Building",
+        "description": "Terracotta-clad Lower Manhattan tower from 1913 with a copper pyramid top.",
+        "why": "Neo-Gothic, with pointed arches and tracery. It predates the arrival of Art Deco in the 1920s but is a classic early skyscraper."
+      },
+      {
+        "title": "Wrigley Building",
+        "description": "White terracotta clock tower on Chicago's Michigan Avenue beside the river.",
+        "why": "A 1920s revival design modeled on the Giralda in Seville. It dates from the Art Deco years but not the style."
+      },
+      {
+        "title": "Flatiron Building",
+        "description": "Wedge-shaped office tower at the corner of Fifth Avenue and Broadway.",
+        "why": "A Beaux-Arts design completed in 1902, decades before Art Deco. It is a famous early New York tower."
+      }
+    ]
+  },
+  {
+    "id": "architecture-tombs",
+    "domain": "architecture",
+    "tier": "obvious",
+    "theme": "Structures built to house the remains of the dead.",
+    "decoy": "Grand commemorative monuments",
+    "members": [
+      {
+        "title": "Taj Mahal",
+        "description": "White marble domed monument on the Yamuna River at Agra."
+      },
+      {
+        "title": "Castel Sant'Angelo",
+        "description": "Cylindrical Roman monument beside the Tiber, later a papal fortress."
+      },
+      {
+        "title": "Great Pyramid of Giza",
+        "description": "Limestone monument for the pharaoh Khufu on the Giza plateau."
+      },
+      {
+        "title": "Gur-e-Amir",
+        "description": "Timurid monument in Samarkand with a ribbed turquoise dome."
+      },
+      {
+        "title": "Ming Xiaoling",
+        "description": "Monumental complex for the Hongwu Emperor on Purple Mountain in Nanjing."
+      },
+      {
+        "title": "General Grant National Memorial",
+        "description": "Granite domed monument on Riverside Drive in Manhattan honoring a Civil War general."
+      },
+      {
+        "title": "Itimad-ud-Daulah",
+        "description": "Agra monument of inlaid white marble often called the Baby Taj."
+      },
+      {
+        "title": "Gol Gumbaz",
+        "description": "Bijapur monument with a vast dome and a whispering gallery."
+      }
+    ],
+    "intruders": [
+      {
+        "title": "Lincoln Memorial",
+        "description": "Marble temple on the National Mall enclosing a seated statue of a president.",
+        "why": "A memorial only: Lincoln is buried in Springfield, Illinois. Its temple form resembles the grand mausoleums."
+      },
+      {
+        "title": "Shrine of Remembrance",
+        "description": "Melbourne war monument modeled on the ancient Mausoleum at Halicarnassus.",
+        "why": "Holds no remains. It honors Australians who served in war, even though its design copies a famous tomb."
+      },
+      {
+        "title": "Albert Memorial",
+        "description": "Gothic canopy in Kensington Gardens sheltering a gilded seated prince.",
+        "why": "Prince Albert is buried in the Royal Mausoleum at Frogmore, Windsor. This canopy is a memorial only."
+      }
+    ]
+  },
+  {
+    "id": "architecture-fortified-castles",
+    "domain": "architecture",
+    "tier": "obvious",
+    "theme": "Castles built as genuine military fortifications.",
+    "decoy": "Famous castles",
+    "members": [
+      {
+        "title": "Edinburgh Castle",
+        "description": "Complex on an extinct volcanic crag above Scotland's capital."
+      },
+      {
+        "title": "Windsor Castle",
+        "description": "Royal residence in Berkshire begun under William the Conqueror."
+      },
+      {
+        "title": "Tower of London",
+        "description": "Norman keep and walled complex beside the Thames that houses the Crown Jewels."
+      },
+      {
+        "title": "Krak des Chevaliers",
+        "description": "Crusader-era complex on a hilltop in western Syria."
+      },
+      {
+        "title": "Alcazar of Segovia",
+        "description": "Spanish royal complex on a rocky prow above two rivers."
+      },
+      {
+        "title": "Malbork Castle",
+        "description": "Brick complex of the Teutonic Knights on the Nogat River in Poland."
+      },
+      {
+        "title": "Himeji Castle",
+        "description": "White-plastered Japanese complex nicknamed the White Heron."
+      },
+      {
+        "title": "Bodiam Castle",
+        "description": "Moated fourteenth-century quadrangle with round corner towers in East Sussex."
+      },
+      {
+        "title": "Conwy Castle",
+        "description": "Medieval complex in North Wales with eight great towers."
+      }
+    ],
+    "intruders": [
+      {
+        "title": "Neuschwanstein Castle",
+        "description": "Turreted Bavarian hilltop residence built for King Ludwig II.",
+        "why": "A 19th-century Romantic palace (1869-86) with no defensive purpose. It is the archetypal fairy-tale castle."
+      },
+      {
+        "title": "Chateau de Chambord",
+        "description": "Loire Valley residence with a double-helix staircase and a skyline of turrets.",
+        "why": "Built as a hunting lodge for Francis I. Its towers are for show, not defense."
+      },
+      {
+        "title": "Hearst Castle",
+        "description": "Hilltop estate on the California coast with twin towers and a Roman-style pool.",
+        "why": "A 20th-century mansion designed by Julia Morgan for William Randolph Hearst. It is a castle in name only."
+      }
+    ]
+  },
+  {
+    "id": "architecture-mimetic-buildings",
+    "domain": "architecture",
+    "tier": "obvious",
+    "theme": "Buildings deliberately designed in the shape of an everyday object or animal.",
+    "decoy": "Buildings that look like familiar things",
+    "members": [
+      {
+        "title": "Longaberger Basket Building",
+        "description": "Seven-story Ohio office block that looks like a picnic basket with handles."
+      },
+      {
+        "title": "Big Duck",
+        "description": "Long Island farm shop that looks like a white duck."
+      },
+      {
+        "title": "Lucy the Elephant",
+        "description": "Six-story New Jersey seaside structure that looks like an elephant."
+      },
+      {
+        "title": "Haines Shoe House",
+        "description": "Pennsylvania house that looks like a giant work boot."
+      },
+      {
+        "title": "Teapot Dome Service Station",
+        "description": "Washington State filling station that looks like a teapot."
+      },
+      {
+        "title": "Hood Milk Bottle",
+        "description": "Boston waterfront snack stand that looks like a milk bottle."
+      },
+      {
+        "title": "Dog Bark Park Inn",
+        "description": "Idaho guesthouse that looks like a giant beagle."
+      },
+      {
+        "title": "Piano House",
+        "description": "Building in Huainan, China, that looks like a grand piano beside a violin."
+      }
+    ],
+    "intruders": [
+      {
+        "title": "The Gherkin",
+        "description": "Rounded glass office tower in the City of London that looks like a pickle.",
+        "why": "Foster's form for 30 St Mary Axe came from wind and energy concerns. The pickle is a nickname, not a design intent."
+      },
+      {
+        "title": "CCTV Headquarters",
+        "description": "Looping angular tower in Beijing that looks like a pair of trousers.",
+        "why": "OMA's loop is a structural and programmatic concept. 'Big Pants' is a popular nickname, not the design brief."
+      }
+    ]
+  },
+  {
+    "id": "architecture-brutalism",
+    "domain": "architecture",
+    "tier": "obvious",
+    "theme": "Brutalist buildings: massive, blocky forms in raw, exposed concrete.",
+    "decoy": "Postwar buildings of bare concrete",
+    "members": [
+      {
+        "title": "Barbican Estate",
+        "description": "Concrete housing and arts complex in the City of London with three towers and a lake."
+      },
+      {
+        "title": "Boston City Hall",
+        "description": "Top-heavy concrete civic building on a sloping brick plaza."
+      },
+      {
+        "title": "Trellick Tower",
+        "description": "West London housing tower with a separate lift and service shaft."
+      },
+      {
+        "title": "Royal National Theatre",
+        "description": "South Bank concrete theatre complex of stacked terraces beside Waterloo Bridge."
+      },
+      {
+        "title": "Geisel Library",
+        "description": "Faceted concrete university library in San Diego perched on angled pillars."
+      },
+      {
+        "title": "Rudolph Hall",
+        "description": "Yale's corduroy-textured concrete art and architecture building in New Haven."
+      },
+      {
+        "title": "Robarts Library",
+        "description": "Triangular concrete University of Toronto library nicknamed Fort Book."
+      },
+      {
+        "title": "Preston Bus Station",
+        "description": "Lancashire transport hub with curved concrete balcony edges on its car park decks."
+      },
+      {
+        "title": "Park Hill",
+        "description": "Hillside Sheffield housing estate with wide streets in the sky."
+      }
+    ],
+    "intruders": [
+      {
+        "title": "TWA Flight Center",
+        "description": "Wing-roofed concrete terminal at JFK Airport in New York.",
+        "why": "Eero Saarinen's expressionist thin-shell design: sweeping, bird-like curves rather than Brutalism's heavy, blocky massing."
+      },
+      {
+        "title": "Dulles Airport Main Terminal",
+        "description": "Concrete hall near Washington with a roof slung between tilted pillars.",
+        "why": "Saarinen's expressionist design with a suspended, curving roof. It is sculptural and light, not Brutalist."
+      }
+    ]
+  },
+  {
+    "id": "architecture-stepped-pyramids",
+    "domain": "architecture",
+    "tier": "obvious",
+    "theme": "Stepped pyramids: built as a stack of receding tiers or terraces rather than with smooth faces.",
+    "decoy": "Ancient pyramids and pyramid-shaped monuments",
+    "members": [
+      {
+        "title": "Pyramid of Djoser",
+        "description": "Egyptian royal monument at Saqqara designed by Imhotep."
+      },
+      {
+        "title": "Ziggurat of Ur",
+        "description": "Mud-brick temple platform of the Sumerian moon god in southern Iraq."
+      },
+      {
+        "title": "El Castillo",
+        "description": "Maya temple to Kukulcan at Chichen Itza with a staircase on each side."
+      },
+      {
+        "title": "Pyramid of the Sun",
+        "description": "Great monument on the Avenue of the Dead at Teotihuacan."
+      },
+      {
+        "title": "Borobudur",
+        "description": "Ninth-century Buddhist monument in Central Java lined with relief panels."
+      },
+      {
+        "title": "Chogha Zanbil",
+        "description": "Elamite brick temple complex in southwestern Iran."
+      },
+      {
+        "title": "Tikal Temple I",
+        "description": "Maya funerary monument in the Guatemalan rainforest topped by a roof comb."
+      },
+      {
+        "title": "Pyramid of the Magician",
+        "description": "Maya monument at Uxmal with an unusual oval base."
+      },
+      {
+        "title": "Prasat Thom",
+        "description": "Khmer temple monument at Koh Ker in northern Cambodia."
+      }
+    ],
+    "intruders": [
+      {
+        "title": "Red Pyramid",
+        "description": "Egyptian royal monument at Dahshur named for the color of its stone.",
+        "why": "A true smooth-sided pyramid built for Sneferu, the first successful one. It is from the same era as the stepped Egyptian ones."
+      },
+      {
+        "title": "Pyramid of Cestius",
+        "description": "Marble-clad Roman monument beside the Porta San Paolo in Rome.",
+        "why": "Its steep faces are smooth, imitating Egyptian and Nubian pyramids. It is ancient and pyramidal, with no steps."
+      }
+    ]
+  },
+  {
+    "id": "architecture-roman-era",
+    "domain": "architecture",
+    "tier": "moderate",
+    "theme": "Structures built during Roman rule of their site, as opposed to earlier Greek work.",
+    "decoy": "Ruins of Greek and Roman classical antiquity",
+    "members": [
+      {
+        "title": "Colosseum",
+        "description": "Oval arena of travertine and concrete in the heart of Rome."
+      },
+      {
+        "title": "Pont du Gard",
+        "description": "Three-tiered arched water bridge over the Gardon River in southern France."
+      },
+      {
+        "title": "Baths of Caracalla",
+        "description": "Vast bathing complex ruins south of the city center in Rome."
+      },
+      {
+        "title": "Arch of Titus",
+        "description": "Single-bay marble arch on the Via Sacra showing a triumphal procession."
+      },
+      {
+        "title": "Aqueduct of Segovia",
+        "description": "Double-arched granite water channel striding through a Castilian city."
+      },
+      {
+        "title": "Library of Celsus",
+        "description": "Two-story marble facade of a library in Ephesus, western Turkey."
+      },
+      {
+        "title": "Odeon of Herodes Atticus",
+        "description": "Stone theatre on the slope of the Athenian Acropolis."
+      },
+      {
+        "title": "Hadrian's Wall",
+        "description": "Stone frontier barrier running across northern England."
+      },
+      {
+        "title": "Theatre of Orange",
+        "description": "Open-air theatre in Provence with its huge stage wall intact."
+      }
+    ],
+    "intruders": [
+      {
+        "title": "Temples of Paestum",
+        "description": "Three stone temples on a coastal plain south of Salerno in Italy.",
+        "why": "Built by Greek colonists of Poseidonia in the 6th and 5th centuries BC, before Rome took the city in 273 BC. They stand in Italy, which makes them look Roman."
+      },
+      {
+        "title": "Temple of Concordia",
+        "description": "Stone temple on a ridge above the city of Agrigento in Sicily.",
+        "why": "Built around 440-430 BC by the Greek city of Akragas. It stands in Italy but predates Roman rule."
+      }
+    ]
+  },
+  {
+    "id": "architecture-gaudi",
+    "domain": "architecture",
+    "tier": "moderate",
+    "theme": "Buildings designed by Antoni Gaudi.",
+    "decoy": "Catalan Modernisme landmarks in and around Barcelona",
+    "members": [
+      {
+        "title": "Casa Batllo",
+        "description": "Passeig de Gracia house in Barcelona with a scaly roof and bone-like balconies."
+      },
+      {
+        "title": "Casa Mila",
+        "description": "Undulating stone apartment block nicknamed La Pedrera, with warrior-like chimneys."
+      },
+      {
+        "title": "Park Guell",
+        "description": "Hillside park with a mosaic salamander and a serpentine tiled bench."
+      },
+      {
+        "title": "Palau Guell",
+        "description": "Town mansion off La Rambla with parabolic-arched entrances and colorful chimneys."
+      },
+      {
+        "title": "Casa Vicens",
+        "description": "Summer house in Gracia covered in green and white tiles with marigold motifs."
+      },
+      {
+        "title": "El Capricho",
+        "description": "Villa in Comillas, Cantabria, with a slender tower clad in sunflower tiles."
+      },
+      {
+        "title": "Bellesguard",
+        "description": "Stone villa on the slopes of Tibidabo in Barcelona, built on a medieval royal site."
+      },
+      {
+        "title": "Casa Calvet",
+        "description": "Eixample apartment building with a baroque-influenced stone facade."
+      },
+      {
+        "title": "Crypt of Colonia Guell",
+        "description": "Church crypt in a textile colony, with leaning basalt and brick pillars."
+      }
+    ],
+    "intruders": [
+      {
+        "title": "Casa Amatller",
+        "description": "Passeig de Gracia house in Barcelona with a stepped gable facade of colored tiles.",
+        "why": "Designed by Josep Puig i Cadafalch. It stands next door to Casa Batllo on the same block."
+      },
+      {
+        "title": "Palau de la Musica Catalana",
+        "description": "Barcelona concert hall with a stained-glass skylight and mosaic-covered columns.",
+        "why": "Designed by Lluis Domenech i Montaner, a Modernisme contemporary of Gaudi."
+      },
+      {
+        "title": "Hospital de Sant Pau",
+        "description": "Barcelona garden complex of tiled pavilions linked by tunnels.",
+        "why": "Designed by Lluis Domenech i Montaner. It is often visited alongside the Sagrada Familia nearby."
+      }
+    ]
+  },
+  {
+    "id": "architecture-doric-order",
+    "domain": "architecture",
+    "tier": "moderate",
+    "theme": "Buildings whose outer colonnade uses the Doric order.",
+    "decoy": "Greek temples and Greek Revival buildings",
+    "members": [
+      {
+        "title": "Parthenon",
+        "description": "Marble temple of Athena crowning the Athenian Acropolis."
+      },
+      {
+        "title": "Temple of Hephaestus",
+        "description": "Well-preserved marble temple overlooking the Agora of Athens."
+      },
+      {
+        "title": "Temple of Aphaia",
+        "description": "Hilltop limestone temple on the island of Aegina."
+      },
+      {
+        "title": "Temple of Poseidon at Sounion",
+        "description": "Cliff-top marble temple at the southern tip of Attica."
+      },
+      {
+        "title": "Temple of Segesta",
+        "description": "Unfinished temple standing alone in the hills of western Sicily."
+      },
+      {
+        "title": "Temple of Zeus at Olympia",
+        "description": "Ruined temple that once housed a giant gold-and-ivory statue."
+      },
+      {
+        "title": "Brandenburg Gate",
+        "description": "Neoclassical gateway in Berlin topped by a four-horse chariot."
+      },
+      {
+        "title": "Walhalla",
+        "description": "Hall of fame for German worthies, a temple above the Danube near Regensburg."
+      }
+    ],
+    "intruders": [
+      {
+        "title": "Erechtheion",
+        "description": "Marble temple on the Athenian Acropolis with a porch of maidens.",
+        "why": "Its colonnades are Ionic, and its famous porch uses caryatids. It shares the Acropolis with the Doric Parthenon."
+      },
+      {
+        "title": "Temple of Athena Nike",
+        "description": "Small marble temple on a bastion at the entrance to the Athenian Acropolis.",
+        "why": "An Ionic temple. It stands a few steps from the Doric Parthenon and Propylaea."
+      },
+      {
+        "title": "Maison Carree",
+        "description": "Well-preserved Roman temple in the center of Nimes.",
+        "why": "Its columns are Corinthian. It is a classical temple with the same colonnaded form."
+      }
+    ]
+  },
+  {
+    "id": "architecture-relocated",
+    "domain": "architecture",
+    "tier": "moderate",
+    "theme": "Structures taken apart and re-erected at a new site far from where they first stood.",
+    "decoy": "Famous historic structures that now draw crowds of visitors",
+    "members": [
+      {
+        "title": "John Rennie's London Bridge",
+        "description": "Granite arch bridge of five spans, opened in 1831."
+      },
+      {
+        "title": "Temple of Dendur",
+        "description": "Small Nubian sandstone temple built under the emperor Augustus."
+      },
+      {
+        "title": "Abu Simbel temples",
+        "description": "Twin rock temples of Ramesses II with four colossal seated statues."
+      },
+      {
+        "title": "Pergamon Altar",
+        "description": "Hellenistic altar with a sweeping frieze of gods battling giants."
+      },
+      {
+        "title": "Temple of Debod",
+        "description": "Small Nubian temple to Amun and Isis, begun in the second century BC."
+      },
+      {
+        "title": "Temple of Isis at Philae",
+        "description": "Ptolemaic temple of Isis with a great pylon and a riverside kiosk."
+      },
+      {
+        "title": "St Mary Aldermanbury",
+        "description": "Wren church from the City of London, gutted in the Blitz."
+      },
+      {
+        "title": "Ancient Spanish Monastery",
+        "description": "Twelfth-century Cistercian cloister from Sacramenia in the province of Segovia."
+      },
+      {
+        "title": "Agecroft Hall",
+        "description": "Tudor manor house of timber and brick from Lancashire."
+      }
+    ],
+    "intruders": [
+      {
+        "title": "Tower Bridge",
+        "description": "Victorian bridge with twin Gothic towers and lifting roadways over the Thames.",
+        "why": "Never moved from London. A persistent myth says the American who bought Rennie's London Bridge thought he was getting Tower Bridge."
+      }
+    ]
+  },
+  {
+    "id": "architecture-demolished",
+    "domain": "architecture",
+    "tier": "moderate",
+    "theme": "Landmark buildings that have been demolished.",
+    "decoy": "Celebrated stations, towers, and complexes of the late nineteenth and twentieth centuries",
+    "members": [
+      {
+        "title": "Pennsylvania Station",
+        "description": "Beaux-Arts Manhattan rail terminal with a waiting room modeled on Roman baths."
+      },
+      {
+        "title": "Kowloon Walled City",
+        "description": "Dense Hong Kong enclave of interlocking high-rise blocks with no planning oversight."
+      },
+      {
+        "title": "Pruitt-Igoe",
+        "description": "Public housing complex of thirty-three eleven-story slabs in St. Louis."
+      },
+      {
+        "title": "Larkin Administration Building",
+        "description": "Buffalo mail-order company headquarters with a skylit atrium, by Frank Lloyd Wright."
+      },
+      {
+        "title": "Singer Building",
+        "description": "Beaux-Arts office tower in Lower Manhattan with a bulbous mansard crown."
+      },
+      {
+        "title": "Euston Arch",
+        "description": "Doric gateway at the entrance to a London railway terminus."
+      },
+      {
+        "title": "Nakagin Capsule Tower",
+        "description": "Tokyo tower of prefabricated pod rooms plugged into two concrete cores."
+      },
+      {
+        "title": "Chicago Stock Exchange Building",
+        "description": "Louis Sullivan office building in the Loop with an ornate arched entrance."
+      }
+    ],
+    "intruders": [
+      {
+        "title": "Grand Central Terminal",
+        "description": "Beaux-Arts Manhattan rail terminal with a celestial ceiling over its main concourse.",
+        "why": "Threatened by a 1960s tower plan, it was saved by New York's landmarks law, upheld by the Supreme Court in 1978. It is the twin of the lost Penn Station."
+      },
+      {
+        "title": "Battersea Power Station",
+        "description": "Brick London power station with four white chimneys beside the Thames.",
+        "why": "Decommissioned in 1983 and left derelict for decades, but restored and redeveloped rather than torn down."
+      }
+    ]
+  },
+  {
+    "id": "architecture-timber-structures",
+    "domain": "architecture",
+    "tier": "moderate",
+    "theme": "Structures whose main frame is built of timber.",
+    "decoy": "Celebrated temples, pagodas, churches, and bridges",
+    "members": [
+      {
+        "title": "Horyu-ji",
+        "description": "Seventh-century Buddhist temple complex near Nara with a five-story pagoda."
+      },
+      {
+        "title": "Todai-ji Daibutsuden",
+        "description": "Nara hall enclosing a colossal bronze seated Buddha."
+      },
+      {
+        "title": "Urnes Stave Church",
+        "description": "Medieval Norwegian church with intricately carved animal ornament."
+      },
+      {
+        "title": "Kizhi Church of the Transfiguration",
+        "description": "Russian island church crowned by twenty-two onion domes."
+      },
+      {
+        "title": "Fogong Temple Pagoda",
+        "description": "Octagonal pagoda at Yingxian in Shanxi, raised in 1056."
+      },
+      {
+        "title": "Kapellbrucke",
+        "description": "Covered footbridge in Lucerne with painted panels under its roof."
+      },
+      {
+        "title": "Metropol Parasol",
+        "description": "Giant waffle-like canopy over a square in Seville."
+      },
+      {
+        "title": "Mjostarnet",
+        "description": "Eighteen-story mixed-use tower on the shore of Lake Mjosa in Norway."
+      },
+      {
+        "title": "Sanjusangen-do",
+        "description": "Long Kyoto hall housing 1,001 statues of the goddess Kannon."
+      }
+    ],
+    "intruders": [
+      {
+        "title": "Iron Pagoda",
+        "description": "Slender eleventh-century pagoda in Kaifeng with a rust-brown glazed skin.",
+        "why": "Built of brick sheathed in glazed tiles; the 'iron' name refers only to its color. It echoes the Fogong pagoda in age and form."
+      },
+      {
+        "title": "Great Wild Goose Pagoda",
+        "description": "Square seven-story pagoda in Xi'an built to hold Buddhist scriptures.",
+        "why": "A brick masonry pagoda. It is a Tang-dynasty Buddhist landmark like the Japanese temples."
+      }
+    ]
+  },
+  {
+    "id": "architecture-movable-bridges",
+    "domain": "architecture",
+    "tier": "moderate",
+    "theme": "Movable bridges: all or part of the span opens to let vessels pass.",
+    "decoy": "Distinctive bridges over urban waterways",
+    "members": [
+      {
+        "title": "Gateshead Millennium Bridge",
+        "description": "Curved pedestrian and cycle crossing on the Tyne, dating from 2001."
+      },
+      {
+        "title": "Rolling Bridge",
+        "description": "Short footbridge over a canal inlet at Paddington Basin, London."
+      },
+      {
+        "title": "Erasmus Bridge",
+        "description": "Asymmetric white crossing over the Maas in Rotterdam, nicknamed The Swan."
+      },
+      {
+        "title": "Pegasus Bridge",
+        "description": "Canal crossing at Benouville in Normandy, famous from D-Day."
+      },
+      {
+        "title": "Magere Brug",
+        "description": "White crossing over the Amstel in Amsterdam, strung with lights at night."
+      },
+      {
+        "title": "Puente de la Mujer",
+        "description": "Pedestrian crossing in Puerto Madero, Buenos Aires, with a single angled mast."
+      },
+      {
+        "title": "Aerial Lift Bridge",
+        "description": "Steel crossing over the canal entrance to Duluth harbor on Lake Superior."
+      },
+      {
+        "title": "Steel Bridge",
+        "description": "Double-deck Willamette River crossing in Portland carrying rail and road."
+      },
+      {
+        "title": "Galata Bridge",
+        "description": "Istanbul crossing over the Golden Horn lined with fishermen and restaurants."
+      }
+    ],
+    "intruders": [
+      {
+        "title": "Puente del Alamillo",
+        "description": "Crossing in Seville with a single angled mast leaning back over the land.",
+        "why": "A fixed cable-stayed bridge. Calatrava also designed the Puente de la Mujer, which swings open."
+      },
+      {
+        "title": "Tyne Bridge",
+        "description": "Green steel arch crossing on the Tyne linking Newcastle and Gateshead.",
+        "why": "A fixed arch bridge. It stands a short way upriver from the tilting Gateshead Millennium Bridge."
+      }
+    ]
+  },
+  {
+    "id": "architecture-planned-capitals",
+    "domain": "architecture",
+    "tier": "moderate",
+    "theme": "Cities planned and built from scratch to be a seat of government.",
+    "decoy": "Capital cities",
+    "members": [
+      {
+        "title": "Brasilia",
+        "description": "Brazilian capital on the central plateau with Niemeyer's modernist ministries."
+      },
+      {
+        "title": "Canberra",
+        "description": "Australian capital set around the artificial Lake Burley Griffin."
+      },
+      {
+        "title": "Washington, D.C.",
+        "description": "Capital on the Potomac with radiating avenues and a long central Mall."
+      },
+      {
+        "title": "Islamabad",
+        "description": "Pakistani capital at the foot of the Margalla Hills."
+      },
+      {
+        "title": "Abuja",
+        "description": "Nigerian capital beneath the granite monolith of Aso Rock."
+      },
+      {
+        "title": "Putrajaya",
+        "description": "Malaysian administrative capital with a pink-domed mosque beside a lake."
+      },
+      {
+        "title": "Belmopan",
+        "description": "Small inland capital of Belize, away from the hurricane-prone coast."
+      },
+      {
+        "title": "Chandigarh",
+        "description": "Shared capital of Punjab and Haryana with a Le Corbusier civic complex."
+      },
+      {
+        "title": "Gaborone",
+        "description": "Capital of Botswana near the South African border."
+      }
+    ],
+    "intruders": [
+      {
+        "title": "Ottawa",
+        "description": "Canadian capital with Gothic Revival parliament buildings above a river.",
+        "why": "Grew from Bytown, a lumber and canal town, before it was chosen as capital in 1857."
+      },
+      {
+        "title": "Ankara",
+        "description": "Turkish capital on the Anatolian plateau with a hilltop citadel.",
+        "why": "The ancient city of Ancyra, inhabited for millennia. Its 1920s plan extended an existing city rather than founding a new one."
+      }
+    ]
+  },
+  {
+    "id": "architecture-gehry",
+    "domain": "architecture",
+    "tier": "moderate",
+    "theme": "Buildings designed by Frank Gehry.",
+    "decoy": "Sculptural, curving contemporary buildings clad in metal or glass",
+    "members": [
+      {
+        "title": "Guggenheim Museum Bilbao",
+        "description": "Titanium-clad art museum curving along the Nervion river in Spain."
+      },
+      {
+        "title": "Walt Disney Concert Hall",
+        "description": "Concert hall with stainless-steel sails on Grand Avenue in Los Angeles."
+      },
+      {
+        "title": "Fondation Louis Vuitton",
+        "description": "Art museum of billowing glass sails in the Bois de Boulogne, Paris."
+      },
+      {
+        "title": "Weisman Art Museum",
+        "description": "Brushed-steel university museum overlooking the Mississippi in Minneapolis."
+      },
+      {
+        "title": "Museum of Pop Culture",
+        "description": "Crumpled, multicolored metal museum beside the monorail in Seattle."
+      },
+      {
+        "title": "8 Spruce Street",
+        "description": "Lower Manhattan residential tower with a rippling stainless-steel skin."
+      },
+      {
+        "title": "Stata Center",
+        "description": "Tilting, colliding computer science building at MIT."
+      },
+      {
+        "title": "Jay Pritzker Pavilion",
+        "description": "Outdoor bandshell in Chicago's Millennium Park with a steel trellis over the lawn."
+      },
+      {
+        "title": "Lou Ruvo Center for Brain Health",
+        "description": "Las Vegas medical center with a warped grid of white steel."
+      }
+    ],
+    "intruders": [
+      {
+        "title": "Heydar Aliyev Center",
+        "description": "Flowing white cultural center in Baku without a single sharp angle.",
+        "why": "Designed by Zaha Hadid Architects. Its sweeping curved surfaces resemble Gehry's work."
+      },
+      {
+        "title": "Imperial War Museum North",
+        "description": "Museum on the Manchester Ship Canal clad in aluminum shards.",
+        "why": "Designed by Daniel Libeskind. Its fractured metal forms look like Gehry's."
+      }
+    ]
+  },
+  {
+    "id": "architecture-competition-winners",
+    "domain": "architecture",
+    "tier": "moderate",
+    "theme": "Buildings whose design was selected through an architectural competition.",
+    "decoy": "Major civic and cultural landmarks",
+    "members": [
+      {
+        "title": "Centre Pompidou",
+        "description": "Paris arts center with its pipes, ducts, and escalators on the outside."
+      },
+      {
+        "title": "Tribune Tower",
+        "description": "Neo-Gothic Chicago newspaper tower with flying buttresses at its crown."
+      },
+      {
+        "title": "Vietnam Veterans Memorial",
+        "description": "Black granite V-shaped wall of names on the National Mall."
+      },
+      {
+        "title": "Oslo Opera House",
+        "description": "White sloping roof you can walk up from the waterfront in Norway's capital."
+      },
+      {
+        "title": "Grande Arche",
+        "description": "Hollow white cube of a monument at La Defense on the Paris axis."
+      },
+      {
+        "title": "Jewish Museum Berlin",
+        "description": "Zigzag zinc-clad museum with slashed windows and empty voids."
+      },
+      {
+        "title": "Palais Garnier",
+        "description": "Opulent Second Empire opera house in Paris with a grand staircase."
+      },
+      {
+        "title": "Parc de la Villette",
+        "description": "Paris park scattered with red steel follies on a grid."
+      },
+      {
+        "title": "Reichstag Building",
+        "description": "German parliament in Berlin crowned by a glass cupola with a spiral ramp."
+      }
+    ],
+    "intruders": [
+      {
+        "title": "Louvre Pyramid",
+        "description": "Glass and steel pyramid entrance in the main courtyard of a Paris museum.",
+        "why": "President Mitterrand chose I. M. Pei directly in 1983, with no competition. It was one of the Paris Grands Projets, several of which were competition winners."
+      }
+    ]
+  },
+  {
+    "id": "architecture-not-cathedrals",
+    "domain": "architecture",
+    "tier": "subtle",
+    "theme": "Great churches that are not cathedrals: none is the seat of a bishop.",
+    "decoy": "Famous grand churches",
+    "members": [
+      {
+        "title": "St Peter's Basilica",
+        "description": "Vatican church beneath Michelangelo's dome, facing Bernini's colonnade."
+      },
+      {
+        "title": "Sagrada Familia",
+        "description": "Barcelona church of many spires, begun in 1882."
+      },
+      {
+        "title": "Sacre-Coeur",
+        "description": "White travertine domed church crowning Montmartre in Paris."
+      },
+      {
+        "title": "Sainte-Chapelle",
+        "description": "Gothic royal chapel in Paris walled with stained glass."
+      },
+      {
+        "title": "King's College Chapel",
+        "description": "Late Gothic chapel in Cambridge with a vast fan vault."
+      },
+      {
+        "title": "Hallgrimskirkja",
+        "description": "Reykjavik church with a concrete tower evoking basalt columns."
+      },
+      {
+        "title": "Santa Maria Maggiore",
+        "description": "Papal basilica on the Esquiline Hill with early Christian mosaics."
+      },
+      {
+        "title": "Grundtvig's Church",
+        "description": "Copenhagen church of yellow brick with an organ-pipe facade."
+      },
+      {
+        "title": "Sistine Chapel",
+        "description": "Vatican chapel with a frescoed ceiling, used for papal conclaves."
+      }
+    ],
+    "intruders": [
+      {
+        "title": "St Mark's Basilica",
+        "description": "Venetian church of five domes and gold mosaics on its piazza.",
+        "why": "It has been the cathedral of the Patriarch of Venice since 1807. It began as the doge's chapel, which is why it is often assumed not to be one."
+      },
+      {
+        "title": "San Giovanni in Laterano",
+        "description": "Papal basilica in Rome with a facade of giant statues of Christ and saints.",
+        "why": "The cathedral of Rome, where the pope sits as Bishop of Rome; it outranks St Peter's. It is called a basilica, like the other Roman churches."
+      }
+    ]
+  },
+  {
+    "id": "architecture-designer-died-before-completion",
+    "domain": "architecture",
+    "tier": "subtle",
+    "theme": "Structures whose chief designer died before they were completed.",
+    "decoy": "Famous landmarks finished in the nineteenth and twentieth centuries",
+    "members": [
+      {
+        "title": "Brooklyn Bridge",
+        "description": "Granite-towered crossing of the East River opened in 1883."
+      },
+      {
+        "title": "Palace of Westminster",
+        "description": "Gothic Revival riverside home of the UK Parliament with its clock tower."
+      },
+      {
+        "title": "Solomon R. Guggenheim Museum",
+        "description": "Spiraling white art museum on Fifth Avenue opened in 1959."
+      },
+      {
+        "title": "Gateway Arch",
+        "description": "Stainless-steel arch on the Mississippi riverfront in St. Louis."
+      },
+      {
+        "title": "Scottish Parliament Building",
+        "description": "Holyrood complex of upturned-boat roofs and odd window shapes."
+      },
+      {
+        "title": "Royal Courts of Justice",
+        "description": "Victorian Gothic law courts on the Strand in London."
+      },
+      {
+        "title": "National Parliament House, Dhaka",
+        "description": "Concrete and marble assembly complex with geometric cutouts, set in a lake."
+      },
+      {
+        "title": "Washington Monument",
+        "description": "Marble obelisk at the center of the National Mall."
+      }
+    ],
+    "intruders": [
+      {
+        "title": "Sydney Opera House",
+        "description": "Harbourside performing arts center crowned by white shells.",
+        "why": "Utzon resigned in 1966 and never saw it finished, but he lived until 2008, long after its 1973 opening."
+      },
+      {
+        "title": "Golden Gate Bridge",
+        "description": "International-orange crossing at the entrance to San Francisco Bay.",
+        "why": "Chief engineer Joseph Strauss saw it open in May 1937 and died a year later."
+      }
+    ]
+  },
+  {
+    "id": "architecture-address-names",
+    "domain": "architecture",
+    "tier": "subtle",
+    "theme": "Buildings officially named for their own postal address.",
+    "decoy": "Modern towers known by a number",
+    "members": [
+      {
+        "title": "432 Park Avenue",
+        "description": "Slender concrete residential tower with a grid of square windows in Midtown Manhattan."
+      },
+      {
+        "title": "56 Leonard Street",
+        "description": "Tribeca residential tower of cantilevered glass boxes stacked like a game of Jenga."
+      },
+      {
+        "title": "One Canada Square",
+        "description": "Canary Wharf office tower with a pyramid top and a flashing aircraft light."
+      },
+      {
+        "title": "20 Fenchurch Street",
+        "description": "London office tower that widens toward the top, with a sky garden."
+      },
+      {
+        "title": "22 Bishopsgate",
+        "description": "Broad glass office tower in the eastern cluster of the City of London."
+      },
+      {
+        "title": "70 Pine Street",
+        "description": "Lower Manhattan tower built for an oil company, with a lantern crown."
+      },
+      {
+        "title": "111 West 57th Street",
+        "description": "Ultra-thin residential tower on Billionaires' Row with terracotta-faced flanks."
+      },
+      {
+        "title": "30 Rockefeller Plaza",
+        "description": "Setback limestone slab at the heart of Rockefeller Center in Midtown."
+      }
+    ],
+    "intruders": [
+      {
+        "title": "Tower 42",
+        "description": "City of London office tower with a floor plan shaped like a bank's logo.",
+        "why": "Named for its 42 storeys; its address is 25 Old Broad Street. The numeral looks like a street number."
+      },
+      {
+        "title": "Two International Finance Centre",
+        "description": "Hong Kong office tower with a crown of tapering fins on the harbourfront.",
+        "why": "The second tower of the IFC complex; its address is 8 Finance Street."
+      },
+      {
+        "title": "Taipei 101",
+        "description": "Taiwanese tower of stacked flaring segments like bamboo joints.",
+        "why": "Named for its 101 floors; its address is No. 7, Section 5, Xinyi Road."
+      }
+    ]
+  },
+  {
+    "id": "architecture-load-bearing-elements",
+    "domain": "architecture",
+    "tier": "subtle",
+    "theme": "Architectural elements whose job is to carry or resist structural loads.",
+    "decoy": "Named parts of classical and Gothic buildings",
+    "members": [
+      {
+        "title": "Flying buttress",
+        "description": "Arched stone strut springing from a pier outside a nave wall."
+      },
+      {
+        "title": "Keystone",
+        "description": "Wedge-shaped block at the crown of an arch."
+      },
+      {
+        "title": "Lintel",
+        "description": "Horizontal beam across the top of a door or window opening."
+      },
+      {
+        "title": "Pendentive",
+        "description": "Curved triangle of masonry between a dome and the square room beneath."
+      },
+      {
+        "title": "Squinch",
+        "description": "Small arch or niche across the upper corner of a square room."
+      },
+      {
+        "title": "Corbel",
+        "description": "Stone bracket projecting from a wall."
+      },
+      {
+        "title": "Voussoir",
+        "description": "Tapered stone forming one of the units of an arch."
+      },
+      {
+        "title": "Caryatid",
+        "description": "Sculpted draped female figure standing in place of a column."
+      },
+      {
+        "title": "Tie beam",
+        "description": "Horizontal timber joining the feet of a pair of roof rafters."
+      }
+    ],
+    "intruders": [
+      {
+        "title": "Gargoyle",
+        "description": "Carved grotesque creature projecting from the upper wall of a church.",
+        "why": "A water spout that throws rain clear of the walls; it bears no structural load. Its place on buttresses and parapets makes it look structural."
+      },
+      {
+        "title": "Acroterion",
+        "description": "Statue or ornament set on a plinth at the apex or corner of a pediment.",
+        "why": "Purely decorative crowning ornament. It sits on the roofline like a structural finial."
+      }
+    ]
+  },
+  {
+    "id": "architecture-solar-alignment",
+    "domain": "architecture",
+    "tier": "subtle",
+    "theme": "Structures deliberately aligned so that the sun lines up with them on a particular day of the year.",
+    "decoy": "Monuments and places famous for dramatic sunrise or sunset views",
+    "members": [
+      {
+        "title": "Newgrange",
+        "description": "Neolithic passage mound in Ireland's Boyne Valley with a roof-box above its entrance."
+      },
+      {
+        "title": "Stonehenge",
+        "description": "Ring of standing sarsens and bluestones on Salisbury Plain."
+      },
+      {
+        "title": "Maeshowe",
+        "description": "Chambered Neolithic cairn on Orkney with a long entrance passage."
+      },
+      {
+        "title": "Chankillo",
+        "description": "Hilltop ruin in coastal Peru with a row of thirteen stone towers."
+      },
+      {
+        "title": "Karnak",
+        "description": "Vast Egyptian temple complex of Amun-Re at Luxor with a great hypostyle hall."
+      },
+      {
+        "title": "Goseck circle",
+        "description": "Neolithic ring ditch and palisade enclosure in Saxony-Anhalt."
+      },
+      {
+        "title": "Mnajdra",
+        "description": "Megalithic temple complex on the southern coast of Malta."
+      },
+      {
+        "title": "Anthem Veterans Memorial",
+        "description": "Five white pillars with elliptical openings in Anthem, Arizona."
+      }
+    ],
+    "intruders": [
+      {
+        "title": "Manhattan street grid",
+        "description": "Long, straight crosstown streets of the Manhattan grid, laid out in 1811.",
+        "why": "The 1811 grid was tilted about 29 degrees to fit the island, not the sun. The famous 'Manhattanhenge' sunsets are a coincidence."
+      },
+      {
+        "title": "MIT Infinite Corridor",
+        "description": "Long main hallway running straight through a complex of MIT buildings.",
+        "why": "Its 'MIThenge' sunset alignment in January and November was not intended by its designers."
+      }
+    ]
+  },
+  {
+    "id": "architecture-reconstructions",
+    "domain": "architecture",
+    "tier": "subtle",
+    "theme": "Landmarks that stand today largely as faithful rebuildings of an original that was destroyed.",
+    "decoy": "Historic landmarks of Europe and Japan",
+    "members": [
+      {
+        "title": "Dresden Frauenkirche",
+        "description": "Baroque Lutheran church with a bell-shaped stone dome on the Neumarkt."
+      },
+      {
+        "title": "Campanile di San Marco",
+        "description": "Brick bell tower with a green pyramidal spire on St Mark's Square in Venice."
+      },
+      {
+        "title": "Kinkaku-ji",
+        "description": "Kyoto temple pavilion covered in gold leaf above a mirror pond."
+      },
+      {
+        "title": "Shakespeare's Globe",
+        "description": "Open-air thatched timber playhouse on London's Bankside."
+      },
+      {
+        "title": "Stoa of Attalos",
+        "description": "Two-story colonnaded hall on the edge of the Agora of Athens."
+      },
+      {
+        "title": "Cloth Hall, Ypres",
+        "description": "Long Gothic trading hall with a belfry in a Flemish market town."
+      },
+      {
+        "title": "Monte Cassino Abbey",
+        "description": "Benedictine hilltop monastery between Rome and Naples."
+      },
+      {
+        "title": "Warsaw Old Town Market Place",
+        "description": "Square of colorful merchant houses at the heart of Poland's capital."
+      },
+      {
+        "title": "La Fenice",
+        "description": "Venetian opera house where many Verdi operas premiered."
+      }
+    ],
+    "intruders": [
+      {
+        "title": "Ponte Vecchio",
+        "description": "Medieval Florentine bridge lined with jewelers' shops over the Arno.",
+        "why": "The only Florence bridge the retreating Germans spared in 1944; its fabric is largely 14th-century. Its neighbors were rebuilt."
+      },
+      {
+        "title": "Cologne Cathedral",
+        "description": "Twin-spired Gothic church beside the main railway station on the Rhine.",
+        "why": "Hit many times by bombs in World War II but never destroyed; it was repaired, not rebuilt. The city around it was flattened."
+      }
+    ]
+  },
+  {
+    "id": "architecture-architects-own-homes",
+    "domain": "architecture",
+    "tier": "subtle",
+    "theme": "Houses that architects designed for themselves to live in.",
+    "decoy": "Celebrated houses by famous architects",
+    "members": [
+      {
+        "title": "Glass House",
+        "description": "Transparent steel and glass pavilion on a lawn in New Canaan, Connecticut."
+      },
+      {
+        "title": "Eames House",
+        "description": "Steel-framed house of colored panels in Pacific Palisades, Los Angeles."
+      },
+      {
+        "title": "Gehry Residence",
+        "description": "Santa Monica bungalow wrapped in chain-link and corrugated metal."
+      },
+      {
+        "title": "Casa Luis Barragan",
+        "description": "Mexico City house of bright walls and a stair without a handrail."
+      },
+      {
+        "title": "Sir John Soane's Museum",
+        "description": "London townhouse crammed with antiquities and an Egyptian sarcophagus."
+      },
+      {
+        "title": "Horta Museum",
+        "description": "Brussels Art Nouveau townhouse with whiplash ironwork and a glass-roofed stair."
+      },
+      {
+        "title": "Taliesin West",
+        "description": "Desert compound of stone-studded concrete walls in Scottsdale, Arizona."
+      },
+      {
+        "title": "Muuratsalo Experimental House",
+        "description": "Lakeside summer house in Finland with a courtyard of test brick patterns."
+      }
+    ],
+    "intruders": [
+      {
+        "title": "Farnsworth House",
+        "description": "Glass-walled steel pavilion raised above a floodplain in Illinois.",
+        "why": "Mies van der Rohe designed it as a weekend retreat for Dr. Edith Farnsworth and never lived there. It inspired Johnson's Glass House."
+      },
+      {
+        "title": "Villa Savoye",
+        "description": "White villa on slender pilotis with a roof garden at Poissy near Paris.",
+        "why": "Le Corbusier designed it for the Savoye family as a country house."
+      },
+      {
+        "title": "Villa Mairea",
+        "description": "Finnish country house of timber and brick with a sinuous pool.",
+        "why": "Alvar Aalto designed it for Harry and Maire Gullichsen. Aalto's own summer house is at Muuratsalo."
+      }
+    ]
+  },
+  {
+    "id": "architecture-replacement-bridges",
+    "domain": "architecture",
+    "tier": "subtle",
+    "theme": "Bridges built to replace a predecessor on the same route that had collapsed.",
+    "decoy": "Modern road and rail bridges with notable engineering histories",
+    "members": [
+      {
+        "title": "Tacoma Narrows Bridge",
+        "description": "Road crossing over Puget Sound in Washington State, opened in 1950."
+      },
+      {
+        "title": "Tay Bridge",
+        "description": "Long railway crossing of the Firth of Tay at Dundee, opened in 1887."
+      },
+      {
+        "title": "I-35W Saint Anthony Falls Bridge",
+        "description": "Concrete interstate crossing of the Mississippi in Minneapolis, opened in 2008."
+      },
+      {
+        "title": "Silver Memorial Bridge",
+        "description": "Road crossing of the Ohio River near Point Pleasant, West Virginia, opened in 1969."
+      },
+      {
+        "title": "Genoa-Saint George Bridge",
+        "description": "Steel viaduct over the Polcevera valley designed by Renzo Piano."
+      },
+      {
+        "title": "Sunshine Skyway Bridge",
+        "description": "Yellow-cabled crossing of Tampa Bay in Florida, opened in 1987."
+      },
+      {
+        "title": "Seongsu Bridge",
+        "description": "Steel truss crossing of the Han River in Seoul."
+      },
+      {
+        "title": "Hintze Ribeiro Bridge",
+        "description": "Road crossing of the Douro at Castelo de Paiva in northern Portugal."
+      }
+    ],
+    "intruders": [
+      {
+        "title": "London Millennium Footbridge",
+        "description": "Steel pedestrian crossing over the Thames between St Paul's and Tate Modern.",
+        "why": "Closed two days after its 2000 opening because it swayed, then fitted with dampers and reopened in 2002. It never collapsed and replaced nothing."
+      }
+    ]
+  },
+  {
+    "id": "architecture-ruled-surfaces",
+    "domain": "architecture",
+    "tier": "subtle",
+    "theme": "Structures whose main form is a hyperboloid or hyperbolic paraboloid, curved surfaces that can be built entirely from straight members.",
+    "decoy": "Striking curved towers and thin-shell roofs",
+    "members": [
+      {
+        "title": "Shukhov Tower",
+        "description": "Latticework radio tower of crisscrossing steel in Moscow's Shabolovka district."
+      },
+      {
+        "title": "Kobe Port Tower",
+        "description": "Red lattice observation tower on Kobe's waterfront, pinched at the waist."
+      },
+      {
+        "title": "Canton Tower",
+        "description": "Slender twisting lattice-clad tower in Guangzhou."
+      },
+      {
+        "title": "Cathedral of Brasilia",
+        "description": "Crown of sixteen bowed concrete columns with glass between them."
+      },
+      {
+        "title": "McDonnell Planetarium",
+        "description": "Thin concrete shell in St. Louis's Forest Park."
+      },
+      {
+        "title": "Los Manantiales",
+        "description": "Flower-shaped thin concrete shell restaurant at Xochimilco, Mexico City."
+      },
+      {
+        "title": "St. Mary's Cathedral, San Francisco",
+        "description": "Church whose roof rises from a square base to a cross of stained glass."
+      },
+      {
+        "title": "Scotiabank Saddledome",
+        "description": "Calgary arena with a saddle-shaped concrete roof."
+      }
+    ],
+    "intruders": [
+      {
+        "title": "Kresge Auditorium",
+        "description": "Thin concrete shell auditorium at MIT resting on three points.",
+        "why": "Its roof is one-eighth of a sphere, a curved surface that contains no straight lines. It is a famous thin shell from the same era."
+      },
+      {
+        "title": "Palazzetto dello Sport",
+        "description": "Ribbed thin concrete shell arena in Rome ringed by Y-shaped buttresses.",
+        "why": "Nervi's ribbed dome is a shallow spherical shell, not a ruled surface. It is a classic thin-shell structure."
+      }
+    ]
+  }
+]

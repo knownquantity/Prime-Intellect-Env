@@ -1,0 +1,616 @@
+[
+  {
+    "id": "games-trick-taking",
+    "domain": "games",
+    "tier": "obvious",
+    "theme": "Trick-taking card games, built around tricks won by the highest-ranking card or trump.",
+    "decoy": "Traditional adult card-table pastimes",
+    "members": [
+      {"title": "Contract bridge", "description": "Fixed partnerships bid for a contract, then one hand is laid face up."},
+      {"title": "Whist", "description": "Georgian English partnership pastime with thirteen rounds and no bidding."},
+      {"title": "Euchre", "description": "Partners use a short deck topped by the two jacks of the same color."},
+      {"title": "Pinochle", "description": "A doubled deck of nines through aces, scoring melds and captured counters."},
+      {"title": "Skat", "description": "German three-hand pastime where a lone declarer takes on the other two."},
+      {"title": "Belote", "description": "French partnership favorite with a stripped deck of thirty-two."},
+      {"title": "Oh Hell", "description": "Hand sizes rise or fall each deal, and bids must be hit exactly."},
+      {"title": "Five Hundred", "description": "Australian favorite with a joker and a bidding table topping out at ten."},
+      {"title": "Sheepshead", "description": "Wisconsin favorite in which every queen and jack outranks the aces."},
+      {"title": "Jass", "description": "Swiss national pastime with a thirty-six-strong deck of acorns and bells."}
+    ],
+    "intruders": [
+      {"title": "Cribbage", "description": "Two rivals race pegs along a drilled wooden board toward 121.", "why": "No tricks are ever taken: the play phase is a running count to 31 and hands are scored for combinations. It belongs to the same traditional card-table world."},
+      {"title": "Gin rummy", "description": "Two opponents draw and discard to form sets and runs, then knock.", "why": "A draw-and-discard melding game; nothing is won round by round with a highest card. A classic two-hand pastime like Skat or Cribbage."},
+      {"title": "Canasta", "description": "Partners build big melds of seven from a double deck with jokers.", "why": "A rummy-family melding game with no tricks, though it is played in partnerships like Bridge."}
+    ]
+  },
+  {
+    "id": "games-net-sports",
+    "domain": "games",
+    "tier": "obvious",
+    "theme": "Net sports: a net divides the two sides, so opponents never share the same playing area.",
+    "decoy": "Racket, paddle, and volleying sports",
+    "members": [
+      {"title": "Tennis", "description": "Strung rackets, a fuzzy yellow sphere, and scoring in love, fifteen, and deuce."},
+      {"title": "Badminton", "description": "A feathered shuttlecock struck with light rackets, often from above head height."},
+      {"title": "Table tennis", "description": "A tiny celluloid sphere and rubber-faced paddles on a green or blue table."},
+      {"title": "Sepak takraw", "description": "Southeast Asian contest of kicking a rattan sphere with acrobatic scissor kicks."},
+      {"title": "Padel", "description": "Solid perforated paddles, glass walls, and underhand serves, usually in pairs."},
+      {"title": "Footvolley", "description": "Brazilian beach pastime of volleying with only feet, chest, and head."},
+      {"title": "Beach volleyball", "description": "Pairs dig, set, and spike barefoot on sand."},
+      {"title": "Pickleball", "description": "Perforated plastic sphere, solid paddles, and a no-volley kitchen zone."},
+      {"title": "Teqball", "description": "Hungarian invention that brings soccer touches to a curved table."}
+    ],
+    "intruders": [
+      {"title": "Squash", "description": "Strung rackets and a small rubber sphere that must be warmed up to bounce.", "why": "Both players share one enclosed court and hit against the front wall; there is no net. It shares rackets and scoring rallies with tennis and badminton."},
+      {"title": "Racquetball", "description": "Short strung rackets and a hollow rubber sphere rebounding off every surface.", "why": "Played in a shared four-wall court with no net, though it looks like a cousin of tennis and squash."},
+      {"title": "Jai alai", "description": "Curved wicker baskets hurl a hard sphere at blistering speed.", "why": "Opponents share the same fronton floor and play off the front wall; nothing divides them."}
+    ]
+  },
+  {
+    "id": "games-fully-cooperative",
+    "domain": "games",
+    "tier": "obvious",
+    "theme": "Fully cooperative board games in which all players win or lose together against the game itself.",
+    "decoy": "Modern thematic tabletop games for a group",
+    "members": [
+      {"title": "Pandemic", "description": "Specialists race between cities to cure four spreading diseases."},
+      {"title": "Forbidden Island", "description": "Adventurers grab four treasures before a sinking island floods."},
+      {"title": "Hanabi", "description": "Build a fireworks display in order while seeing every hand except your own."},
+      {"title": "The Mind", "description": "Lay numbered cards in ascending order with no talking allowed."},
+      {"title": "Spirit Island", "description": "Island spirits drive off colonizing invaders with growing elemental powers."},
+      {"title": "Gloomhaven", "description": "A mercenary band tackles a branching campaign of tactical dungeon scenarios."},
+      {"title": "Flash Point: Fire Rescue", "description": "Firefighters pull victims from a burning building before it collapses."},
+      {"title": "Mysterium", "description": "A ghost sends dreamlike picture clues to a team of psychic investigators."},
+      {"title": "Horrified", "description": "Villagers face classic movie monsters such as Dracula and the Mummy."},
+      {"title": "Arkham Horror", "description": "Investigators in a Lovecraftian town seal gates before an Ancient One wakes."}
+    ],
+    "intruders": [
+      {"title": "Dead of Winter", "description": "Survivors in a snowbound colony scavenge and weather crises during a zombie winter.", "why": "Each player has a secret personal objective and one may be a hidden betrayer, so the group does not simply win or lose together. It is marketed alongside co-op games."},
+      {"title": "Betrayal at House on the Hill", "description": "Explorers reveal the rooms of a haunted mansion tile by tile.", "why": "Partway through, the haunt usually turns one player into a traitor who plays against the rest. It opens as a co-op exploration game."}
+    ]
+  },
+  {
+    "id": "games-prolate-ball",
+    "domain": "games",
+    "tier": "obvious",
+    "theme": "Sports played with an oval, prolate-spheroid ball.",
+    "decoy": "Football and rugby codes",
+    "members": [
+      {"title": "American football", "description": "Eleven-a-side downs, forward passes, and touchdowns on a 100-yard field."},
+      {"title": "Canadian football", "description": "Twelve-a-side, three downs, and a 110-yard field with deep end zones."},
+      {"title": "Arena football", "description": "Indoor eight-a-side version on a 50-yard field with rebound nets."},
+      {"title": "Flag football", "description": "Non-contact version where pulling a strip from the carrier's belt ends the down."},
+      {"title": "Australian rules football", "description": "Eighteen-a-side on a huge cricket ground, with four posts at each end."},
+      {"title": "Rugby union", "description": "Fifteen-a-side with scrums, lineouts, and passing only backward."},
+      {"title": "Rugby league", "description": "Thirteen-a-side with six tackles per set before possession changes hands."},
+      {"title": "Rugby sevens", "description": "Fast seven-a-side version with short halves on a full-size pitch."},
+      {"title": "Touch rugby", "description": "Non-contact version in which a two-handed touch replaces the tackle."}
+    ],
+    "intruders": [
+      {"title": "Gaelic football", "description": "Irish fifteen-a-side code mixing kicking, hand-passing, and H-shaped goals.", "why": "Played with a round ball similar to a soccer ball. It shares its name and many traits with Australian rules and the other football codes."},
+      {"title": "Wheelchair rugby", "description": "Four-a-side full-contact code in reinforced chairs on a basketball court.", "why": "Played with a round ball developed from a volleyball, despite the rugby name."}
+    ]
+  },
+  {
+    "id": "games-shedding-card-games",
+    "domain": "games",
+    "tier": "obvious",
+    "theme": "Shedding card games: the aim is to be the first to get rid of all your cards.",
+    "decoy": "Popular family and folk card games",
+    "members": [
+      {"title": "President", "description": "Finishing order sets a social hierarchy, and ranks swap hands next deal."},
+      {"title": "Mau-Mau", "description": "Central European pastime of matching suit or rank on the discard pile."},
+      {"title": "Big Two", "description": "Cantonese climbing pastime where twos rank highest and poker combinations compete."},
+      {"title": "Durak", "description": "Russian pastime where attackers lead and a defender must beat each lead."},
+      {"title": "Speed", "description": "Two opponents slap down onto central piles simultaneously, with no turns at all."},
+      {"title": "Cheat", "description": "Discards go face down with a claimed rank, and anyone may challenge a lie."},
+      {"title": "Dou dizhu", "description": "Chinese three-hand pastime in which two peasants team up against a landlord."},
+      {"title": "Tien len", "description": "Vietnamese climbing pastime where the lowest three opens the deal."}
+    ],
+    "intruders": [
+      {"title": "War", "description": "Two halves of a deck are flipped against each other, the higher rank taking both.", "why": "The aim is to capture the whole deck, the opposite of emptying your hand. A classic family pastime like the rest."},
+      {"title": "Beggar-my-neighbour", "description": "Turned-over court ranks demand a tribute of several from the opponent's pile.", "why": "The goal is to win every card, not to shed them. A traditional folk pastime of the same register."}
+    ]
+  },
+  {
+    "id": "games-judged-sports",
+    "domain": "games",
+    "tier": "obvious",
+    "theme": "Sports decided by judges' scores for execution and artistry, not by time, distance, height, or goals.",
+    "decoy": "Acrobatic and spectacular Olympic events",
+    "members": [
+      {"title": "Figure skating", "description": "Jumps, spins, and footwork performed on blades to music."},
+      {"title": "Artistic gymnastics", "description": "Vault, bars, beam, and floor routines of flips and holds."},
+      {"title": "Diving", "description": "Somersaults and twists from springboard or platform into a pool."},
+      {"title": "Aerial skiing", "description": "Skiers launch off steep kickers into multiple flips and twists."},
+      {"title": "Snowboard halfpipe", "description": "Riders link big spins and grabs above the lip of a U-shaped channel."},
+      {"title": "Artistic swimming", "description": "Synchronized routines of lifts and leg patterns performed in a pool."},
+      {"title": "Dressage", "description": "Horse and rider perform precise movements such as piaffe and passage."},
+      {"title": "Surfing", "description": "Riders carve turns and hit the lip on breaking ocean waves."},
+      {"title": "Breaking", "description": "B-boys and b-girls battle with power moves and freezes to a DJ's beats."}
+    ],
+    "intruders": [
+      {"title": "Slalom", "description": "Skiers carve down a steep course through tightly set gates.", "why": "Decided by the clock alone. It sits beside judged freestyle events on the winter program."},
+      {"title": "Pole vault", "description": "Athletes sprint and bend a fiberglass pole to fly over a high bar.", "why": "Decided by the height cleared, not by judges, though it looks as acrobatic as gymnastics."}
+    ]
+  },
+  {
+    "id": "games-first-person-view",
+    "domain": "games",
+    "tier": "obvious",
+    "theme": "Video games presented from a first-person perspective, with the camera at the protagonist's eyes.",
+    "decoy": "Landmark 3D action and shooter games",
+    "members": [
+      {"title": "Half-Life", "description": "A theoretical physicist fights through a research facility after an experiment fails."},
+      {"title": "Portal", "description": "A test subject solves chambers with a device that links two surfaces."},
+      {"title": "BioShock", "description": "An underwater Art Deco city collapses into chaos after a genetic boom."},
+      {"title": "Mirror's Edge", "description": "A courier sprints and vaults across the rooftops of a sterile city."},
+      {"title": "Metroid Prime", "description": "A bounty hunter scans alien ruins on the planet Tallon IV."},
+      {"title": "Quake", "description": "Fast shooter of gothic dungeons, lightning guns, and rocket jumps."},
+      {"title": "Deus Ex", "description": "An augmented agent uncovers a global conspiracy in a near-future world."},
+      {"title": "System Shock", "description": "A hacker battles a rogue station AI named SHODAN."},
+      {"title": "Far Cry", "description": "A former special forces soldier battles mercenaries across a tropical archipelago."},
+      {"title": "Superhot", "description": "Enemies advance only when you do, in a stark red-and-white world."}
+    ],
+    "intruders": [
+      {"title": "Gears of War", "description": "Chainsaw-bayonet shooter where soldiers hold off a subterranean horde.", "why": "Uses a third-person, over-the-shoulder camera. It is a landmark shooter of the same era as Halo and Far Cry."},
+      {"title": "Max Payne", "description": "A grieving undercover agent uses slow-motion gunplay against a New York drug ring.", "why": "Played in third person from behind the character, despite being a genre-defining shooter."}
+    ]
+  },
+  {
+    "id": "games-sega-hardware",
+    "domain": "games",
+    "tier": "obvious",
+    "theme": "Consoles and handhelds manufactured by Sega.",
+    "decoy": "Game hardware of the 1980s and 1990s",
+    "members": [
+      {"title": "Master System", "description": "8-bit system of the mid-1980s, long-lived and hugely popular in Brazil."},
+      {"title": "Mega Drive", "description": "16-bit system sold on blast-processing ads and fast platformers."},
+      {"title": "Saturn", "description": "32-bit system with twin CPUs, launched in Japan in 1994."},
+      {"title": "Dreamcast", "description": "Late-1990s system with a built-in modem and a memory unit with a screen."},
+      {"title": "Game Gear", "description": "Portable color system with a backlit screen, launched in 1990."},
+      {"title": "SG-1000", "description": "Early system released in Japan on the same day as the Famicom."},
+      {"title": "32X", "description": "Mushroom-shaped add-on that slotted into the top of a 16-bit system."},
+      {"title": "Nomad", "description": "Portable version of a 16-bit system that ran its full library on the go."}
+    ],
+    "intruders": [
+      {"title": "TurboGrafx-16", "description": "Compact system with credit-card-sized game cards, called PC Engine in Japan.", "why": "Made by NEC with Hudson Soft. It was a direct rival of the Mega Drive in the same era."},
+      {"title": "Neo Geo", "description": "Arcade-grade system with huge, expensive cartridges, sold in the early 1990s.", "why": "Made by SNK. It shared the 16-bit era and arcade reputation of the Mega Drive."}
+    ]
+  },
+  {
+    "id": "games-on-ice",
+    "domain": "games",
+    "tier": "obvious",
+    "theme": "Winter competitions contested on ice rather than on snow.",
+    "decoy": "Winter Olympic and cold-weather sports",
+    "members": [
+      {"title": "Curling", "description": "Teams slide polished granite stones toward a target while sweeping ahead."},
+      {"title": "Bobsleigh", "description": "Crews of two or four push off and ride a steel-runnered sled down a banked track."},
+      {"title": "Luge", "description": "A slider lies feet-first on a small sled down a twisting chute."},
+      {"title": "Skeleton", "description": "A slider races headfirst and face-down on a small sled."},
+      {"title": "Bandy", "description": "Eleven-a-side stick sport with a small orange ball on a soccer-sized field."},
+      {"title": "Ringette", "description": "Canadian team sport using straight sticks to pass a rubber ring."},
+      {"title": "Broomball", "description": "Players in rubber-soled shoes swat a ball with broom-shaped sticks."},
+      {"title": "Speed skating", "description": "Racers in skinsuits circle a 400-meter oval in pairs."}
+    ],
+    "intruders": [
+      {"title": "Biathlon", "description": "Racers carry rifles and alternate skiing loops with target shooting.", "why": "Held on groomed snow trails. It shares the winter Olympic program with the rink and track events."},
+      {"title": "Snowboard cross", "description": "Riders race four to six abreast over jumps and banked turns.", "why": "Raced on a snow course, though it looks like the sliding and racing events."},
+      {"title": "Cross-country skiing", "description": "Racers glide over long trails using classic or skating technique.", "why": "Held on snow trails; its 'skating' technique is a ski stride, not skating on a rink."}
+    ]
+  },
+  {
+    "id": "games-japanese-logic-puzzles",
+    "domain": "games",
+    "tier": "moderate",
+    "theme": "Pencil-and-paper logic puzzles invented in Japan.",
+    "decoy": "Grid-based pencil puzzles with Japanese-style names or Nikoli popularity",
+    "members": [
+      {"title": "Nonogram", "description": "Row and column number clues reveal a hidden pixel picture."},
+      {"title": "Slitherlink", "description": "Draw one closed loop so each number counts its surrounding edges."},
+      {"title": "Nurikabe", "description": "Shade cells to form a connected stream around numbered islands."},
+      {"title": "Hashiwokakero", "description": "Connect numbered islands with straight bridges, at most two between any pair."},
+      {"title": "Heyawake", "description": "Shade cells in walled rooms; no unshaded line may span three rooms."},
+      {"title": "Masyu", "description": "Draw a loop through black and white circles, turning or going straight on each."},
+      {"title": "Shikaku", "description": "Divide the grid into rectangles, each holding one number equal to its area."},
+      {"title": "Hitori", "description": "Shade repeated numbers so no row or column keeps a duplicate."},
+      {"title": "KenKen", "description": "Fill a Latin square so caged groups hit targets via arithmetic."}
+    ],
+    "intruders": [
+      {"title": "Sudoku", "description": "Fill a nine-by-nine grid so every row, column, and box holds one to nine.", "why": "Devised by American Howard Garns as 'Number Place' for Dell Magazines in 1979; Nikoli later named and popularized it in Japan."},
+      {"title": "Kakuro", "description": "Fill white cells so each run sums to its clue, with no repeated digits.", "why": "Began as 'Cross Sums' in Dell puzzle magazines in North America in the mid-20th century; the Japanese name came later through Nikoli."}
+    ]
+  },
+  {
+    "id": "games-knizia-designs",
+    "domain": "games",
+    "tier": "moderate",
+    "theme": "Board and card games designed by Reiner Knizia.",
+    "decoy": "Acclaimed German-style auction and tile games of the 1990s and 2000s",
+    "members": [
+      {"title": "Tigris & Euphrates", "description": "Build civilizations in ancient Mesopotamia, scored by your weakest color."},
+      {"title": "Lost Cities", "description": "Two rivals fund expeditions, risking losses on underfunded routes."},
+      {"title": "Ra", "description": "Bid sun tiles for Egyptian treasures across three epochs."},
+      {"title": "Modern Art", "description": "Gallery owners auction paintings under five different auction styles."},
+      {"title": "Samurai", "description": "Place tiles to capture Buddhas, rice fields, and helmets in feudal Japan."},
+      {"title": "Ingenious", "description": "Lay two-hex tiles to raise colored tracks, where your weakest color counts."},
+      {"title": "Battle Line", "description": "Win flags by forming poker-like troop formations along a line."},
+      {"title": "High Society", "description": "Bid for luxuries, but whoever ends with the least money is out."},
+      {"title": "Through the Desert", "description": "Lead camel caravans across a hexagonal desert toward oases."},
+      {"title": "Medici", "description": "Renaissance merchants fill ships with goods through a series of auctions."}
+    ],
+    "intruders": [
+      {"title": "El Grande", "description": "Nobles vie for control of the regions of medieval Spain.", "why": "Designed by Wolfgang Kramer and Richard Ulrich. It is a German-style classic of the same mid-1990s era."},
+      {"title": "For Sale", "description": "Bid on properties, then sell them for checks in a quick second phase.", "why": "Designed by Stefan Dorra. Its short double-auction structure feels very Knizia."},
+      {"title": "Acquire", "description": "Found and merge hotel chains while trading stock in them.", "why": "Designed by Sid Sackson in 1964; a tile-laying investment classic often grouped with Knizia's work."}
+    ]
+  },
+  {
+    "id": "games-rare-developed",
+    "domain": "games",
+    "tier": "moderate",
+    "theme": "Video games developed by the British studio Rare.",
+    "decoy": "Nintendo-era and Xbox-era console hits",
+    "members": [
+      {"title": "GoldenEye 007", "description": "Split-screen spy shooter based on a Pierce Brosnan film."},
+      {"title": "Banjo-Kazooie", "description": "A bear and a bird collect jigsaw pieces across a witch's worlds."},
+      {"title": "Perfect Dark", "description": "Agent Joanna Dark battles a corporate and alien conspiracy."},
+      {"title": "Donkey Kong Country", "description": "Pre-rendered platformer with an ape and his young sidekick."},
+      {"title": "Conker's Bad Fur Day", "description": "A foul-mouthed red squirrel stumbles through adult-humor parodies."},
+      {"title": "Jet Force Gemini", "description": "Twin space heroes and a dog fight an insect army."},
+      {"title": "Battletoads", "description": "Brutally hard brawler starring three amphibian heroes."},
+      {"title": "Viva Pinata", "description": "Tend a garden to attract and breed papercraft animals."},
+      {"title": "Blast Corps", "description": "Demolish buildings in the path of a runaway nuclear carrier."},
+      {"title": "Sea of Thieves", "description": "Pirate crews sail a shared ocean hunting treasure."}
+    ],
+    "intruders": [
+      {"title": "Donkey Kong Country Returns", "description": "Revival of a classic ape platformer with two-player co-op.", "why": "Developed by Retro Studios, not Rare. It revives the Rare-made Donkey Kong Country series."},
+      {"title": "Star Fox 64", "description": "Arwing pilots fly on-rails missions with rumble support.", "why": "Developed in-house by Nintendo EAD. It is an N64 contemporary of Rare's biggest hits."}
+    ]
+  },
+  {
+    "id": "games-us-invented-sports",
+    "domain": "games",
+    "tier": "moderate",
+    "theme": "Sports invented in the United States.",
+    "decoy": "Popular modern sports with well-documented origins",
+    "members": [
+      {"title": "Basketball", "description": "Five-a-side teams shoot through a raised hoop with a backboard."},
+      {"title": "Volleyball", "description": "Six-a-side teams volley over a high net, with three touches allowed."},
+      {"title": "Softball", "description": "Bat-and-ball game with a larger ball pitched underhand."},
+      {"title": "Ultimate", "description": "Seven-a-side flying-disc game with self-refereeing and end zones."},
+      {"title": "Snowboarding", "description": "Riders stand sideways on a single board down a slope."},
+      {"title": "Skateboarding", "description": "Riders perform ollies and kickflips on a wheeled deck."},
+      {"title": "Paintball", "description": "Teams tag each other with dye-filled capsules from compressed-air markers."},
+      {"title": "Wiffle ball", "description": "Backyard variant with a perforated plastic ball that curves wildly."},
+      {"title": "Kickball", "description": "Schoolyard game where a rubber ball is rolled to kickers who run bases."}
+    ],
+    "intruders": [
+      {"title": "Netball", "description": "Seven-a-side game of passing to shoot into a raised ring, without dribbling.", "why": "Developed in England in the 1890s from early basketball rules, so it looks like an American offshoot."},
+      {"title": "Ice hockey", "description": "Six-a-side teams on skates use sticks to drive a puck into a net.", "why": "Its organized form comes from Montreal, Canada, where the first recorded indoor game was played in 1875."}
+    ]
+  },
+  {
+    "id": "games-cartridge-based",
+    "domain": "games",
+    "tier": "moderate",
+    "theme": "Hardware whose software shipped only on cartridges or plug-in cards, never on optical discs.",
+    "decoy": "Nintendo-era home and portable game hardware",
+    "members": [
+      {"title": "Nintendo Entertainment System", "description": "Gray 8-bit box with a front-loading slot, launched in America in 1985."},
+      {"title": "Super Nintendo", "description": "16-bit successor with Mode 7 scaling and a four-button face pad."},
+      {"title": "Nintendo 64", "description": "Three-pronged controller with an analog stick, launched in 1996."},
+      {"title": "Game Boy", "description": "Monochrome portable with a greenish screen and a falling-block bundle."},
+      {"title": "Game Boy Advance", "description": "Widescreen 32-bit portable released in 2001."},
+      {"title": "Nintendo DS", "description": "Dual-screen portable with a stylus-driven touchscreen."},
+      {"title": "Atari 2600", "description": "Woodgrain-front 1977 machine with a one-button joystick."},
+      {"title": "Atari Lynx", "description": "Wide 1989 portable with a color backlit screen, flippable for lefties."},
+      {"title": "Intellivision", "description": "Mattel's 1979 rival with a numeric keypad and overlay sheets."},
+      {"title": "ColecoVision", "description": "1982 machine that brought near-arcade graphics into living rooms."}
+    ],
+    "intruders": [
+      {"title": "Nintendo GameCube", "description": "Compact cube-shaped 2001 machine with a carrying handle.", "why": "Used 8 cm optical mini-discs, Nintendo's first disc-based home system. It sits between the cartridge-based N64 and the Wii."},
+      {"title": "PlayStation Portable", "description": "Widescreen 2004 portable with strong 3D graphics and media playback.", "why": "Its games came on UMD optical discs. It looks like a portable peer of the DS and Game Boy Advance."}
+    ]
+  },
+  {
+    "id": "games-arcade-debuts",
+    "domain": "games",
+    "tier": "moderate",
+    "theme": "Video games that first appeared as coin-operated arcade machines.",
+    "decoy": "Iconic 1970s to 1990s video games",
+    "members": [
+      {"title": "Pac-Man", "description": "A yellow circle eats dots in a maze while four ghosts give chase."},
+      {"title": "Galaga", "description": "A fighter ship shoots swooping insect-like aliens that can capture it."},
+      {"title": "Street Fighter II", "description": "One-on-one fighters from around the world, including Ryu and Chun-Li."},
+      {"title": "Mortal Kombat", "description": "Digitized fighters trade blows and perform infamous finishing moves."},
+      {"title": "Space Invaders", "description": "Rows of descending aliens are shot from a cannon behind shields."},
+      {"title": "Asteroids", "description": "A triangular ship blasts drifting space rocks into smaller pieces."},
+      {"title": "Frogger", "description": "Guide a frog across a busy road and a river of floating logs."},
+      {"title": "Dig Dug", "description": "A driller pumps up underground monsters until they burst."},
+      {"title": "Centipede", "description": "A shooter picks off a segmented bug winding down through mushrooms."},
+      {"title": "Q*bert", "description": "A long-nosed hopper changes the colors of cubes on a pyramid."},
+      {"title": "Defender", "description": "A ship protects humanoids from abductors over a scrolling planet."}
+    ],
+    "intruders": [
+      {"title": "Tetris", "description": "Falling four-square pieces must be fitted into complete rows.", "why": "Created by Alexey Pajitnov on an Elektronika 60 computer in 1984; arcade versions came later."},
+      {"title": "Super Mario Bros.", "description": "A plumber runs and jumps through the Mushroom Kingdom to rescue a princess.", "why": "Debuted on the Famicom in 1985; the arcade Vs. Super Mario Bros. followed in 1986."}
+    ]
+  },
+  {
+    "id": "games-spiel-des-jahres",
+    "domain": "games",
+    "tier": "moderate",
+    "theme": "Winners of the Spiel des Jahres, Germany's main game-of-the-year award.",
+    "decoy": "Acclaimed modern family board games",
+    "members": [
+      {"title": "Catan", "description": "Settlers trade brick, wool, and ore to build roads on a hex island."},
+      {"title": "Carcassonne", "description": "Lay tiles to grow a medieval landscape and claim it with meeples."},
+      {"title": "Ticket to Ride", "description": "Collect colored train sets to claim rail routes across a map."},
+      {"title": "Dixit", "description": "Surreal illustrated cards are matched to a storyteller's hint."},
+      {"title": "Codenames", "description": "Two spymasters give one-word clues to find their agents in a grid."},
+      {"title": "Kingdomino", "description": "Draft domino-style tiles to build a five-by-five kingdom."},
+      {"title": "Azul", "description": "Draft colored tiles to decorate a palace wall in Portugal."},
+      {"title": "Dominion", "description": "Buy cards to improve a personal deck that is reshuffled as you go."},
+      {"title": "Camel Up", "description": "Bet on a chaotic camel race where runners stack on each other."},
+      {"title": "Cascadia", "description": "Draft habitat tiles and wildlife tokens of the Pacific Northwest."},
+      {"title": "Qwirkle", "description": "Match wooden blocks by color or shape in lines of up to six."}
+    ],
+    "intruders": [
+      {"title": "7 Wonders", "description": "Draft cards over three ages to build an ancient civilization.", "why": "Won the 2011 Kennerspiel des Jahres, the separate connoisseur prize, not the main Spiel des Jahres."},
+      {"title": "Wingspan", "description": "Attract birds to wildlife preserves with an engine of food and eggs.", "why": "Won the 2019 Kennerspiel des Jahres, not the main Spiel des Jahres."},
+      {"title": "Splendor", "description": "Collect gem tokens to buy mines, merchants, and noble patrons.", "why": "Nominated for the 2014 Spiel des Jahres but lost to Camel Up."}
+    ]
+  },
+  {
+    "id": "games-king-pawn-openings",
+    "domain": "games",
+    "tier": "moderate",
+    "theme": "Chess openings that begin with 1.e4.",
+    "decoy": "Named chess openings and defences",
+    "members": [
+      {"title": "Sicilian Defence", "description": "Black answers with an asymmetrical flank pawn thrust, seeking sharp imbalance."},
+      {"title": "French Defence", "description": "Black builds a solid pawn chain but often struggles with a hemmed-in bishop."},
+      {"title": "Caro-Kann Defence", "description": "Black prepares a central counter with a quiet pawn step, keeping the bishop free."},
+      {"title": "Italian Game", "description": "White's bishop eyes the weak f7 square early, in one of the oldest lines."},
+      {"title": "Scotch Game", "description": "White strikes in the center on move three to open the position."},
+      {"title": "Scandinavian Defence", "description": "Black immediately challenges the center, often recapturing with the queen."},
+      {"title": "Pirc Defence", "description": "Black lets White build a big center, fianchettoing a bishop to undermine it."},
+      {"title": "Alekhine's Defence", "description": "Black's knight is chased around to provoke overextended White pawns."},
+      {"title": "King's Gambit", "description": "White offers a flank pawn on move two for rapid development and attack."},
+      {"title": "Petrov's Defence", "description": "Black mirrors White's knight sortie, counterattacking instead of defending."},
+      {"title": "Vienna Game", "description": "White develops the queen's knight on move two before committing the kingside."}
+    ],
+    "intruders": [
+      {"title": "English Opening", "description": "White fights for the center from the flank, often reaching reversed Sicilian lines.", "why": "Begins 1.c4. Its national name echoes the French, Italian, Scotch, and Scandinavian."},
+      {"title": "Dutch Defence", "description": "Black stakes a kingside claim with the f-pawn, aiming for an attack.", "why": "Arises after 1.d4 f5, though its national name fits beside the French and Scotch."},
+      {"title": "King's Indian Defence", "description": "Black fianchettoes and cedes the center before striking back with pawn breaks.", "why": "A defence to 1.d4 (typically 1.d4 Nf6 2.c4 g6). Its name echoes the King's Gambit and its setup resembles the Pirc."}
+    ]
+  },
+  {
+    "id": "games-female-protagonists",
+    "domain": "games",
+    "tier": "moderate",
+    "theme": "Video games whose main playable protagonist is a woman or girl.",
+    "decoy": "Acclaimed single-player adventure and action games",
+    "members": [
+      {"title": "Tomb Raider", "description": "An archaeologist raids booby-trapped tombs with twin pistols."},
+      {"title": "Bayonetta", "description": "An immortal gunslinger battles angels using hair-summoned demons."},
+      {"title": "Beyond Good & Evil", "description": "A photojournalist exposes an alien conspiracy on a mining planet."},
+      {"title": "Horizon Zero Dawn", "description": "A hunter with a bow takes down robotic beasts in a post-apocalyptic world."},
+      {"title": "Celeste", "description": "A climber scales a mountain while facing anxiety, in precise pixel platforming."},
+      {"title": "Gris", "description": "A watercolor journey through grief where color returns to a faded world."},
+      {"title": "Heavenly Sword", "description": "A warrior wields a cursed blade to defend a doomed clan."},
+      {"title": "Shantae", "description": "A half-genie guards a seaside town with hair-whip attacks and transformations."},
+      {"title": "Ms. Pac-Man", "description": "A dot-eater navigates four new mazes, pursued by ghosts."}
+    ],
+    "intruders": [
+      {"title": "The Legend of Zelda", "description": "An adventurer explores an overworld and dungeons to recover Triforce pieces.", "why": "The hero is Link, a boy; Zelda is the princess he rescues. People often assume the title names the player character."},
+      {"title": "The Last of Us", "description": "A smuggler escorts a teenager across a fungus-ravaged America.", "why": "The player controls Joel for nearly the whole game; Ellie is playable only in one section."}
+    ]
+  },
+  {
+    "id": "games-titled-after-npc",
+    "domain": "games",
+    "tier": "subtle",
+    "theme": "Video games titled after a character the player does not control.",
+    "decoy": "Video games whose titles contain a character's name",
+    "members": [
+      {"title": "Donkey Kong", "description": "A carpenter climbs girders past rolling barrels to reach the top."},
+      {"title": "Where in the World Is Carmen Sandiego?", "description": "A detective follows clues around the globe to track down a thief."},
+      {"title": "Dr. Robotnik's Mean Bean Machine", "description": "Falling pairs of colored beans are matched in fours to clear them."},
+      {"title": "Wario's Woods", "description": "Falling monsters and bombs are stacked and cleared inside a forest tree."},
+      {"title": "Mike Tyson's Punch-Out!!", "description": "A small boxer climbs the ranks against towering opponents."},
+      {"title": "Mario Is Missing!", "description": "A plumber's brother tours world cities returning stolen landmarks."},
+      {"title": "Bowser's Fury", "description": "A plumber roams a lake of islands while a giant monster rampages."},
+      {"title": "Hey You, Pikachu!", "description": "Speak into a microphone to befriend an electric mouse."},
+      {"title": "Catherine", "description": "A man pushes blocks up a collapsing tower in nightmares about fidelity."}
+    ],
+    "intruders": [
+      {"title": "Donkey Kong Jr.", "description": "A young ape climbs vines to free a caged parent.", "why": "The player controls Donkey Kong Jr. himself, rescuing his father from Mario. Its title looks just like Donkey Kong's."},
+      {"title": "Luigi's Mansion", "description": "A nervous plumber vacuums ghosts out of a haunted house.", "why": "The player controls Luigi, the character in the title."},
+      {"title": "Super Princess Peach", "description": "A royal uses mood-based powers to rescue a kidnapped plumber.", "why": "The player controls Peach herself, even though she is usually the one rescued."}
+    ]
+  },
+  {
+    "id": "games-name-said-aloud",
+    "domain": "games",
+    "tier": "subtle",
+    "theme": "Games named after a word or phrase that players say out loud as part of play.",
+    "decoy": "Classic children's, party, and family games",
+    "members": [
+      {"title": "Uno", "description": "Match the discard by color or number, with skips, reverses, and wild draw fours."},
+      {"title": "Bingo", "description": "Numbers are drawn at random and marked off on a five-by-five sheet."},
+      {"title": "Snap", "description": "Two piles are turned over one at a time until a matching pair appears."},
+      {"title": "Go Fish", "description": "Request ranks from opponents to collect complete sets of four."},
+      {"title": "Marco Polo", "description": "A swimmer with closed eyes tries to tag others in a pool."},
+      {"title": "Simon Says", "description": "Follow a leader's commands, but only some of them, or be eliminated."},
+      {"title": "Mother May I?", "description": "Children creep toward a leader by permission, with giant or baby steps."},
+      {"title": "Duck, Duck, Goose", "description": "A child circles a seated ring, tapping heads before a chase."},
+      {"title": "I Spy", "description": "Guess the object someone has secretly chosen from its first letter."},
+      {"title": "Red Rover", "description": "Two lines hold hands while a runner tries to break through the other chain."},
+      {"title": "Rock paper scissors", "description": "Hand shapes thrown simultaneously, each beating one and losing to another."},
+      {"title": "Red Light, Green Light", "description": "Runners freeze whenever the lookout turns around, or go back to the start."}
+    ],
+    "intruders": [
+      {"title": "Crazy Eights", "description": "Match the discard by suit or rank, with eights acting as wild.", "why": "Nothing in its name is ever called out; it is nearly identical to Uno, where calling 'Uno' is a rule."},
+      {"title": "Hide-and-seek", "description": "One seeker counts with eyes closed while everyone else conceals themselves.", "why": "The name is never spoken during play (seekers call 'ready or not'). Same playground register as Marco Polo."},
+      {"title": "Musical chairs", "description": "Children circle a shrinking row of seats until the tune stops.", "why": "Nothing named in the title is called out; the cue is the music stopping."}
+    ]
+  },
+  {
+    "id": "games-fewest-points",
+    "domain": "games",
+    "tier": "subtle",
+    "theme": "Competitions in which the lowest score wins.",
+    "decoy": "Games and sports decided by adding up points or strokes",
+    "members": [
+      {"title": "Golf", "description": "Clubs, fairways, bunkers, and greens across eighteen holes."},
+      {"title": "Hearts", "description": "Four hands dodge hearts and the queen of spades, unless someone shoots the moon."},
+      {"title": "6 nimmt!", "description": "Numbered cards join four rows; the sixth in a row takes the pile of bullheads."},
+      {"title": "No Thanks!", "description": "Pay a chip to refuse a numbered card, or take it along with its chips."},
+      {"title": "Show jumping", "description": "Horse and rider tackle a course of colored fences and water jumps."},
+      {"title": "Eventing", "description": "Horse and rider combine dressage, cross-country, and fences over several days."},
+      {"title": "Skyjo", "description": "Flip and swap a hidden grid of numbered cards, some of them negative."},
+      {"title": "Cross-country running", "description": "Teams race over fields and hills, with the top five finishers counting."}
+    ],
+    "intruders": [
+      {"title": "Spades", "description": "Partners bid how many rounds they will take, and spades are always trump.", "why": "The side with the highest total wins, usually by reaching 500. It shares its deck and structure with Hearts."},
+      {"title": "Decathlon", "description": "Ten track-and-field events over two days, converted with a points table.", "why": "The most points wins. It is a multi-discipline format like eventing."},
+      {"title": "Sushi Go!", "description": "Pass hands around the table drafting sushi, tempura, and pudding.", "why": "The most points wins. It is a quick modern card game like 6 nimmt! and No Thanks!."}
+    ]
+  },
+  {
+    "id": "games-branded-folk-games",
+    "domain": "games",
+    "tier": "subtle",
+    "theme": "Commercial games that repackage an older traditional folk game under a brand name.",
+    "decoy": "Classic mass-market family board and table games",
+    "members": [
+      {"title": "Parcheesi", "description": "Race four pawns around a cross-shaped track to a central home."},
+      {"title": "Ludo", "description": "Four colored tokens race home, sent back to the start when landed on."},
+      {"title": "Sorry!", "description": "Draw from a deck to move pawns home, bumping rivals back to start."},
+      {"title": "Chutes and Ladders", "description": "Spin and move up a hundred squares, climbing or sliding along the way."},
+      {"title": "Battleship", "description": "Opponents call grid coordinates to sink each other's hidden fleets."},
+      {"title": "Yahtzee", "description": "Roll five dice up to three times to fill a scorecard of combinations."},
+      {"title": "Kalah", "description": "Sow seeds around a ring of pits, capturing into your store."},
+      {"title": "Pente", "description": "Place stones to make five in a row or capture pairs by bracketing them."}
+    ],
+    "intruders": [
+      {"title": "Candy Land", "description": "Draw colored cards to move along a sugary path to a candy castle.", "why": "An original 1940s design by Eleanor Abbott, not a version of an older folk game, though it is a simple race game like Chutes and Ladders."},
+      {"title": "The Game of Life", "description": "Spin a wheel to travel a road of careers, marriage, and retirement.", "why": "Descends from Milton Bradley's own 1860 design, The Checkered Game of Life, not from a folk game."},
+      {"title": "Guess Who?", "description": "Ask yes-or-no questions to identify an opponent's hidden face.", "why": "An original 1979 design by Theo and Ora Coster."}
+    ]
+  },
+  {
+    "id": "games-plays-predecessor",
+    "domain": "games",
+    "tier": "subtle",
+    "theme": "Consoles able to run their direct predecessor's library natively from launch.",
+    "decoy": "Successor game systems from Nintendo, Sony, Microsoft, and Atari",
+    "members": [
+      {"title": "Game Boy Color", "description": "1998 portable that added a color screen and an infrared port."},
+      {"title": "Nintendo 3DS", "description": "Portable with a glasses-free stereoscopic top screen."},
+      {"title": "Wii", "description": "Motion-sensing remote and nunchuk, with a slim white upright body."},
+      {"title": "Wii U", "description": "Tablet-style GamePad with its own second screen."},
+      {"title": "PlayStation 2", "description": "Black upright tower that doubled as a DVD deck."},
+      {"title": "Atari 7800", "description": "1986 successor built around a sprite chip nicknamed MARIA."},
+      {"title": "PlayStation 5", "description": "Tall two-tone machine with a haptic DualSense controller."},
+      {"title": "Xbox Series X", "description": "Monolithic black upright box with a fast solid-state drive."}
+    ],
+    "intruders": [
+      {"title": "PlayStation 4", "description": "Slim angular box with a touchpad DualShock 4 controller.", "why": "Cannot run PS3 discs; the earlier library reached it only through streaming and remasters. Its siblings PS2 and PS5 do run their predecessors' games."},
+      {"title": "Nintendo Switch", "description": "Hybrid machine that docks to a TV or goes portable with Joy-Con.", "why": "Cannot play Wii U discs or 3DS cards, unlike the Wii U and 3DS before it."}
+    ]
+  },
+  {
+    "id": "games-impartial-games",
+    "domain": "games",
+    "tier": "subtle",
+    "theme": "Impartial contests, in which every option open to one competitor is equally open to the other.",
+    "decoy": "Two-player abstract games studied in combinatorial game theory",
+    "members": [
+      {"title": "Nim", "description": "Take any number of counters from a single heap; taking the last decides it."},
+      {"title": "Kayles", "description": "Knock down one or two adjacent pins from a row."},
+      {"title": "Chomp", "description": "Bite a rectangle of chocolate; the poisoned corner square loses."},
+      {"title": "Sprouts", "description": "Join dots with curves, adding a new dot on each curve, until stuck."},
+      {"title": "Wythoff's game", "description": "Remove counters from one pile, or equal amounts from both of two piles."},
+      {"title": "Cram", "description": "Place dominoes on a checkerboard in either orientation until none fit."},
+      {"title": "Quarto", "description": "Sixteen pieces with four traits; your rival picks which one you place."},
+      {"title": "Sylver coinage", "description": "Name positive integers that are not sums of earlier choices; naming 1 loses."},
+      {"title": "Subtract a square", "description": "Remove a perfect-square number of counters from a heap."}
+    ],
+    "intruders": [
+      {"title": "Domineering", "description": "Place dominoes on a checkerboard, one side upright and the other lying flat.", "why": "Partizan: each player has a different set of legal moves. It is the partizan twin of Cram."},
+      {"title": "Hex", "description": "Claim cells on a rhombus of hexagons to link your two edges.", "why": "Partizan: each player places stones of their own color and connects their own pair of edges. It is a famous mathematician-designed abstract like Chomp or Sprouts."},
+      {"title": "Tic-tac-toe", "description": "Place marks on a three-by-three grid to get three in a row.", "why": "Partizan: one player can only place X and the other only O."}
+    ]
+  },
+  {
+    "id": "games-launch-day-titles",
+    "domain": "games",
+    "tier": "subtle",
+    "theme": "Games available on the day their console first went on sale.",
+    "decoy": "Flagship first-party mascot and showcase games",
+    "members": [
+      {"title": "Wii Sports", "description": "Motion-controlled tennis, bowling, golf, baseball, and boxing."},
+      {"title": "Super Mario World", "description": "A plumber rides a green dinosaur across Dinosaur Land."},
+      {"title": "Super Mario 64", "description": "A plumber explores painting worlds inside a castle in full 3D."},
+      {"title": "Halo: Combat Evolved", "description": "A cyborg super-soldier fights alien forces on a ring-shaped world."},
+      {"title": "The Legend of Zelda: Breath of the Wild", "description": "An amnesiac knight climbs and glides across an open Hyrule."},
+      {"title": "Nintendo Land", "description": "Theme-park collection of minigames built around a second screen."},
+      {"title": "Astro's Playroom", "description": "A small robot explores a machine's interior, showing off haptic feedback."},
+      {"title": "F-Zero", "description": "Futuristic hover-racing on flat tracks rendered with Mode 7 scaling."},
+      {"title": "Super Mario Land", "description": "A plumber travels through Sarasaland on a small monochrome screen."}
+    ],
+    "intruders": [
+      {"title": "Sonic the Hedgehog", "description": "A blue hedgehog speeds through loops to free animals from robots.", "why": "Released in 1991, years after the Mega Drive launched in Japan (1988) and North America (1989)."},
+      {"title": "Crash Bandicoot", "description": "A marsupial spins through jungle levels, running into the screen.", "why": "Released in 1996, well after the PlayStation launched in 1994-95."},
+      {"title": "Super Mario Galaxy", "description": "A plumber leaps between tiny planets with their own gravity.", "why": "Released in November 2007, a year after the Wii launched."}
+    ]
+  },
+  {
+    "id": "games-supporting-debut-characters",
+    "domain": "games",
+    "tier": "subtle",
+    "theme": "Characters who debuted in a game named for someone else and later headlined a game of their own.",
+    "decoy": "Famous platform-game mascots",
+    "members": [
+      {"title": "Mario", "description": "Mustached plumber in a red cap and blue overalls."},
+      {"title": "Wario", "description": "Greedy yellow-capped rival with a zigzag mustache and a garlic habit."},
+      {"title": "Yoshi", "description": "Green dinosaur who flutters and swallows enemies with a long tongue."},
+      {"title": "Knuckles", "description": "Red echidna who glides and climbs, guarding a giant emerald."},
+      {"title": "Tails", "description": "Two-tailed fox who flies by spinning his tails like a rotor."},
+      {"title": "Shadow the Hedgehog", "description": "Black-and-red hedgehog created as the Ultimate Life Form."},
+      {"title": "Tingle", "description": "Balloon-riding mapmaker in a green suit who believes he is a fairy."},
+      {"title": "Captain Toad", "description": "Mushroom-headed explorer with a headlamp and heavy backpack."},
+      {"title": "Diddy Kong", "description": "Red-capped young monkey who carries peanut popguns."}
+    ],
+    "intruders": [
+      {"title": "Kirby", "description": "Pink round puffball who inhales enemies to copy their powers.", "why": "Debuted as the star of his own game, Kirby's Dream Land (1992)."},
+      {"title": "Rayman", "description": "Limbless hero whose hands and feet float free of his body.", "why": "Debuted as the star of his own game, Rayman (1995), rather than in someone else's."}
+    ]
+  },
+  {
+    "id": "games-genre-namesakes",
+    "domain": "games",
+    "tier": "subtle",
+    "theme": "Games whose own title became part of the name of a genre.",
+    "decoy": "Hugely influential genre-defining video games",
+    "members": [
+      {"title": "Rogue", "description": "Descend a randomly generated ASCII dungeon with permanent death."},
+      {"title": "Doom", "description": "A space marine blasts demons through bases on the moons of Mars."},
+      {"title": "Dark Souls", "description": "Punishing dark fantasy with bonfire checkpoints and dropped souls on death."},
+      {"title": "Grand Theft Auto", "description": "Steal cars and take jobs from criminals across an open city."},
+      {"title": "Diablo", "description": "Click to slay hordes beneath a cursed town in search of loot."},
+      {"title": "Myst", "description": "Explore a silent island of pre-rendered puzzles and linking books."},
+      {"title": "Castlevania", "description": "A whip-wielding vampire hunter storms Dracula's castle."},
+      {"title": "Metroid", "description": "A bounty hunter explores the caverns of planet Zebes."}
+    ],
+    "intruders": [
+      {"title": "PlayerUnknown's Battlegrounds", "description": "A hundred parachute onto an island and fight until one remains.", "why": "The 'battle royale' label comes from the 2000 Japanese film Battle Royale, not from this game, which popularized the format."},
+      {"title": "Wolfenstein 3D", "description": "An escaped prisoner of war shoots through castle corridors.", "why": "It pioneered the first-person shooter, but early imitators were called 'Doom clones', not after this game."}
+    ]
+  }
+]

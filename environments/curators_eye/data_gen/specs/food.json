@@ -1,0 +1,1644 @@
+[
+  {
+    "id": "food-botanical-fruits-as-vegetables",
+    "domain": "food",
+    "tier": "obvious",
+    "theme": "Produce cooked as vegetables that is botanically a fruit: it develops from a flower's ovary and carries the seeds.",
+    "decoy": "Garden vegetables used in savory cooking",
+    "members": [
+      {
+        "title": "Tomato",
+        "description": "Juicy red globe that anchors pasta sauces, salsas, and summer salads."
+      },
+      {
+        "title": "Cucumber",
+        "description": "Cool, crisp green cylinder sliced into salads or pickled with dill."
+      },
+      {
+        "title": "Eggplant",
+        "description": "Glossy purple globe that turns silky when roasted, as in baba ganoush."
+      },
+      {
+        "title": "Bell pepper",
+        "description": "Sweet, crunchy, blocky pod sold in green, red, yellow, and orange."
+      },
+      {
+        "title": "Zucchini",
+        "description": "Long green summer squash, often grilled in planks or cut into ribbons."
+      },
+      {
+        "title": "Butternut squash",
+        "description": "Tan, bell-shaped winter squash with dense orange flesh for soups."
+      },
+      {
+        "title": "Okra",
+        "description": "Ridged green pods that turn silky in gumbo and Indian bhindi masala."
+      },
+      {
+        "title": "Avocado",
+        "description": "Buttery, green-fleshed staple mashed into dips and spread on toast."
+      },
+      {
+        "title": "Green beans",
+        "description": "Slender snap pods steamed, sauteed, or baked into a holiday casserole."
+      }
+    ],
+    "intruders": [
+      {
+        "title": "Artichoke",
+        "description": "Green globe of tough leaves, steamed or roasted and dipped in butter.",
+        "why": "The edible part is an immature flower bud, not a fruit. It is shelved and cooked alongside tomatoes and peppers."
+      },
+      {
+        "title": "Broccoli",
+        "description": "Branching green stalks with dense clusters, steamed or stir-fried.",
+        "why": "The edible heads are clusters of unopened flower buds on thick stems, not fruits. It is a staple vegetable like the rest."
+      }
+    ]
+  },
+  {
+    "id": "food-legume-family",
+    "domain": "food",
+    "tier": "obvious",
+    "theme": "Plants of the legume (pea) family, Fabaceae.",
+    "decoy": "Beans and bean-like staples",
+    "members": [
+      {
+        "title": "Peanut",
+        "description": "Papery-shelled kernels roasted, salted, or ground into a smooth spread."
+      },
+      {
+        "title": "Chickpea",
+        "description": "Round beige pulse mashed into hummus and fried as falafel."
+      },
+      {
+        "title": "Lentil",
+        "description": "Small lens-shaped pulse simmered into dal and hearty winter soups."
+      },
+      {
+        "title": "Soybean",
+        "description": "Protein-rich bean pressed for oil and turned into tofu and soy sauce."
+      },
+      {
+        "title": "Fava bean",
+        "description": "Broad green bean slipped from a thick pod and then from its pale skin."
+      },
+      {
+        "title": "Mung bean",
+        "description": "Small green bean sprouted for stir-fries and cooked into sweet soups."
+      },
+      {
+        "title": "Tamarind",
+        "description": "Brown sticky pulp from long brittle pods, used to sour chutneys."
+      },
+      {
+        "title": "Carob",
+        "description": "Dark pods milled into a sweet brown powder used much like cocoa."
+      },
+      {
+        "title": "Fenugreek",
+        "description": "Bitter, maple-scented spice common in curries and Ethiopian blends."
+      }
+    ],
+    "intruders": [
+      {
+        "title": "Coffee bean",
+        "description": "Roasted brown bean ground and brewed into the morning's dark drink.",
+        "why": "The seed of a cherry-like fruit of Coffea, in the coffee family (Rubiaceae), not a legume. It is called a bean all the same."
+      },
+      {
+        "title": "Cocoa bean",
+        "description": "Roasted brown bean from which chocolate and cocoa powder are made.",
+        "why": "The seed of the cacao tree, in the mallow family (Malvaceae), not a legume, despite being called a bean."
+      },
+      {
+        "title": "Vanilla bean",
+        "description": "Long, dark, fragrant pod split open to scrape out tiny black specks.",
+        "why": "The cured seed pod of a climbing orchid, not a legume. Both its common names, bean and pod, suggest the pea family."
+      }
+    ]
+  },
+  {
+    "id": "food-fermented",
+    "domain": "food",
+    "tier": "obvious",
+    "theme": "Foods made by fermentation, in which bacteria, yeasts, or molds transform the raw ingredients.",
+    "decoy": "Tangy, preserved staples of Asian and European kitchens",
+    "members": [
+      {
+        "title": "Kimchi",
+        "description": "Spicy Korean napa cabbage seasoned with red pepper, garlic, and ginger."
+      },
+      {
+        "title": "Miso",
+        "description": "Salty Japanese paste of soybeans and rice or barley, stirred into soup."
+      },
+      {
+        "title": "Tempeh",
+        "description": "Firm Indonesian cake of whole soybeans bound into a sliceable block."
+      },
+      {
+        "title": "Kombucha",
+        "description": "Tangy, fizzy sweetened tea drink, often flavored with ginger."
+      },
+      {
+        "title": "Kefir",
+        "description": "Tart, drinkable dairy beverage from the Caucasus with a slight fizz."
+      },
+      {
+        "title": "Natto",
+        "description": "Sticky, stringy Japanese soybeans with a pungent smell, eaten over rice."
+      },
+      {
+        "title": "Fish sauce",
+        "description": "Amber, salty Southeast Asian liquid of anchovies and sea salt."
+      },
+      {
+        "title": "Sourdough bread",
+        "description": "Chewy, tangy loaf with an open crumb and a thick crackling crust."
+      },
+      {
+        "title": "Yogurt",
+        "description": "Thick, tangy dairy staple eaten with honey or strained for dips."
+      }
+    ],
+    "intruders": [
+      {
+        "title": "Tofu",
+        "description": "Soft white soybean curd pressed into blocks, then braised or deep-fried.",
+        "why": "Made by curdling hot soy milk with salts or acid, much like fresh cheese, with no fermentation. It sits naturally beside miso and tempeh."
+      },
+      {
+        "title": "Bread-and-butter pickles",
+        "description": "Sweet, tangy sliced cucumbers and onion, sold in glass jars for burgers.",
+        "why": "Packed in a vinegar-and-sugar brine: the sourness is added vinegar, not the product of fermentation like true brine pickles."
+      }
+    ]
+  },
+  {
+    "id": "food-distilled-spirits",
+    "domain": "food",
+    "tier": "obvious",
+    "theme": "Alcoholic drinks made by distillation.",
+    "decoy": "Traditional alcoholic drinks from around the world",
+    "members": [
+      {
+        "title": "Tequila",
+        "description": "Mexican blue-agave drink from Jalisco, sipped neat or shaken into margaritas."
+      },
+      {
+        "title": "Mezcal",
+        "description": "Smoky Mexican agave drink from Oaxaca, its hearts roasted in pits."
+      },
+      {
+        "title": "Rum",
+        "description": "Caribbean drink from sugarcane molasses or juice, often barrel-aged."
+      },
+      {
+        "title": "Vodka",
+        "description": "Clear, neutral Eastern European drink from grain or potatoes."
+      },
+      {
+        "title": "Scotch whisky",
+        "description": "Malted-barley drink aged at least three years in oak casks in Scotland."
+      },
+      {
+        "title": "Baijiu",
+        "description": "Potent Chinese sorghum drink with a pungent, funky aroma."
+      },
+      {
+        "title": "Shochu",
+        "description": "Japanese drink from sweet potato, barley, or rice, often served on ice."
+      },
+      {
+        "title": "Grappa",
+        "description": "Italian drink from the grape skins and seeds left over from winemaking."
+      },
+      {
+        "title": "Cognac",
+        "description": "French grape brandy aged in oak casks in the Charente region."
+      }
+    ],
+    "intruders": [
+      {
+        "title": "Sake",
+        "description": "Japanese rice drink served warm or chilled from small ceramic cups.",
+        "why": "Brewed and fermented but never distilled, at around 15 percent alcohol. Its cousin shochu is the distilled one."
+      },
+      {
+        "title": "Pulque",
+        "description": "Milky, viscous Mexican drink from the sap of the maguey agave plant.",
+        "why": "Agave sap that is only fermented. Tequila and mezcal come from agave too, but they are distilled."
+      }
+    ]
+  },
+  {
+    "id": "food-unleavened-breads",
+    "domain": "food",
+    "tier": "obvious",
+    "theme": "Breads made without any leavening: no yeast, sourdough starter, or chemical raising agent.",
+    "decoy": "Flatbreads and traditional breads",
+    "members": [
+      {
+        "title": "Matzo",
+        "description": "Thin, crisp, perforated cracker-like sheets eaten during Passover."
+      },
+      {
+        "title": "Chapati",
+        "description": "Soft whole-wheat round cooked on a flat griddle in North Indian homes."
+      },
+      {
+        "title": "Corn tortilla",
+        "description": "Thin disc of nixtamalized maize dough cooked on a comal."
+      },
+      {
+        "title": "Paratha",
+        "description": "Flaky whole-wheat round folded with ghee and fried on a griddle."
+      },
+      {
+        "title": "Arepa",
+        "description": "Thick round cornmeal cake from Venezuela and Colombia, split and stuffed."
+      },
+      {
+        "title": "Puri",
+        "description": "Small whole-wheat round that balloons when fried in hot oil."
+      },
+      {
+        "title": "Hardtack",
+        "description": "Rock-hard ship's biscuit of flour, water, and salt, stored for months."
+      },
+      {
+        "title": "Bhakri",
+        "description": "Coarse, rustic millet or sorghum round cooked on a griddle in Maharashtra."
+      }
+    ],
+    "intruders": [
+      {
+        "title": "Naan",
+        "description": "Pillowy teardrop-shaped round slapped onto the wall of a tandoor oven.",
+        "why": "Its dough is leavened, usually with yeast, and left to rise before baking. It looks like the unleavened Indian flatbreads."
+      },
+      {
+        "title": "Pita",
+        "description": "Round Middle Eastern pocket bread that puffs up hollow in a hot oven.",
+        "why": "A yeast-raised dough: the pocket forms when steam inflates the risen dough. Puri also puffs, but without leavening."
+      },
+      {
+        "title": "Injera",
+        "description": "Spongy, sour Ethiopian round of teff batter cooked on a large griddle.",
+        "why": "The batter is fermented for days, and the wild yeast leavens it, making the bubbles on its surface."
+      }
+    ]
+  },
+  {
+    "id": "food-served-raw",
+    "domain": "food",
+    "tier": "obvious",
+    "theme": "Dishes whose main ingredient is served raw, never cooked with heat.",
+    "decoy": "Chilled or cold-served meat, fish, and vegetable dishes",
+    "members": [
+      {
+        "title": "Sashimi",
+        "description": "Slices of fish arranged on a plate with wasabi and soy sauce."
+      },
+      {
+        "title": "Steak tartare",
+        "description": "Minced beef mixed with capers and shallots, topped with an egg yolk."
+      },
+      {
+        "title": "Ceviche",
+        "description": "Cubes of fish marinated in lime juice with red onion and chili."
+      },
+      {
+        "title": "Poke",
+        "description": "Hawaiian cubes of tuna tossed with soy sauce, sesame oil, and onion."
+      },
+      {
+        "title": "Kibbeh nayyeh",
+        "description": "Levantine paste of lamb and bulgur, drizzled with olive oil."
+      },
+      {
+        "title": "Yukhoe",
+        "description": "Korean seasoned beef strips topped with egg yolk and slivers of pear."
+      },
+      {
+        "title": "Gazpacho",
+        "description": "Chilled Andalusian soup of blended tomato, cucumber, pepper, and bread."
+      },
+      {
+        "title": "Mett",
+        "description": "German minced pork seasoned with salt and pepper, spread on bread rolls."
+      },
+      {
+        "title": "Gravlax",
+        "description": "Nordic salmon cured with salt, sugar, and dill, sliced thin."
+      }
+    ],
+    "intruders": [
+      {
+        "title": "Vitello tonnato",
+        "description": "Thin slices of veal served cold under a creamy tuna and caper sauce.",
+        "why": "The veal is roasted or poached first, then chilled and sliced. It looks like a raw-meat plate such as carpaccio."
+      },
+      {
+        "title": "Beef tataki",
+        "description": "Japanese thin slices of beef, rare in the center, dressed with ponzu.",
+        "why": "The beef is seared over high heat before slicing; only the center stays rare."
+      }
+    ]
+  },
+  {
+    "id": "food-caffeinated-brews",
+    "domain": "food",
+    "tier": "obvious",
+    "theme": "Drinks that naturally contain caffeine from the plant they are brewed from.",
+    "decoy": "Hot brewed drinks: teas, coffees, and infusions",
+    "members": [
+      {
+        "title": "Espresso",
+        "description": "Small, concentrated shot pulled under pressure, topped with crema."
+      },
+      {
+        "title": "Matcha",
+        "description": "Stone-ground powdered green tea whisked into a frothy bowl."
+      },
+      {
+        "title": "Yerba mate",
+        "description": "South American infusion sipped through a metal straw from a gourd."
+      },
+      {
+        "title": "Oolong",
+        "description": "Partly oxidized Chinese and Taiwanese tea with tightly rolled leaves."
+      },
+      {
+        "title": "Masala chai",
+        "description": "Indian black tea simmered with milk, sugar, and warm spices."
+      },
+      {
+        "title": "Earl Grey",
+        "description": "Black tea scented with oil of bergamot, often served with milk."
+      },
+      {
+        "title": "Pu-erh",
+        "description": "Aged Yunnan tea pressed into cakes and bricks, earthy and dark."
+      },
+      {
+        "title": "Turkish coffee",
+        "description": "Finely ground coffee simmered in a small pot and served unfiltered."
+      }
+    ],
+    "intruders": [
+      {
+        "title": "Rooibos",
+        "description": "Red South African tea of needle-like leaves, often with milk.",
+        "why": "Made from the Aspalathus linearis shrub, which has no caffeine. It is brewed and sold exactly like black tea."
+      },
+      {
+        "title": "Barley tea",
+        "description": "Roasted-grain tea served iced in Japanese and Korean homes.",
+        "why": "Roasted barley has no caffeine, though it is brewed and served as an everyday tea."
+      }
+    ]
+  },
+  {
+    "id": "food-from-milk",
+    "domain": "food",
+    "tier": "obvious",
+    "theme": "Foods made from animal milk.",
+    "decoy": "Rich, creamy, or buttery kitchen ingredients",
+    "members": [
+      {
+        "title": "Ghee",
+        "description": "Nutty clarified butter used for frying spices and finishing dal."
+      },
+      {
+        "title": "Paneer",
+        "description": "Firm, fresh, unsalted Indian cheese cubed into curries."
+      },
+      {
+        "title": "Creme fraiche",
+        "description": "Thick, slightly sour French cream that won't split when boiled."
+      },
+      {
+        "title": "Skyr",
+        "description": "Thick, high-protein Icelandic spoonable staple eaten with berries."
+      },
+      {
+        "title": "Labneh",
+        "description": "Tangy strained yogurt spread drizzled with olive oil and za'atar."
+      },
+      {
+        "title": "Dulce de leche",
+        "description": "Thick caramel spread beloved in Argentina and Uruguay, slowly cooked until brown."
+      },
+      {
+        "title": "Clotted cream",
+        "description": "Thick English cream spread onto scones with strawberry jam."
+      },
+      {
+        "title": "Ricotta",
+        "description": "Soft, moist Italian curd used in lasagna and cannoli."
+      },
+      {
+        "title": "Mascarpone",
+        "description": "Rich Italian spreadable cream cheese folded into tiramisu."
+      }
+    ],
+    "intruders": [
+      {
+        "title": "Cream of tartar",
+        "description": "Fine white powder used to stabilize whipped egg whites for meringue.",
+        "why": "Potassium bitartrate, a by-product of winemaking. 'Cream' is in the name only."
+      },
+      {
+        "title": "Cocoa butter",
+        "description": "Pale solid fat that melts at body heat, the base of white chocolate.",
+        "why": "A fat pressed from cacao beans; 'butter' only describes its texture."
+      }
+    ]
+  },
+  {
+    "id": "food-gluten-free-grains",
+    "domain": "food",
+    "tier": "obvious",
+    "theme": "Grains and pseudocereals that are naturally free of gluten.",
+    "decoy": "Whole grains and ancient grains",
+    "members": [
+      {
+        "title": "Quinoa",
+        "description": "Andean staple with tiny round kernels that uncurl little tails when cooked."
+      },
+      {
+        "title": "Buckwheat",
+        "description": "Triangular kernels roasted into kasha and milled for soba and galettes."
+      },
+      {
+        "title": "Millet",
+        "description": "Tiny yellow round kernels eaten as porridge across Africa and Asia."
+      },
+      {
+        "title": "Sorghum",
+        "description": "Drought-hardy cereal popped like corn and brewed into African beers."
+      },
+      {
+        "title": "Teff",
+        "description": "Minute Ethiopian cereal milled into flour for a spongy flatbread."
+      },
+      {
+        "title": "Amaranth",
+        "description": "Tiny kernels once farmed by the Aztecs, popped and bound into bars."
+      },
+      {
+        "title": "Wild rice",
+        "description": "Long, dark aquatic kernels harvested by canoe around the Great Lakes."
+      },
+      {
+        "title": "Fonio",
+        "description": "Tiny, fast-cooking West African cereal steamed like couscous."
+      },
+      {
+        "title": "Maize",
+        "description": "Staple cereal of the Americas, ground into masa, polenta, and grits."
+      }
+    ],
+    "intruders": [
+      {
+        "title": "Spelt",
+        "description": "Hulled ancient cereal with a nutty flavor, popular in German baking.",
+        "why": "A species of wheat (Triticum spelta), so it contains gluten. Its 'ancient grain' image groups it with quinoa and teff."
+      },
+      {
+        "title": "Farro",
+        "description": "Chewy Italian ancient cereal simmered into salads and hearty soups.",
+        "why": "Farro is hulled wheat (emmer, einkorn, or spelt), so it contains gluten."
+      }
+    ]
+  },
+  {
+    "id": "food-sheep-milk-cheeses",
+    "domain": "food",
+    "tier": "moderate",
+    "theme": "Cheeses made wholly or mainly from sheep's milk.",
+    "decoy": "Famous protected-origin European cheeses",
+    "members": [
+      {
+        "title": "Roquefort",
+        "description": "Crumbly, pungent blue cheese ripened in limestone caves in southern France."
+      },
+      {
+        "title": "Pecorino Romano",
+        "description": "Hard, salty Italian grating cheese essential to cacio e pepe."
+      },
+      {
+        "title": "Manchego",
+        "description": "Firm Spanish cheese from La Mancha with a zigzag-patterned rind."
+      },
+      {
+        "title": "Feta",
+        "description": "White Greek cheese kept in brine and crumbled over salads."
+      },
+      {
+        "title": "Ossau-Iraty",
+        "description": "Firm, nutty cheese from the French Basque Country and Bearn."
+      },
+      {
+        "title": "Idiazabal",
+        "description": "Firm, often smoked Basque cheese with a buttery, nutty flavor."
+      },
+      {
+        "title": "Torta del Casar",
+        "description": "Spanish cheese whose top is sliced off to scoop out the runny center."
+      },
+      {
+        "title": "Fiore Sardo",
+        "description": "Hard, lightly smoked Sardinian cheese used for grating."
+      },
+      {
+        "title": "Zamorano",
+        "description": "Hard Castilian cheese with a dark rind, aged for many months."
+      }
+    ],
+    "intruders": [
+      {
+        "title": "Gorgonzola",
+        "description": "Creamy, blue-veined Italian cheese from Lombardy and Piedmont.",
+        "why": "Made from cow's milk. It is the Italian counterpart people pair with Roquefort."
+      },
+      {
+        "title": "Parmigiano-Reggiano",
+        "description": "Hard, granular Italian grating cheese aged in huge wheels.",
+        "why": "Made from cow's milk, unlike Pecorino Romano, the grating cheese it is most often swapped with."
+      },
+      {
+        "title": "Mahon",
+        "description": "Firm, tangy cheese from Menorca with an orange-rubbed rind.",
+        "why": "A Spanish cheese made from cow's milk (only a small share of sheep's milk is allowed), unlike its neighbor Manchego."
+      }
+    ]
+  },
+  {
+    "id": "food-rose-family",
+    "domain": "food",
+    "tier": "moderate",
+    "theme": "Fruits and nuts from plants of the rose family (Rosaceae).",
+    "decoy": "Temperate orchard fruits, berries, and nuts",
+    "members": [
+      {
+        "title": "Apple",
+        "description": "Crisp orchard staple pressed into cider and baked into pies."
+      },
+      {
+        "title": "Pear",
+        "description": "Sweet, grainy-fleshed orchard crop poached in wine or eaten ripe."
+      },
+      {
+        "title": "Quince",
+        "description": "Hard, fragrant yellow orchard crop cooked into Spanish membrillo paste."
+      },
+      {
+        "title": "Apricot",
+        "description": "Small velvety golden orchard crop, often dried or made into jam."
+      },
+      {
+        "title": "Sour cherry",
+        "description": "Tart red orchard crop baked into pies and Black Forest cake."
+      },
+      {
+        "title": "Strawberry",
+        "description": "Red berry studded with tiny specks on its skin, served with cream."
+      },
+      {
+        "title": "Raspberry",
+        "description": "Soft, hollow red berry picked from thorny canes in summer."
+      },
+      {
+        "title": "Almond",
+        "description": "Oval kernel eaten roasted, pressed into a drink, or ground into marzipan."
+      },
+      {
+        "title": "Loquat",
+        "description": "Small orange orchard crop with large brown pits, common in China and Japan."
+      },
+      {
+        "title": "Medlar",
+        "description": "Brown, apple-like crop eaten only after it softens and blets."
+      }
+    ],
+    "intruders": [
+      {
+        "title": "Blueberry",
+        "description": "Small dusky-blue berry baked into muffins, pies, and pancakes.",
+        "why": "In the heath family (Ericaceae), with cranberries and rhododendrons, not the rose family."
+      },
+      {
+        "title": "Fig",
+        "description": "Soft, purple-skinned orchard crop with a jammy, speckled interior.",
+        "why": "In the mulberry family (Moraceae), not the rose family, though it grows in the same orchards."
+      },
+      {
+        "title": "Black currant",
+        "description": "Tart dark berry grown on bushes, cooked into cordials and jams.",
+        "why": "In the gooseberry family (Grossulariaceae), not the rose family like raspberries."
+      }
+    ]
+  },
+  {
+    "id": "food-sealed-stuffed-pasta",
+    "domain": "food",
+    "tier": "moderate",
+    "theme": "Pasta made by sealing a filling inside the dough before cooking.",
+    "decoy": "Italian pasta shapes served with a stuffing",
+    "members": [
+      {
+        "title": "Ravioli",
+        "description": "Square pillows stuffed with ricotta and spinach, served with butter and sage."
+      },
+      {
+        "title": "Tortellini",
+        "description": "Small rings from Bologna stuffed with pork and mortadella, served in broth."
+      },
+      {
+        "title": "Agnolotti",
+        "description": "Piedmontese pinched parcels stuffed with roast meats and greens."
+      },
+      {
+        "title": "Cappelletti",
+        "description": "Hat-shaped Emilian parcels stuffed with cheese or meat, served in broth."
+      },
+      {
+        "title": "Mezzelune",
+        "description": "Half-moons stuffed with cheese or vegetables, tossed in melted butter."
+      },
+      {
+        "title": "Culurgiones",
+        "description": "Sardinian parcels of potato, pecorino, and mint with a braided seam."
+      },
+      {
+        "title": "Pansotti",
+        "description": "Pot-bellied Ligurian triangles stuffed with wild greens, served with walnut sauce."
+      },
+      {
+        "title": "Caramelle",
+        "description": "Candy-wrapper-shaped twists stuffed with ricotta or pumpkin."
+      },
+      {
+        "title": "Anolini",
+        "description": "Small round Emilian parcels with a breadcrumb-and-parmesan stuffing, served in broth."
+      }
+    ],
+    "intruders": [
+      {
+        "title": "Cannelloni",
+        "description": "Large tubes stuffed with ricotta and spinach, baked in tomato sauce.",
+        "why": "Tubes (or cooked sheets rolled up) with open ends: the stuffing is piped in or rolled up, never sealed in."
+      },
+      {
+        "title": "Conchiglioni",
+        "description": "Jumbo pasta shells stuffed with ricotta and baked under tomato sauce.",
+        "why": "The shells are boiled first and then spooned full; they stay open and nothing is sealed."
+      }
+    ]
+  },
+  {
+    "id": "food-emulsion-sauces",
+    "domain": "food",
+    "tier": "moderate",
+    "theme": "Sauces that are emulsions, getting their body from fat dispersed as tiny droplets rather than from starch.",
+    "decoy": "Classic creamy sauces of French and Mediterranean cooking",
+    "members": [
+      {
+        "title": "Mayonnaise",
+        "description": "Thick, pale sauce of egg yolk, oil, and lemon or vinegar."
+      },
+      {
+        "title": "Hollandaise",
+        "description": "Warm, buttery yolk-based sauce spooned over eggs Benedict."
+      },
+      {
+        "title": "Bearnaise",
+        "description": "Buttery yolk sauce flavored with tarragon and shallot, served with steak."
+      },
+      {
+        "title": "Toum",
+        "description": "Fluffy white Lebanese garlic sauce served with grilled chicken."
+      },
+      {
+        "title": "Beurre blanc",
+        "description": "Tangy Loire sauce of reduced white wine whisked with cold butter."
+      },
+      {
+        "title": "Vinaigrette",
+        "description": "Tangy oil-and-vinegar dressing whisked with mustard for green salads."
+      },
+      {
+        "title": "Remoulade",
+        "description": "Tangy mustardy sauce with capers and herbs, served with celeriac or fish."
+      },
+      {
+        "title": "Tartar sauce",
+        "description": "Creamy white sauce with pickles and capers, served with fried fish."
+      }
+    ],
+    "intruders": [
+      {
+        "title": "Bechamel",
+        "description": "Smooth white milk sauce, the base for lasagna and croque monsieur.",
+        "why": "Thickened by a flour-and-butter roux, so its body comes from starch, not emulsified fat."
+      },
+      {
+        "title": "Veloute",
+        "description": "Silky pale sauce made from white stock, served with chicken or fish.",
+        "why": "Thickened by a roux, a starch-based mother sauce rather than an emulsion."
+      }
+    ]
+  },
+  {
+    "id": "food-gin-cocktails",
+    "domain": "food",
+    "tier": "moderate",
+    "theme": "Cocktails whose classic recipe uses gin as the base spirit.",
+    "decoy": "Classic cocktails from the pre-Prohibition and cocktail-revival canon",
+    "members": [
+      {
+        "title": "Negroni",
+        "description": "Bitter, ruby-red stirred drink with Campari and vermouth, garnished with orange."
+      },
+      {
+        "title": "Martini",
+        "description": "Stirred, bone-dry drink with vermouth, served up with an olive or twist."
+      },
+      {
+        "title": "Tom Collins",
+        "description": "Tall, fizzy sour with lemon, sugar, and soda over ice."
+      },
+      {
+        "title": "Gimlet",
+        "description": "Sharp, pale sour shaken with lime cordial and served up."
+      },
+      {
+        "title": "Aviation",
+        "description": "Pale violet sour with maraschino, lemon, and creme de violette."
+      },
+      {
+        "title": "Bee's Knees",
+        "description": "Shaken sour sweetened with honey and brightened with lemon juice."
+      },
+      {
+        "title": "Last Word",
+        "description": "Equal-measure shaken drink with green Chartreuse, maraschino, and lime."
+      },
+      {
+        "title": "Corpse Reviver No. 2",
+        "description": "Shaken drink of Lillet, orange liqueur, lemon, and an absinthe rinse."
+      },
+      {
+        "title": "Bramble",
+        "description": "Crushed-ice sour drizzled with blackberry liqueur, from 1980s London."
+      }
+    ],
+    "intruders": [
+      {
+        "title": "Americano",
+        "description": "Bitter red drink of Campari and vermouth topped with soda, with orange.",
+        "why": "Campari, sweet vermouth, and soda with no gin at all. It is the Negroni's ancestor."
+      },
+      {
+        "title": "Boulevardier",
+        "description": "Bitter, ruby stirred drink with Campari and vermouth, with orange peel.",
+        "why": "Made with bourbon or rye whiskey. It is the Negroni's whiskey twin."
+      },
+      {
+        "title": "Daiquiri",
+        "description": "Sharp, pale sour shaken with lime juice and sugar, served in a coupe.",
+        "why": "Made with rum. It mirrors the gimlet's lime-and-sugar build."
+      }
+    ]
+  },
+  {
+    "id": "food-short-grain-rice-dishes",
+    "domain": "food",
+    "tier": "moderate",
+    "theme": "Rice dishes traditionally made with short- or medium-grain rice.",
+    "decoy": "Iconic rice dishes from around the world",
+    "members": [
+      {
+        "title": "Risotto",
+        "description": "Northern Italian rice stirred with hot broth until creamy, finished with parmesan."
+      },
+      {
+        "title": "Nigiri",
+        "description": "Hand-pressed ovals of vinegared rice topped with slices of fish."
+      },
+      {
+        "title": "Arancini",
+        "description": "Sicilian fried balls of rice with ragu or cheese inside."
+      },
+      {
+        "title": "Onigiri",
+        "description": "Japanese rice balls wrapped in nori around salted salmon or pickled plum."
+      },
+      {
+        "title": "Bibimbap",
+        "description": "Korean bowl of rice topped with vegetables, beef, egg, and gochujang."
+      },
+      {
+        "title": "Arroz negro",
+        "description": "Spanish rice cooked black with squid ink, served with aioli."
+      },
+      {
+        "title": "Suppli",
+        "description": "Roman fried rice croquettes with a string of melted mozzarella inside."
+      },
+      {
+        "title": "Risi e bisi",
+        "description": "Venetian spring rice with young peas, loose enough to eat with a spoon."
+      }
+    ],
+    "intruders": [
+      {
+        "title": "Hainanese chicken rice",
+        "description": "Poached chicken on rice cooked in chicken fat and stock, with ginger.",
+        "why": "Made with jasmine rice, a long-grain variety, toasted in chicken fat."
+      },
+      {
+        "title": "Jambalaya",
+        "description": "Louisiana one-pot rice dish with sausage, chicken, and the holy trinity.",
+        "why": "Made with long-grain rice."
+      },
+      {
+        "title": "Jollof rice",
+        "description": "West African rice simmered in a spiced tomato and red pepper sauce, smoky.",
+        "why": "Made with long-grain rice, often parboiled."
+      }
+    ]
+  },
+  {
+    "id": "food-chili-condiments",
+    "domain": "food",
+    "tier": "moderate",
+    "theme": "Condiments whose heat comes from chili peppers.",
+    "decoy": "Fiery, pungent condiments",
+    "members": [
+      {
+        "title": "Sriracha",
+        "description": "Garlicky, slightly sweet red sauce named for a Thai coastal town."
+      },
+      {
+        "title": "Harissa",
+        "description": "Fiery North African red paste with garlic, caraway, and olive oil."
+      },
+      {
+        "title": "Gochujang",
+        "description": "Sticky, sweet Korean red paste of fermented soybeans and glutinous rice."
+      },
+      {
+        "title": "Sambal oelek",
+        "description": "Coarse Indonesian red paste ground with a stone pestle."
+      },
+      {
+        "title": "Tabasco sauce",
+        "description": "Thin, vinegary red sauce from Louisiana, sold in tiny bottles."
+      },
+      {
+        "title": "Zhoug",
+        "description": "Sharp Yemeni green sauce blended with cilantro, garlic, and cardamom."
+      },
+      {
+        "title": "Nam phrik pao",
+        "description": "Sweet, smoky Thai roasted paste with shallots and dried shrimp."
+      },
+      {
+        "title": "Shatta",
+        "description": "Fiery Palestinian red paste of crushed fresh pods, salt, and olive oil."
+      }
+    ],
+    "intruders": [
+      {
+        "title": "Wasabi",
+        "description": "Sharp green paste served with sushi that goes straight to the sinuses.",
+        "why": "Its bite is allyl isothiocyanate from a brassica rhizome, not capsaicin from chili peppers."
+      },
+      {
+        "title": "Horseradish sauce",
+        "description": "Creamy, sharp white sauce served with roast beef and smoked fish.",
+        "why": "Its pungency comes from isothiocyanates in horseradish root, a brassica, not from chili peppers."
+      },
+      {
+        "title": "English mustard",
+        "description": "Bright yellow, fiercely sharp paste served with ham and sausages.",
+        "why": "Its heat comes from ground mustard seed (isothiocyanates), not from chili peppers."
+      }
+    ]
+  },
+  {
+    "id": "food-christmas-bakes",
+    "domain": "food",
+    "tier": "moderate",
+    "theme": "Cakes, breads, and sweets traditionally made for Christmas.",
+    "decoy": "Festive European enriched breads, cakes, and confections",
+    "members": [
+      {
+        "title": "Stollen",
+        "description": "Dense German loaf of dried fruit with a marzipan core, dusted in sugar."
+      },
+      {
+        "title": "Panettone",
+        "description": "Tall, domed Milanese sweet bread studded with candied citrus and raisins."
+      },
+      {
+        "title": "Pandoro",
+        "description": "Star-shaped golden Veronese sweet bread dusted with vanilla sugar."
+      },
+      {
+        "title": "Buche de Noel",
+        "description": "French rolled sponge frosted with chocolate to look like a log."
+      },
+      {
+        "title": "Mince pie",
+        "description": "Small British pastry tart of spiced dried fruit and suet."
+      },
+      {
+        "title": "Turron",
+        "description": "Spanish nougat bar of honey, egg white, and toasted almonds."
+      },
+      {
+        "title": "Lebkuchen",
+        "description": "Soft spiced Nuremberg honey biscuits, often glazed or chocolate-coated."
+      },
+      {
+        "title": "Pan de jamon",
+        "description": "Venezuelan bread rolled around ham, raisins, and olives."
+      },
+      {
+        "title": "Julekake",
+        "description": "Norwegian cardamom sweet bread with candied peel and raisins."
+      }
+    ],
+    "intruders": [
+      {
+        "title": "Colomba",
+        "description": "Dove-shaped Italian sweet bread with pearl sugar and almonds.",
+        "why": "Made for Easter. It is Panettone's springtime sibling, from the same bakers and dough."
+      },
+      {
+        "title": "Kulich",
+        "description": "Tall cylindrical Russian sweet bread with white icing and candied fruit.",
+        "why": "The Orthodox Easter bread, blessed in church at Easter."
+      },
+      {
+        "title": "Simnel cake",
+        "description": "British fruit cake with marzipan and eleven marzipan balls on top.",
+        "why": "Made for Easter (and Mothering Sunday); the eleven balls stand for the apostles without Judas. It resembles a Christmas cake."
+      }
+    ]
+  },
+  {
+    "id": "food-earth-oven",
+    "domain": "food",
+    "tier": "moderate",
+    "theme": "Dishes traditionally cooked in an earth oven: a pit dug in the ground, heated with hot stones or coals, and covered over.",
+    "decoy": "Whole-animal and communal feast-day roasts",
+    "members": [
+      {
+        "title": "Kalua pig",
+        "description": "Hawaiian whole pig, smoky and shredded, served at luau feasts."
+      },
+      {
+        "title": "Hangi",
+        "description": "Maori feast of meat, potatoes, and kumara wrapped and steamed for hours."
+      },
+      {
+        "title": "Cochinita pibil",
+        "description": "Yucatan pork marinated in achiote and sour orange, wrapped in banana leaves."
+      },
+      {
+        "title": "Curanto",
+        "description": "Chiloe feast of shellfish, meat, and potato dumplings under nalca leaves."
+      },
+      {
+        "title": "Lovo",
+        "description": "Fijian feast of meat, fish, and taro wrapped in banana leaves."
+      },
+      {
+        "title": "Pachamanca",
+        "description": "Andean feast of meats, potatoes, and fava beans layered with herbs."
+      },
+      {
+        "title": "Barbacoa",
+        "description": "Mexican lamb or goat wrapped in maguey leaves and slow-cooked overnight."
+      },
+      {
+        "title": "Zarb",
+        "description": "Bedouin feast of spiced lamb, chicken, and vegetables slow-cooked for hours."
+      },
+      {
+        "title": "New England clambake",
+        "description": "Seaside feast of clams, lobster, and corn layered with seaweed."
+      }
+    ],
+    "intruders": [
+      {
+        "title": "Lechon",
+        "description": "Filipino whole pig with crackling skin, the centerpiece of village fiestas.",
+        "why": "Spit-roasted in the open over charcoal, not buried. It is the same kind of whole-pig feast as kalua pig."
+      },
+      {
+        "title": "Asado",
+        "description": "Argentine feast of beef ribs, sausages, and offal, slow-cooked for hours.",
+        "why": "Grilled on a parrilla or on iron crosses beside an open wood fire, not in a covered pit."
+      }
+    ]
+  },
+  {
+    "id": "food-dry-heat-techniques",
+    "domain": "food",
+    "tier": "moderate",
+    "theme": "Cooking techniques that use dry heat, with hot air, metal, flame, or fat as the medium rather than water or steam.",
+    "decoy": "Core cooking techniques taught in culinary school",
+    "members": [
+      {
+        "title": "Roasting",
+        "description": "Browning a joint or whole bird uncovered in the oven."
+      },
+      {
+        "title": "Grilling",
+        "description": "Charring steaks on bars directly above a charcoal or gas fire."
+      },
+      {
+        "title": "Broiling",
+        "description": "Browning the top of a dish under an intense overhead element."
+      },
+      {
+        "title": "Baking",
+        "description": "Setting breads, cakes, and pastries in an enclosed oven."
+      },
+      {
+        "title": "Searing",
+        "description": "Browning the surface of meat quickly in a smoking skillet."
+      },
+      {
+        "title": "Sauteing",
+        "description": "Tossing small pieces briskly in a shallow skillet with a little butter."
+      },
+      {
+        "title": "Stir-frying",
+        "description": "Tossing bite-sized pieces fast in a wok over a roaring burner."
+      },
+      {
+        "title": "Deep-frying",
+        "description": "Submerging battered pieces in a vat of oil until golden and crisp."
+      },
+      {
+        "title": "Spit-roasting",
+        "description": "Turning a whole animal slowly on a rotating rod beside a fire."
+      }
+    ],
+    "intruders": [
+      {
+        "title": "Pot roasting",
+        "description": "Browning a tough joint, then leaving it covered in the oven.",
+        "why": "Once browned, the joint sits covered with some liquid and cooks in moist heat: it is a braise despite the name."
+      },
+      {
+        "title": "En papillote",
+        "description": "Sealing fish and herbs in a parchment parcel for the oven.",
+        "why": "The food cooks in its own trapped steam; the oven only heats the parcel."
+      },
+      {
+        "title": "Braising",
+        "description": "Browning meat, then leaving it lidded in a heavy dish for hours.",
+        "why": "After browning, the meat cooks partly submerged in liquid: a moist-heat method."
+      }
+    ]
+  },
+  {
+    "id": "food-named-for-vessel",
+    "domain": "food",
+    "tier": "subtle",
+    "theme": "Dishes named after the pot, pan, or mold they are cooked in.",
+    "decoy": "Slow-cooked and oven-baked dishes of European and Mediterranean home cooking",
+    "members": [
+      {
+        "title": "Tagine",
+        "description": "Moroccan slow-braised lamb or chicken with preserved lemon and olives."
+      },
+      {
+        "title": "Paella",
+        "description": "Valencian saffron rice with rabbit, chicken, and beans, with a crisp base."
+      },
+      {
+        "title": "Cassoulet",
+        "description": "Slow-baked Languedoc white beans with duck confit, sausage, and pork."
+      },
+      {
+        "title": "Casserole",
+        "description": "Oven-baked layers of meat, starch, and sauce under a golden crust."
+      },
+      {
+        "title": "Terrine",
+        "description": "Coarse pate of pressed meats, served cold in thick slices."
+      },
+      {
+        "title": "Tian",
+        "description": "Provencal bake of thinly sliced vegetables in overlapping rows."
+      },
+      {
+        "title": "Potjiekos",
+        "description": "South African stew layered over coals and left unstirred for hours."
+      },
+      {
+        "title": "Olla podrida",
+        "description": "Spanish stew of beans, pork, and sausages simmered for hours."
+      },
+      {
+        "title": "Donburi",
+        "description": "Japanese bowl of rice topped with simmered beef, chicken, or fried cutlet."
+      }
+    ],
+    "intruders": [
+      {
+        "title": "Gratin",
+        "description": "Oven-baked sliced potatoes or vegetables under a golden, crusty top.",
+        "why": "Named for its crust (from gratter, to scrape). The gratin dish is named after the food, not the reverse."
+      },
+      {
+        "title": "Fondue",
+        "description": "Swiss melted cheese and white wine, kept bubbling for dipping bread.",
+        "why": "From fondre, 'to melt'. Its pot is called a caquelon."
+      },
+      {
+        "title": "Bouillabaisse",
+        "description": "Provencal fish stew with saffron and rouille, with toasted bread.",
+        "why": "Named for its method, from the Provencal for 'boil' and 'lower' (the heat), not for a vessel."
+      }
+    ]
+  },
+  {
+    "id": "food-imitation-stand-ins",
+    "domain": "food",
+    "tier": "subtle",
+    "theme": "Foods devised as stand-ins that imitate another, usually pricier or scarcer, food.",
+    "decoy": "Foods with misleading or tongue-in-cheek names",
+    "members": [
+      {
+        "title": "Mock turtle soup",
+        "description": "Victorian brown soup of calf's head, sherry, and forcemeat balls."
+      },
+      {
+        "title": "Mock apple pie",
+        "description": "American pie of buttery crackers baked in a lemon-and-cinnamon syrup."
+      },
+      {
+        "title": "Crab sticks",
+        "description": "Red-and-white sticks of surimi, a paste of white fish, for sushi rolls."
+      },
+      {
+        "title": "Margarine",
+        "description": "Spread of vegetable oils churned into a yellow block or tub."
+      },
+      {
+        "title": "City chicken",
+        "description": "Cubes of pork or veal threaded onto wooden skewers, breaded and baked."
+      },
+      {
+        "title": "Chicory coffee",
+        "description": "Dark brew of roasted root served with beignets in New Orleans."
+      },
+      {
+        "title": "Lumpfish caviar",
+        "description": "Tiny roe dyed black or red, sold in small jars for canapes."
+      },
+      {
+        "title": "Veggie burger",
+        "description": "Patty of beans, grains, or soy, grilled and served in a bun."
+      }
+    ],
+    "intruders": [
+      {
+        "title": "Welsh rabbit",
+        "description": "Toast under a sauce of cheese, ale, and mustard, grilled till bubbly.",
+        "why": "A joke name for cheese on toast; it was never meant to imitate rabbit."
+      },
+      {
+        "title": "Bombay duck",
+        "description": "Dried, salted fish from the Arabian Sea, fried crisp with curry.",
+        "why": "A lizardfish eaten as itself; the name is a quirk and it imitates no duck."
+      },
+      {
+        "title": "Toad in the hole",
+        "description": "Sausages baked in Yorkshire pudding batter with onion gravy.",
+        "why": "A whimsical name for sausages in batter; it imitates nothing."
+      }
+    ]
+  },
+  {
+    "id": "food-names-list-ingredients",
+    "domain": "food",
+    "tier": "subtle",
+    "theme": "Foods whose name, in its source language, simply names one or more of their main ingredients.",
+    "decoy": "Foods known in English by a borrowed foreign name",
+    "members": [
+      {
+        "title": "Hummus",
+        "description": "Levantine puree with tahini, lemon, and garlic, swirled with olive oil."
+      },
+      {
+        "title": "Tapenade",
+        "description": "Provencal black spread of olives, anchovies, and capers for toast."
+      },
+      {
+        "title": "Aioli",
+        "description": "Pungent Provencal garlic sauce pounded with olive oil."
+      },
+      {
+        "title": "Guacamole",
+        "description": "Mexican mash of avocado, lime, onion, cilantro, and chile."
+      },
+      {
+        "title": "Sauerkraut",
+        "description": "Finely shredded fermented cabbage served with sausages and pork knuckle."
+      },
+      {
+        "title": "Aloo gobi",
+        "description": "Dry North Indian curry of potatoes and cauliflower with turmeric."
+      },
+      {
+        "title": "Palak paneer",
+        "description": "Soft cheese cubes in a smooth, spiced spinach puree."
+      },
+      {
+        "title": "Arroz con pollo",
+        "description": "Latin American one-pot meal of chicken and saffron-yellow rice."
+      }
+    ],
+    "intruders": [
+      {
+        "title": "Pesto",
+        "description": "Genoese green sauce of basil, pine nuts, garlic, and parmesan.",
+        "why": "From pestare, 'to pound': the name describes the method, not basil or any ingredient."
+      },
+      {
+        "title": "Tahini",
+        "description": "Smooth, nutty Middle Eastern paste of toasted, hulled sesame.",
+        "why": "From the Arabic root for 'to grind': the name describes the method, not sesame."
+      },
+      {
+        "title": "Ratatouille",
+        "description": "Provencal summer stew of eggplant, zucchini, peppers, and tomato.",
+        "why": "From French touiller, 'to stir': the name names no vegetable."
+      }
+    ]
+  },
+  {
+    "id": "food-reduplicated-names",
+    "domain": "food",
+    "tier": "subtle",
+    "theme": "Foods whose name is the same word said twice.",
+    "decoy": "Foods with playful, sing-song names",
+    "members": [
+      {
+        "title": "Couscous",
+        "description": "North African steamed semolina pellets served under a vegetable stew."
+      },
+      {
+        "title": "Bonbon",
+        "description": "Bite-sized chocolate or sugar confection wrapped in foil or paper."
+      },
+      {
+        "title": "Mahi-mahi",
+        "description": "Firm, mild, sweet-fleshed ocean fish grilled for tacos."
+      },
+      {
+        "title": "Piri-piri",
+        "description": "Tiny fiery African pepper behind Portuguese grilled chicken."
+      },
+      {
+        "title": "Gado-gado",
+        "description": "Indonesian salad of blanched greens, tofu, and egg with peanut sauce."
+      },
+      {
+        "title": "Chow chow",
+        "description": "Tangy relish of chopped green tomatoes, cabbage, and peppers."
+      },
+      {
+        "title": "Bang bang chicken",
+        "description": "Sichuan cold shredded chicken dressed in a spicy sesame sauce."
+      },
+      {
+        "title": "Chin chin",
+        "description": "Crunchy fried dough cubes, a favorite Nigerian snack."
+      },
+      {
+        "title": "Lomi-lomi salmon",
+        "description": "Hawaiian side of salted salmon massaged with tomato and onion."
+      }
+    ],
+    "intruders": [
+      {
+        "title": "Tutti frutti",
+        "description": "Colorful mix of chopped candied fruits folded into ice cream.",
+        "why": "A rhyme, not a repeat: tutti and frutti are different words."
+      },
+      {
+        "title": "Hotchpotch",
+        "description": "Hearty Scottish broth of lamb with summer peas, beans, and roots.",
+        "why": "A rhyming compound (hotch and potch), not the same word twice."
+      },
+      {
+        "title": "Pani puri",
+        "description": "Hollow crisp shells filled with spiced water, potato, and chickpeas.",
+        "why": "Alliterative, but pani (water) and puri (the fried shell) are two different words."
+      }
+    ]
+  },
+  {
+    "id": "food-hidden-animal-ingredient",
+    "domain": "food",
+    "tier": "subtle",
+    "theme": "Foods whose standard recipe includes a non-obvious ingredient taken from animal flesh, fat, bones, or skin.",
+    "decoy": "Sauces, sweets, and dishes that look plant-based at first glance",
+    "members": [
+      {
+        "title": "Worcestershire sauce",
+        "description": "Thin, dark, tangy English sauce of vinegar, tamarind, and molasses."
+      },
+      {
+        "title": "Panna cotta",
+        "description": "Wobbly Italian dessert of sweetened set cream with berry coulis."
+      },
+      {
+        "title": "Gummy bears",
+        "description": "Chewy, translucent fruit-flavored candies shaped like little bears."
+      },
+      {
+        "title": "Marshmallows",
+        "description": "Fluffy, spongy white candies toasted over campfires."
+      },
+      {
+        "title": "Pad thai",
+        "description": "Stir-fried rice noodles with tamarind, peanuts, egg, and bean sprouts."
+      },
+      {
+        "title": "Refried beans",
+        "description": "Mashed, twice-fried pinto beans served with Mexican breakfasts."
+      },
+      {
+        "title": "Tamales",
+        "description": "Masa dough steamed in corn husks around a savory stuffing."
+      },
+      {
+        "title": "Thai green curry paste",
+        "description": "Bright green paste of chilies, lemongrass, galangal, and garlic."
+      }
+    ],
+    "intruders": [
+      {
+        "title": "Turkish delight",
+        "description": "Chewy cubes of rosewater jelly dusted in powdered sugar and starch.",
+        "why": "Traditionally set with starch and sugar, not gelatin, unlike gummy candies."
+      },
+      {
+        "title": "Hoisin sauce",
+        "description": "Thick, sweet, dark sauce brushed on Peking duck and char siu.",
+        "why": "Made from fermented soybean paste. Its Cantonese name means 'seafood', but it contains none."
+      },
+      {
+        "title": "Cranberry sauce",
+        "description": "Wobbly ruby jelly sliced from a can for Thanksgiving dinner.",
+        "why": "Set by the natural pectin in cranberries, not by gelatin."
+      }
+    ]
+  },
+  {
+    "id": "food-literal-number-names",
+    "domain": "food",
+    "tier": "subtle",
+    "theme": "Foods with a number in their name that literally counts their components or steps.",
+    "decoy": "Foods with a number in their name",
+    "members": [
+      {
+        "title": "Tres leches cake",
+        "description": "Sponge soaked in evaporated milk, condensed milk, and cream."
+      },
+      {
+        "title": "Quatre-quarts",
+        "description": "Breton pound cake of equal weights of butter, sugar, flour, and eggs."
+      },
+      {
+        "title": "Three-cup chicken",
+        "description": "Taiwanese favorite of chicken braised in sesame oil, rice wine, and soy."
+      },
+      {
+        "title": "Seven-layer dip",
+        "description": "Party dip of beans, sour cream, guacamole, salsa, cheese, olives, and onion."
+      },
+      {
+        "title": "Quattro formaggi pizza",
+        "description": "Pizza topped with mozzarella, gorgonzola, fontina, and parmesan."
+      },
+      {
+        "title": "Quatre epices",
+        "description": "French spice blend of pepper, nutmeg, cloves, and ginger."
+      },
+      {
+        "title": "Twice-cooked pork",
+        "description": "Sichuan pork belly boiled, sliced, then stir-fried with leeks."
+      },
+      {
+        "title": "Half-and-half",
+        "description": "American carton mixing whole milk and light cream in equal measure."
+      }
+    ],
+    "intruders": [
+      {
+        "title": "Thousand Island dressing",
+        "description": "Pink creamy dressing of mayonnaise, ketchup, and chopped pickles.",
+        "why": "Named after the Thousand Islands region on the St. Lawrence River; it counts nothing in the dressing."
+      },
+      {
+        "title": "Century egg",
+        "description": "Duck egg preserved in clay and ash until the white turns amber jelly.",
+        "why": "Cured for weeks to a few months, not a hundred years."
+      },
+      {
+        "title": "Hundreds and thousands",
+        "description": "Tiny colorful sugar balls scattered over fairy bread and cakes.",
+        "why": "The numbers are figurative; they count nothing."
+      }
+    ]
+  },
+  {
+    "id": "food-american-born-foreign-dishes",
+    "domain": "food",
+    "tier": "subtle",
+    "theme": "Dishes associated with a foreign cuisine that were actually first created in the United States.",
+    "decoy": "Dishes whose names or styles point to a foreign cuisine",
+    "members": [
+      {
+        "title": "Spaghetti and meatballs",
+        "description": "Long pasta under a tomato sauce crowned with large round meatballs."
+      },
+      {
+        "title": "Chicken parmigiana",
+        "description": "Breaded chicken cutlet baked under tomato sauce and melted mozzarella."
+      },
+      {
+        "title": "Crab Rangoon",
+        "description": "Fried wonton wrappers around crab and cream cheese."
+      },
+      {
+        "title": "Cioppino",
+        "description": "Tomato and wine stew of crab, clams, and fish, served with sourdough."
+      },
+      {
+        "title": "Russian dressing",
+        "description": "Tangy pink dressing of mayonnaise, chili sauce, and horseradish."
+      },
+      {
+        "title": "French dip",
+        "description": "Sliced roast beef on a baguette, dunked in meat juices."
+      },
+      {
+        "title": "Italian beef",
+        "description": "Thin-sliced roast beef soaked in gravy on a roll with giardiniera."
+      }
+    ],
+    "intruders": [
+      {
+        "title": "Fettuccine Alfredo",
+        "description": "Ribbons of pasta tossed with butter and parmesan until creamy.",
+        "why": "Created in Rome by restaurateur Alfredo di Lelio in the early 20th century. It is far more famous in America than in Italy."
+      },
+      {
+        "title": "General Tso's chicken",
+        "description": "Crispy battered chicken in a sweet, spicy, glossy chili sauce.",
+        "why": "Created in Taiwan by chef Peng Chang-kuei in the 1950s; American restaurants later made it sweeter."
+      },
+      {
+        "title": "Irish coffee",
+        "description": "Hot coffee with whiskey and sugar, crowned with a layer of cream.",
+        "why": "Created at Foynes in Ireland by chef Joe Sheridan in the 1940s; San Francisco only popularized it."
+      }
+    ]
+  },
+  {
+    "id": "food-laminated-pastry",
+    "domain": "food",
+    "tier": "subtle",
+    "theme": "Pastries made from laminated dough, where a slab of butter is folded into the dough again and again to create many thin layers.",
+    "decoy": "Flaky, crisp European bakery pastries",
+    "members": [
+      {
+        "title": "Croissant",
+        "description": "Crescent-shaped French breakfast roll with a honeycombed crumb."
+      },
+      {
+        "title": "Pain au chocolat",
+        "description": "Rectangular French breakfast roll wrapped around two sticks of dark chocolate."
+      },
+      {
+        "title": "Kouign-amann",
+        "description": "Breton round with a caramelized, sugary, crackling crust."
+      },
+      {
+        "title": "Mille-feuille",
+        "description": "Stacked sheets of crisp pastry with pastry cream, iced on top."
+      },
+      {
+        "title": "Palmier",
+        "description": "Heart-shaped cookie of sugared pastry rolled in from both sides."
+      },
+      {
+        "title": "Danish pastry",
+        "description": "Sweet breakfast pastry with a fruit or cheese center and icing."
+      },
+      {
+        "title": "Vol-au-vent",
+        "description": "Hollow, crisp pastry case spooned full of creamy chicken and mushrooms."
+      },
+      {
+        "title": "Pithivier",
+        "description": "Domed, spiral-scored French pie around a core of almond cream."
+      },
+      {
+        "title": "Cronut",
+        "description": "Ring-shaped fried pastry, cream-filled and glazed, created in New York."
+      }
+    ],
+    "intruders": [
+      {
+        "title": "Baklava",
+        "description": "Syrup-soaked stack of crisp pastry sheets and chopped pistachios.",
+        "why": "Made by stacking separate phyllo sheets brushed with butter one by one; the dough itself is never laminated."
+      },
+      {
+        "title": "Strudel",
+        "description": "Paper-thin stretched dough rolled around apples and raisins.",
+        "why": "The dough is stretched by hand and rolled up with fat brushed on, not laminated with butter folds."
+      },
+      {
+        "title": "Brioche",
+        "description": "Rich, golden French breakfast bread made with eggs and butter.",
+        "why": "An enriched dough with the butter kneaded straight in; there is no folding into layers."
+      }
+    ]
+  },
+  {
+    "id": "food-traditional-method-sparkling",
+    "domain": "food",
+    "tier": "subtle",
+    "theme": "Sparkling wines whose appellation or legal category requires the traditional method: a second fermentation inside each bottle.",
+    "decoy": "Prestigious European sparkling wines",
+    "members": [
+      {
+        "title": "Champagne",
+        "description": "Northern French sparkling wine from Chardonnay, Pinot Noir, and Meunier."
+      },
+      {
+        "title": "Cava",
+        "description": "Spanish sparkling wine largely from Penedes, often from Macabeo and Xarel-lo."
+      },
+      {
+        "title": "Franciacorta",
+        "description": "Lombard sparkling wine from vineyards near Lake Iseo."
+      },
+      {
+        "title": "Cremant d'Alsace",
+        "description": "Sparkling wine from Alsace, often based on Pinot Blanc."
+      },
+      {
+        "title": "Cremant de Loire",
+        "description": "Sparkling wine from the Loire Valley, largely from Chenin Blanc."
+      },
+      {
+        "title": "Alta Langa",
+        "description": "Piedmontese sparkling wine from Pinot Noir and Chardonnay grown in the hills."
+      },
+      {
+        "title": "Trentodoc",
+        "description": "Sparkling wine from the mountain vineyards of Trentino, mostly Chardonnay."
+      },
+      {
+        "title": "Cap Classique",
+        "description": "South African sparkling wine, much of it from Stellenbosch and Robertson."
+      }
+    ],
+    "intruders": [
+      {
+        "title": "Prosecco",
+        "description": "Northeastern Italian sparkling wine from Glera grapes, light and fruity.",
+        "why": "Prosecco's rules allow the tank (Charmat) method, and nearly all of it is made that way."
+      },
+      {
+        "title": "Asti",
+        "description": "Sweet, low-alcohol Piedmontese sparkling wine from Moscato Bianco grapes.",
+        "why": "Made in pressurized tanks by a single fermentation that is stopped early to keep it sweet."
+      },
+      {
+        "title": "Sekt",
+        "description": "German sparkling wine, a staple at weddings and New Year's Eve toasts.",
+        "why": "German rules allow tank fermentation, and most Sekt is made that way."
+      }
+    ]
+  }
+]

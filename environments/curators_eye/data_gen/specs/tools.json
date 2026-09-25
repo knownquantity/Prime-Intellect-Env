@@ -1,0 +1,1565 @@
+[
+  {
+    "id": "tools-length-measuring",
+    "domain": "tools",
+    "tier": "obvious",
+    "theme": "Instruments for determining length or distance.",
+    "decoy": "Measuring and layout tools used in a workshop or on a job site",
+    "members": [
+      {
+        "title": "Tape measure",
+        "description": "Spring-retracting steel ribbon in a case, with a hooked tip."
+      },
+      {
+        "title": "Micrometer",
+        "description": "C-shaped frame with a finely threaded spindle and rotating thimble."
+      },
+      {
+        "title": "Caliper",
+        "description": "Sliding jaws on a graduated beam for gauging parts inside and out."
+      },
+      {
+        "title": "Folding rule",
+        "description": "Hinged wooden segments that open out into one rigid stick."
+      },
+      {
+        "title": "Feeler gauge",
+        "description": "Fan of thin steel blades, each stamped with its thickness."
+      },
+      {
+        "title": "Measuring wheel",
+        "description": "Wheel on a long handle that clicks off each turn along the ground."
+      },
+      {
+        "title": "Laser rangefinder",
+        "description": "Handheld unit that bounces a beam off a far wall."
+      },
+      {
+        "title": "Odometer",
+        "description": "Dashboard counter tallying how far a vehicle has traveled."
+      },
+      {
+        "title": "Surveyor's chain",
+        "description": "Sixty-six-foot run of iron links used in early land surveys."
+      }
+    ],
+    "intruders": [
+      {
+        "title": "Chalk line",
+        "description": "Reel of powdered string in a case, snapped taut on a board.",
+        "why": "It only marks a straight line between two points and measures nothing. The string reels into a case like a tape measure, which is why it looks like one."
+      },
+      {
+        "title": "Plumb bob",
+        "description": "Pointed brass weight hung on a string over a mark on the floor.",
+        "why": "It establishes true vertical but gives no reading of how long anything is. It sits in every layout kit beside the rules and tapes."
+      }
+    ]
+  },
+  {
+    "id": "tools-glassware",
+    "domain": "tools",
+    "tier": "obvious",
+    "theme": "Laboratory vessels that are traditionally made of glass.",
+    "decoy": "Standard chemistry-lab vessels and apparatus",
+    "members": [
+      {
+        "title": "Beaker",
+        "description": "Straight-sided cylinder with a pouring lip and rough volume marks."
+      },
+      {
+        "title": "Conical flask",
+        "description": "Flat-bottomed container tapering to a narrow neck for swirling."
+      },
+      {
+        "title": "Test tube",
+        "description": "Slim round-bottomed tube held in racks or clamped over a flame."
+      },
+      {
+        "title": "Graduated cylinder",
+        "description": "Tall narrow column marked for measuring out liquid volumes."
+      },
+      {
+        "title": "Burette",
+        "description": "Long marked tube with a stopcock, dispensing titrant drop by drop."
+      },
+      {
+        "title": "Volumetric flask",
+        "description": "Pear-shaped bulb with a long neck bearing a single fill line."
+      },
+      {
+        "title": "Round-bottom flask",
+        "description": "Spherical container that rests in a cork ring or heating mantle."
+      },
+      {
+        "title": "Liebig condenser",
+        "description": "Jacketed tube cooled by circulating water to turn vapor to liquid."
+      },
+      {
+        "title": "Volumetric pipette",
+        "description": "Thin tube with a central bulb that delivers one exact volume."
+      }
+    ],
+    "intruders": [
+      {
+        "title": "Crucible",
+        "description": "Small heat-resistant cup, often with a lid, for heating samples hard.",
+        "why": "Normally porcelain, other ceramic, or metal such as platinum, since glass would soften at those temperatures. It sits among the flasks on every chemistry bench."
+      },
+      {
+        "title": "Buchner funnel",
+        "description": "Funnel with a flat perforated plate, fitted to a flask for filtering.",
+        "why": "Classically made of glazed porcelain (glass and plastic versions came later). It is always mounted on a glass flask, so it reads as glassware."
+      },
+      {
+        "title": "Evaporating dish",
+        "description": "Shallow round bowl with a pouring lip, used to boil off solvent.",
+        "why": "Traditionally glazed porcelain, which tolerates direct heating. It looks like a watch glass or a small beaker."
+      }
+    ]
+  },
+  {
+    "id": "tools-fastener-setting",
+    "domain": "tools",
+    "tier": "obvious",
+    "theme": "Tools that drive or set fasteners into place.",
+    "decoy": "Hand and power tools for working with staples, nails, rivets and screws",
+    "members": [
+      {
+        "title": "Stapler",
+        "description": "Desktop device with a spring-loaded magazine and a hinged top."
+      },
+      {
+        "title": "Nail gun",
+        "description": "Pneumatic or cordless gun fed by a strip of collated nails."
+      },
+      {
+        "title": "Staple gun",
+        "description": "Heavy trigger-fired gun for tacking sheeting and upholstery to wood."
+      },
+      {
+        "title": "Pop rivet gun",
+        "description": "Squeeze-handled gun that pulls a mandrel until it snaps off."
+      },
+      {
+        "title": "Impact driver",
+        "description": "Compact cordless driver that adds rotary hammer blows for torque."
+      },
+      {
+        "title": "Hog ring pliers",
+        "description": "Grooved-jaw pliers that close metal rings around wire or fabric."
+      },
+      {
+        "title": "Grommet setter",
+        "description": "Punch-and-anvil pair that flares a metal eyelet through canvas."
+      },
+      {
+        "title": "Cable tie gun",
+        "description": "Pistol-grip device that tensions plastic straps and trims the tail."
+      },
+      {
+        "title": "Tack hammer",
+        "description": "Light hammer with a magnetized face that holds small tacks."
+      }
+    ],
+    "intruders": [
+      {
+        "title": "Staple remover",
+        "description": "Pair of interlocking steel claws on a spring hinge, kept on desks.",
+        "why": "It pries staples out, the opposite job. It lives beside the stapler, so it looks like part of the set."
+      },
+      {
+        "title": "Cat's paw",
+        "description": "Short steel bar with a curved, notched claw at one end.",
+        "why": "A nail puller that digs out driven nails, so it removes fasteners rather than setting them. It belongs to the same framing toolkit as the nail gun."
+      },
+      {
+        "title": "Screw extractor",
+        "description": "Hardened bit with a reverse spiral, chucked into a cordless drill.",
+        "why": "It backs out broken or stripped screws, which is removal, not installation. It is chucked like a driver bit."
+      }
+    ]
+  },
+  {
+    "id": "tools-electrical-measurement",
+    "domain": "tools",
+    "tier": "obvious",
+    "theme": "Instruments that measure an electrical quantity such as current, voltage, resistance or power.",
+    "decoy": "Meters with needle or digital readouts",
+    "members": [
+      {
+        "title": "Ammeter",
+        "description": "Meter wired in series into a circuit, often with a moving needle."
+      },
+      {
+        "title": "Voltmeter",
+        "description": "Meter connected across two points, with high internal impedance."
+      },
+      {
+        "title": "Ohmmeter",
+        "description": "Meter that checks a component using its own internal battery."
+      },
+      {
+        "title": "Multimeter",
+        "description": "Handheld box with a rotary selector and red and black probes."
+      },
+      {
+        "title": "Galvanometer",
+        "description": "Sensitive needle meter built around a coil in a magnet's field."
+      },
+      {
+        "title": "Wattmeter",
+        "description": "Meter pairing a fixed coil and a moving coil to gauge a load."
+      },
+      {
+        "title": "Oscilloscope",
+        "description": "Screen that plots a signal's waveform against time."
+      },
+      {
+        "title": "Clamp meter",
+        "description": "Jawed handheld meter closed around a single cable."
+      },
+      {
+        "title": "Electricity meter",
+        "description": "Utility box on an outside wall that tallies kilowatt-hours."
+      }
+    ],
+    "intruders": [
+      {
+        "title": "Light meter",
+        "description": "Handheld photocell meter that photographers use to set exposure.",
+        "why": "It measures light intensity. It has a photocell and a needle, so it looks electrical, but light is what it reads."
+      },
+      {
+        "title": "Sound level meter",
+        "description": "Handheld meter with a microphone that reads loudness in decibels.",
+        "why": "It measures sound pressure. It has electronics and a meter display, but the quantity it reports is acoustic."
+      }
+    ]
+  },
+  {
+    "id": "tools-heating-appliances",
+    "domain": "tools",
+    "tier": "obvious",
+    "theme": "Countertop kitchen appliances that cook or heat food.",
+    "decoy": "Plug-in countertop kitchen appliances",
+    "members": [
+      {
+        "title": "Toaster",
+        "description": "Slotted box that browns bread slices and pops them up."
+      },
+      {
+        "title": "Slow cooker",
+        "description": "Ceramic crock with a lid, left on for hours to braise stews."
+      },
+      {
+        "title": "Rice cooker",
+        "description": "Lidded pot that switches itself to keep-warm when grains are done."
+      },
+      {
+        "title": "Waffle iron",
+        "description": "Hinged plates with a grid pattern that close over batter."
+      },
+      {
+        "title": "Air fryer",
+        "description": "Basket unit that blasts hot air to crisp fries and wings."
+      },
+      {
+        "title": "Electric kettle",
+        "description": "Jug on a powered base that switches off at the boil."
+      },
+      {
+        "title": "Sous vide circulator",
+        "description": "Stick-shaped unit clipped to a pot to hold a bath at a set temperature."
+      },
+      {
+        "title": "Panini press",
+        "description": "Ridged hinged plates that flatten and toast filled sandwiches."
+      },
+      {
+        "title": "Bread machine",
+        "description": "Box with a single pan that kneads, proofs and bakes a loaf."
+      },
+      {
+        "title": "Deep fryer",
+        "description": "Oil-filled tub with a lowering basket and a thermostat."
+      }
+    ],
+    "intruders": [
+      {
+        "title": "Stand mixer",
+        "description": "Tilt-head machine with a bowl, beaters and a dough hook.",
+        "why": "It mixes and kneads but has no heating element. It works the same dough as the bread machine, which does bake."
+      },
+      {
+        "title": "Ice cream maker",
+        "description": "Churning machine with a frozen bowl or built-in compressor.",
+        "why": "It chills rather than warms. It is a plug-in dessert machine that sits on the same counter."
+      }
+    ]
+  },
+  {
+    "id": "tools-screw-driven",
+    "domain": "tools",
+    "tier": "obvious",
+    "theme": "Devices whose working action comes from a threaded screw.",
+    "decoy": "Devices for clamping, pressing or lifting",
+    "members": [
+      {
+        "title": "Bench vise",
+        "description": "Heavy jaws bolted to a workbench, closed by turning a long handle."
+      },
+      {
+        "title": "C-clamp",
+        "description": "Forged C-shaped frame with a swivel pad pressed by a turned handle."
+      },
+      {
+        "title": "Corkscrew",
+        "description": "Pointed helix on a handle that pulls stoppers from wine bottles."
+      },
+      {
+        "title": "Scissor jack",
+        "description": "Diamond-shaped car jack cranked by a rod through its middle."
+      },
+      {
+        "title": "Turnbuckle",
+        "description": "Metal link with opposing ends that tightens a cable when rotated."
+      },
+      {
+        "title": "Hose clamp",
+        "description": "Slotted steel band tightened around tubing by a small head."
+      },
+      {
+        "title": "Meat grinder",
+        "description": "Hand-cranked hopper that forces meat against a perforated plate."
+      },
+      {
+        "title": "Pipe clamp",
+        "description": "Fittings mounted on a length of pipe to squeeze glued boards."
+      },
+      {
+        "title": "Book press",
+        "description": "Iron frame with a platen lowered by a wheel onto stacked books."
+      }
+    ],
+    "intruders": [
+      {
+        "title": "Spring clamp",
+        "description": "Hand-squeezed clamp with plastic-tipped jaws and a coiled hinge.",
+        "why": "A coiled spring supplies the grip and there is no thread anywhere. It does the same job as the C-clamp."
+      },
+      {
+        "title": "Toggle clamp",
+        "description": "Lever clamp bolted to a jig that locks when pushed past center.",
+        "why": "It holds by an over-center linkage, not a thread. It clamps work just like the vise and C-clamp."
+      },
+      {
+        "title": "Hydraulic jack",
+        "description": "Squat bottle-shaped car jack pumped with a removable handle.",
+        "why": "It lifts by oil pressure from a small pump plunger. It does the same job as the threaded scissor jack."
+      }
+    ]
+  },
+  {
+    "id": "tools-magnifying-optics",
+    "domain": "tools",
+    "tier": "obvious",
+    "theme": "Optical instruments that show an enlarged image of their subject.",
+    "decoy": "Handheld or mounted devices you look through with one or both eyes",
+    "members": [
+      {
+        "title": "Compound microscope",
+        "description": "Stage, objective turret and eyepiece stacked on a heavy stand."
+      },
+      {
+        "title": "Jeweler's loupe",
+        "description": "Tiny folding lens held right up against the eye."
+      },
+      {
+        "title": "Magnifying glass",
+        "description": "Single convex lens in a round frame on a handle."
+      },
+      {
+        "title": "Binoculars",
+        "description": "Paired prism-folded tubes focused by a central wheel."
+      },
+      {
+        "title": "Opera glasses",
+        "description": "Small paired viewers, often gilded, for watching a stage."
+      },
+      {
+        "title": "Spotting scope",
+        "description": "Angled single tube on a tripod for birding and target shooting."
+      },
+      {
+        "title": "Rifle scope",
+        "description": "Tube with crosshairs clamped on top of a hunting rifle."
+      },
+      {
+        "title": "Monocular",
+        "description": "Pocket-sized single tube for glimpsing distant signs or birds."
+      }
+    ],
+    "intruders": [
+      {
+        "title": "Kaleidoscope",
+        "description": "Mirror-lined tube of colored chips, turned against the light.",
+        "why": "Its mirrors multiply the view into symmetric patterns and nothing is enlarged. It is a tube held to one eye, like a monocular."
+      },
+      {
+        "title": "Door peephole",
+        "description": "Tiny lens tube fitted through a front door at eye level.",
+        "why": "Its wide-angle lens shrinks the scene so the whole doorstep fits in view, which gives a reduced image. You look through its lens as you would a loupe."
+      }
+    ]
+  },
+  {
+    "id": "tools-food-grinding",
+    "domain": "tools",
+    "tier": "obvious",
+    "theme": "Tools that grind food into powder, paste or small particles.",
+    "decoy": "Traditional hand-operated kitchen implements",
+    "members": [
+      {
+        "title": "Mortar and pestle",
+        "description": "Heavy bowl worked with a short club-shaped pounder."
+      },
+      {
+        "title": "Pepper mill",
+        "description": "Tall tabletop shaker turned by hand, adjusted by a top knob."
+      },
+      {
+        "title": "Burr grinder",
+        "description": "Coffee machine with two ridged discs set at an adjustable gap."
+      },
+      {
+        "title": "Quern",
+        "description": "Pair of round stones, the upper one turned by a wooden handle."
+      },
+      {
+        "title": "Molcajete",
+        "description": "Three-legged basalt bowl used for salsas and guacamole."
+      },
+      {
+        "title": "Suribachi",
+        "description": "Japanese ceramic bowl with a combed, ridged interior."
+      },
+      {
+        "title": "Metate",
+        "description": "Sloped stone slab worked with a hand stone over maize."
+      },
+      {
+        "title": "Poppy seed mill",
+        "description": "Crank mill clamped to a table in Central European kitchens."
+      }
+    ],
+    "intruders": [
+      {
+        "title": "Tortilla press",
+        "description": "Two hinged flat plates, often cast iron, closed with a lever.",
+        "why": "It flattens balls of dough into discs and breaks nothing down. It is used alongside the metate in the same kitchens."
+      },
+      {
+        "title": "Meat mallet",
+        "description": "Weighted hammer with a studded face for kitchen work.",
+        "why": "It pounds cuts thin to tenderize them but reduces nothing to powder or paste. It is swung like a pestle."
+      }
+    ]
+  },
+  {
+    "id": "tools-angle-instruments",
+    "domain": "tools",
+    "tier": "obvious",
+    "theme": "Instruments that measure angles.",
+    "decoy": "Instruments with pivoting arms or arcs, used in drafting, layout, surveying and navigation",
+    "members": [
+      {
+        "title": "Protractor",
+        "description": "Half-disc of clear plastic marked from zero to one hundred eighty."
+      },
+      {
+        "title": "Sextant",
+        "description": "Brass arc with a swinging arm and mirrors for sighting the noon sun."
+      },
+      {
+        "title": "Theodolite",
+        "description": "Tripod-mounted telescope that turns about two perpendicular axes."
+      },
+      {
+        "title": "Inclinometer",
+        "description": "Device that reads the tilt of a slope, a pipe or a vehicle."
+      },
+      {
+        "title": "Goniometer",
+        "description": "Hinged pair of arms that physiotherapists lay along a joint."
+      },
+      {
+        "title": "Astrolabe",
+        "description": "Engraved brass disc with a rotating sighting bar called an alidade."
+      },
+      {
+        "title": "Bevel protractor",
+        "description": "Steel dial with a swinging blade, used by machinists on workpieces."
+      },
+      {
+        "title": "Quadrant",
+        "description": "Quarter-circle plate with a plumb line, used by early astronomers."
+      }
+    ],
+    "intruders": [
+      {
+        "title": "Sliding bevel",
+        "description": "Adjustable steel blade locked to a wooden handle by a wing nut.",
+        "why": "It copies and transfers a set slope but has no scale, so it measures nothing. Its name echoes the bevel protractor."
+      },
+      {
+        "title": "Drawing compass",
+        "description": "Two hinged legs, one with a steel point and one holding a pencil.",
+        "why": "It draws circles and steps off distances and has no scale for reading its opening. Its hinged legs make it look like an angle instrument."
+      }
+    ]
+  },
+  {
+    "id": "tools-17th-century-instruments",
+    "domain": "tools",
+    "tier": "moderate",
+    "theme": "Scientific and calculating instruments first made in the 1600s.",
+    "decoy": "Landmark instruments from the early centuries of modern science",
+    "members": [
+      {
+        "title": "Reflecting telescope",
+        "description": "Tube that gathers light with a curved mirror instead of a lens."
+      },
+      {
+        "title": "Mercury barometer",
+        "description": "Glass tube of quicksilver standing inverted in an open dish."
+      },
+      {
+        "title": "Pendulum clock",
+        "description": "Timepiece regulated by a swinging weighted rod."
+      },
+      {
+        "title": "Slide rule",
+        "description": "Sliding logarithmic scales for multiplying and dividing."
+      },
+      {
+        "title": "Napier's bones",
+        "description": "Set of numbered rods for doing multiplication by lattice."
+      },
+      {
+        "title": "Pascaline",
+        "description": "Brass box of geared dials that adds and subtracts numbers."
+      },
+      {
+        "title": "Vernier scale",
+        "description": "Short sliding scale that reads between the marks of a main scale."
+      },
+      {
+        "title": "Air pump",
+        "description": "Cylinder and piston for drawing air out of a sealed vessel."
+      }
+    ],
+    "intruders": [
+      {
+        "title": "Leyden jar",
+        "description": "Glass jar coated inside and out with metal foil, for storing charge.",
+        "why": "Invented in 1745-46 by Ewald von Kleist and, independently, Pieter van Musschenbroek at Leiden. It feels like early experimental apparatus of the air-pump era but is from the 1700s."
+      },
+      {
+        "title": "Achromatic telescope",
+        "description": "Tube with a two-glass objective lens that cancels colored fringes.",
+        "why": "Chester Moor Hall devised achromatic lenses around 1730 and John Dollond patented them in 1758. It sits naturally beside the 1600s reflecting telescope, which was a workaround for the same color problem."
+      }
+    ]
+  },
+  {
+    "id": "tools-bell-labs-languages",
+    "domain": "tools",
+    "tier": "moderate",
+    "theme": "Programming languages and tools created at Bell Labs.",
+    "decoy": "Influential languages and tools from the systems-software tradition",
+    "members": [
+      {
+        "title": "C",
+        "description": "Terse compiled systems code with pointers and manual memory management."
+      },
+      {
+        "title": "C++",
+        "description": "Adds classes, templates and destructors to a lower-level predecessor."
+      },
+      {
+        "title": "AWK",
+        "description": "Pattern-action scripts for processing text files line by line."
+      },
+      {
+        "title": "SNOBOL",
+        "description": "1960s string-manipulation notation built around pattern matching."
+      },
+      {
+        "title": "Limbo",
+        "description": "Concurrent code written for the Inferno operating system."
+      },
+      {
+        "title": "Alef",
+        "description": "Concurrent systems code for early versions of the Plan 9 system."
+      },
+      {
+        "title": "Bourne shell",
+        "description": "Command interpreter that became the scripting shell of Version 7 Unix."
+      },
+      {
+        "title": "S",
+        "description": "Interactive statistics environment designed by John Chambers and colleagues."
+      },
+      {
+        "title": "Newsqueak",
+        "description": "Concurrent notation built around channels for writing window systems."
+      }
+    ],
+    "intruders": [
+      {
+        "title": "Golang",
+        "description": "Compiled code with goroutines, channels and fast builds, released in 2009.",
+        "why": "Created at Google. Its designers Ken Thompson and Rob Pike were Bell Labs veterans and it descends from Newsqueak and Limbo, which is why it looks like it belongs."
+      },
+      {
+        "title": "R",
+        "description": "Open-source statistics environment with a vast package archive called CRAN.",
+        "why": "Created by Ross Ihaka and Robert Gentleman at the University of Auckland. It reimplements S, which was a Bell Labs language."
+      }
+    ]
+  },
+  {
+    "id": "tools-cast-iron-cookware",
+    "domain": "tools",
+    "tier": "moderate",
+    "theme": "Cooking vessels traditionally made of cast iron.",
+    "decoy": "Traditional regional pots and pans",
+    "members": [
+      {
+        "title": "Dutch oven",
+        "description": "Heavy lidded pot for braising, sometimes set right in campfire coals."
+      },
+      {
+        "title": "Tetsubin",
+        "description": "Japanese kettle with a bumpy hobnail exterior and a swing handle."
+      },
+      {
+        "title": "Potjie",
+        "description": "Round three-legged pot used over open fires in South Africa."
+      },
+      {
+        "title": "Aebleskiver pan",
+        "description": "Stovetop pan with round wells for Danish spherical pancakes."
+      },
+      {
+        "title": "Takoyaki pan",
+        "description": "Plate of half-sphere molds for octopus-filled batter balls."
+      },
+      {
+        "title": "Kazan",
+        "description": "Deep round-bottomed cauldron used for plov in Central Asia."
+      },
+      {
+        "title": "Corn stick pan",
+        "description": "Baking pan with molds shaped like small ears of maize."
+      },
+      {
+        "title": "Sukiyaki pan",
+        "description": "Shallow pot for simmering sliced beef at the table in Japan."
+      }
+    ],
+    "intruders": [
+      {
+        "title": "Paella pan",
+        "description": "Wide shallow two-handled pan for Valencian rice dishes.",
+        "why": "Traditionally thin polished carbon steel, not cast iron. It is a heavy-looking dark regional pan cooked over open fire."
+      },
+      {
+        "title": "Cataplana",
+        "description": "Clam-shaped hinged pan from the Algarve for seafood stews.",
+        "why": "Traditionally hammered copper. It is a lidded regional vessel like the Dutch oven."
+      },
+      {
+        "title": "Tamagoyaki pan",
+        "description": "Rectangular pan for rolling layered Japanese omelets.",
+        "why": "Traditionally tin-lined copper. It is a specialty Japanese pan, like the takoyaki and sukiyaki pans."
+      }
+    ]
+  },
+  {
+    "id": "tools-radiation-detectors",
+    "domain": "tools",
+    "tier": "moderate",
+    "theme": "Instruments that detect or measure ionizing radiation.",
+    "decoy": "Nuclear and particle physics laboratory apparatus",
+    "members": [
+      {
+        "title": "Geiger counter",
+        "description": "Handheld tube-and-speaker unit that clicks faster near a source."
+      },
+      {
+        "title": "Cloud chamber",
+        "description": "Box of supersaturated vapor in which particle trails appear."
+      },
+      {
+        "title": "Bubble chamber",
+        "description": "Tank of superheated liquid photographed as particle tracks form."
+      },
+      {
+        "title": "Spark chamber",
+        "description": "Stacked metal plates between which sparks mark particle paths."
+      },
+      {
+        "title": "Scintillation counter",
+        "description": "Crystal that flashes when struck, paired with a photomultiplier tube."
+      },
+      {
+        "title": "Film badge",
+        "description": "Clip-on packet of photographic film worn by hospital staff."
+      },
+      {
+        "title": "Wire chamber",
+        "description": "Grid of fine charged wires that locates passing particles."
+      },
+      {
+        "title": "Proportional counter",
+        "description": "Gas-filled tube whose pulse size scales with incoming energy."
+      },
+      {
+        "title": "Pocket dosimeter",
+        "description": "Pen-sized quartz-fiber electrometer read by holding it to the light."
+      }
+    ],
+    "intruders": [
+      {
+        "title": "Cyclotron",
+        "description": "Particle machine with two D-shaped electrodes inside a magnet.",
+        "why": "It accelerates particles, producing beams rather than detecting radiation. It belongs to the same nuclear-physics labs."
+      },
+      {
+        "title": "Mass spectrometer",
+        "description": "Instrument that sorts charged fragments by mass-to-charge ratio.",
+        "why": "It identifies molecules and isotopes by mass; it is not a radiation detector. It uses ions and magnets like the particle apparatus."
+      }
+    ]
+  },
+  {
+    "id": "tools-yarn-making",
+    "domain": "tools",
+    "tier": "moderate",
+    "theme": "Equipment for twisting fiber into yarn or thread.",
+    "decoy": "Hand tools and machines of textile production",
+    "members": [
+      {
+        "title": "Drop spindle",
+        "description": "Weighted stick set whirling as it hangs from a lengthening strand."
+      },
+      {
+        "title": "Spinning wheel",
+        "description": "Treadle-driven wheel and flyer found in cottage parlors."
+      },
+      {
+        "title": "Spinning jenny",
+        "description": "Hand-cranked 1760s Lancashire frame working eight spindles at once."
+      },
+      {
+        "title": "Water frame",
+        "description": "Arkwright's river-powered machine using rollers to draw out cotton."
+      },
+      {
+        "title": "Spinning mule",
+        "description": "Crompton's machine on a moving carriage, combining two earlier ideas."
+      },
+      {
+        "title": "Charkha",
+        "description": "Small hand-turned wheel that became a symbol of Indian independence."
+      },
+      {
+        "title": "Great wheel",
+        "description": "Large hand-turned wheel worked while stepping back and forth."
+      },
+      {
+        "title": "Ring frame",
+        "description": "Factory machine with a traveler circling each bobbin at high speed."
+      }
+    ],
+    "intruders": [
+      {
+        "title": "Flying shuttle",
+        "description": "Wheeled boat-shaped carrier sent across a loom by pulling a cord.",
+        "why": "John Kay's 1733 invention for weaving cloth, not making yarn. It is an Industrial Revolution textile landmark like the jenny and the mule."
+      },
+      {
+        "title": "Cotton gin",
+        "description": "Toothed drum machine that pulls cotton lint away from its seeds.",
+        "why": "It cleans raw cotton before any yarn is made. It is a famous textile machine of the same era."
+      }
+    ]
+  },
+  {
+    "id": "tools-spring-powered",
+    "domain": "tools",
+    "tier": "moderate",
+    "theme": "Mechanisms powered by a wound spring.",
+    "decoy": "Clockwork mechanisms and mechanical timekeepers",
+    "members": [
+      {
+        "title": "Music box",
+        "description": "Pinned cylinder plucks the teeth of a tuned steel comb."
+      },
+      {
+        "title": "Kitchen timer",
+        "description": "Twist dial that ticks down and rings a bell at zero."
+      },
+      {
+        "title": "Mechanical wristwatch",
+        "description": "Timepiece on a strap with a balance wheel and a crown."
+      },
+      {
+        "title": "Metronome",
+        "description": "Pyramid-shaped case with a ticking inverted pendulum."
+      },
+      {
+        "title": "Gramophone",
+        "description": "Horn-topped player for shellac discs with a side handle."
+      },
+      {
+        "title": "Clockwork radio",
+        "description": "Receiver with a hand crank, designed for places without mains supply."
+      },
+      {
+        "title": "Carriage clock",
+        "description": "Small brass-and-glass clock with a carrying handle on top."
+      },
+      {
+        "title": "Bolex H16",
+        "description": "Swiss 16 mm cine camera that runs without any batteries."
+      },
+      {
+        "title": "Clockwork mouse",
+        "description": "Tin toy that scurries across the floor when set down."
+      }
+    ],
+    "intruders": [
+      {
+        "title": "Cuckoo clock",
+        "description": "Carved Black Forest wall clock with a bird that pops out.",
+        "why": "Traditionally driven by cast-iron weights shaped like pine cones, hanging on chains. It is the archetypal clockwork novelty."
+      },
+      {
+        "title": "Longcase clock",
+        "description": "Tall floor-standing clock with a long pendulum in its case.",
+        "why": "Traditionally driven by hanging weights, not a spring. It is the classic mechanical timekeeper."
+      }
+    ]
+  },
+  {
+    "id": "tools-medical-viewing-scopes",
+    "domain": "tools",
+    "tier": "moderate",
+    "theme": "Medical instruments for looking directly into the body through an opening or incision.",
+    "decoy": "Diagnostic medical instruments whose names end in -scope",
+    "members": [
+      {
+        "title": "Otoscope",
+        "description": "Lighted cone-tipped viewer a doctor aims into the ear."
+      },
+      {
+        "title": "Ophthalmoscope",
+        "description": "Handheld light and lens set used to examine the retina."
+      },
+      {
+        "title": "Laryngoscope",
+        "description": "Curved lighted blade used to expose the vocal cords."
+      },
+      {
+        "title": "Endoscope",
+        "description": "Flexible tube with a camera fed down the digestive tract."
+      },
+      {
+        "title": "Bronchoscope",
+        "description": "Thin tube passed down the windpipe into the airways."
+      },
+      {
+        "title": "Arthroscope",
+        "description": "Pencil-thin camera probe used in keyhole knee surgery."
+      },
+      {
+        "title": "Cystoscope",
+        "description": "Slim tube that urologists use to examine the bladder."
+      },
+      {
+        "title": "Colonoscope",
+        "description": "Long flexible tube for inspecting the large intestine."
+      }
+    ],
+    "intruders": [
+      {
+        "title": "Stethoscope",
+        "description": "Flexible Y-shaped tube a doctor presses to the chest.",
+        "why": "It is for listening to the heart and lungs, not looking. It shares the -scope ending."
+      },
+      {
+        "title": "Fluoroscope",
+        "description": "Imaging machine with a camera, used to watch organs move.",
+        "why": "It images through the skin with X-rays, so nothing enters any opening. It does show the inside of the body in real time."
+      }
+    ]
+  },
+  {
+    "id": "tools-gravity-coffee",
+    "domain": "tools",
+    "tier": "moderate",
+    "theme": "Coffee brewers in which the water passes through the grounds by gravity alone.",
+    "decoy": "Manual specialty-coffee brewing devices",
+    "members": [
+      {
+        "title": "Hario V60",
+        "description": "Cone with spiral ribs and one large hole at its base."
+      },
+      {
+        "title": "Chemex",
+        "description": "Hourglass-shaped glass carafe with a wooden collar and leather tie."
+      },
+      {
+        "title": "Kalita Wave",
+        "description": "Flat-bottomed dripper with three small holes and fluted papers."
+      },
+      {
+        "title": "Melitta cone",
+        "description": "Wedge-shaped filter holder that sits on top of a mug."
+      },
+      {
+        "title": "Vietnamese phin",
+        "description": "Small steel cup with a perforated insert, set atop a glass."
+      },
+      {
+        "title": "Neapolitan flip pot",
+        "description": "Two-chambered pot turned upside down once it reaches a boil."
+      },
+      {
+        "title": "Kyoto drip tower",
+        "description": "Tall glass tower that makes cold brew slowly over many hours."
+      },
+      {
+        "title": "Nel drip",
+        "description": "Flannel cloth filter on a wire handle, favored in Japanese kissaten."
+      }
+    ],
+    "intruders": [
+      {
+        "title": "Moka pot",
+        "description": "Eight-sided aluminum stovetop pot in three screwed-together parts.",
+        "why": "Steam pressure in the bottom chamber forces the water up through the grounds. It is a classic manual stovetop brewer."
+      },
+      {
+        "title": "AeroPress",
+        "description": "Plastic syringe-like tube pushed down by hand into a mug.",
+        "why": "Hand pressure on the plunger drives the water through. It sits on a mug like a dripper."
+      },
+      {
+        "title": "Siphon brewer",
+        "description": "Two glass globes stacked one above the other over a burner.",
+        "why": "Vapor pressure pushes water into the top globe, and a partial vacuum pulls the brew back down when the heat is removed. It is a showpiece of manual specialty brewing."
+      }
+    ]
+  },
+  {
+    "id": "tools-pressure-gauges-in-disguise",
+    "domain": "tools",
+    "tier": "moderate",
+    "theme": "Instruments that work by sensing fluid pressure, whatever units their dial shows.",
+    "decoy": "Gauges used in flying, diving, weather, medicine and motoring",
+    "members": [
+      {
+        "title": "Aneroid altimeter",
+        "description": "Cockpit gauge giving height above sea level in feet."
+      },
+      {
+        "title": "Airspeed indicator",
+        "description": "Cockpit gauge fed by a forward-facing tube in the airstream."
+      },
+      {
+        "title": "Vertical speed indicator",
+        "description": "Cockpit gauge giving rate of climb or descent in feet per minute."
+      },
+      {
+        "title": "Tire gauge",
+        "description": "Pencil-sized stick gauge pressed onto a valve stem."
+      },
+      {
+        "title": "Sphygmomanometer",
+        "description": "Inflatable arm cuff with a rubber bulb and a round gauge."
+      },
+      {
+        "title": "U-tube manometer",
+        "description": "Bent liquid-filled tube whose two columns shift apart."
+      },
+      {
+        "title": "Bourdon gauge",
+        "description": "Needle gauge driven by a curved flattened tube that uncoils."
+      },
+      {
+        "title": "Aneroid barometer",
+        "description": "Wall gauge with a sealed metal capsule, marked Rain, Change, Fair."
+      },
+      {
+        "title": "Diving depth gauge",
+        "description": "Wrist gauge telling a diver how far below the surface they are."
+      }
+    ],
+    "intruders": [
+      {
+        "title": "Radar altimeter",
+        "description": "Cockpit gauge giving height above the terrain directly below.",
+        "why": "It times a radio signal bounced off the ground. It reports altitude like the aneroid altimeter but senses no pressure."
+      },
+      {
+        "title": "Anemometer",
+        "description": "Spinning cups on a mast whose turning rate gives wind speed.",
+        "why": "It counts cup rotations. It reports air speed like the airspeed indicator but does not sense pressure."
+      }
+    ]
+  },
+  {
+    "id": "tools-mass-comparison",
+    "domain": "tools",
+    "tier": "subtle",
+    "theme": "Weighing devices that compare the load with a known mass, so they read correctly under any gravity.",
+    "decoy": "Scales for weighing goods, people and chemicals",
+    "members": [
+      {
+        "title": "Equal-arm balance",
+        "description": "Beam pivoted at its center with a pan hanging from each end."
+      },
+      {
+        "title": "Steelyard",
+        "description": "Unequal-armed bar with a hook and a sliding counterpoise."
+      },
+      {
+        "title": "Roberval balance",
+        "description": "Two pans riding on a parallelogram linkage, as in old shops."
+      },
+      {
+        "title": "Triple beam balance",
+        "description": "School-lab scale with three notched beams carrying riders."
+      },
+      {
+        "title": "Physician's beam scale",
+        "description": "Upright doctor's office scale with sliding poises and a height rod."
+      },
+      {
+        "title": "Bismar",
+        "description": "Rod with a fixed heavy knob at one end and a movable fulcrum."
+      },
+      {
+        "title": "Apothecary scale",
+        "description": "Small brass two-pan scale in a glass case, for drug doses."
+      },
+      {
+        "title": "Kitchen balance",
+        "description": "Enamel pan on one side and a platform for iron weights on the other."
+      }
+    ],
+    "intruders": [
+      {
+        "title": "Spring scale",
+        "description": "Hook hanging from a marked cylinder with a sliding pointer.",
+        "why": "It measures the force stretching a spring, so on the Moon it would read about one sixth of the Earth value. It is a classic weighing instrument."
+      },
+      {
+        "title": "Bathroom scale",
+        "description": "Flat platform you stand on barefoot to check your weight.",
+        "why": "Springs or strain-gauge load cells sense force, which depends on local gravity. It weighs people just like the physician's beam scale."
+      },
+      {
+        "title": "Digital kitchen scale",
+        "description": "Slim flat pad with a tare button, used for measuring flour.",
+        "why": "A strain-gauge load cell senses force, which depends on local gravity. It is a precision scale like the apothecary scale."
+      }
+    ]
+  },
+  {
+    "id": "tools-acronym-names",
+    "domain": "tools",
+    "tier": "subtle",
+    "theme": "Programming languages whose names began as acronyms or abbreviations.",
+    "decoy": "Programming languages with names often written in capitals",
+    "members": [
+      {
+        "title": "COBOL",
+        "description": "Verbose, English-like code behind decades of banking and payroll systems."
+      },
+      {
+        "title": "Fortran",
+        "description": "IBM's 1950s numeric workhorse, long favored for scientific computing."
+      },
+      {
+        "title": "BASIC",
+        "description": "Line-numbered code with GOTO that shipped on early home computers."
+      },
+      {
+        "title": "Lisp",
+        "description": "Parenthesized code in which programs and data share one structure."
+      },
+      {
+        "title": "APL",
+        "description": "Array notation written with a special set of mathematical symbols."
+      },
+      {
+        "title": "SQL",
+        "description": "Declarative queries for selecting and joining rows in relational databases."
+      },
+      {
+        "title": "ALGOL",
+        "description": "Committee design of 1958-60 that introduced nested block structure."
+      },
+      {
+        "title": "PHP",
+        "description": "Server-side scripting embedded in web pages, behind WordPress."
+      },
+      {
+        "title": "Prolog",
+        "description": "Logic-based code built from facts, rules and backtracking search."
+      },
+      {
+        "title": "Tcl",
+        "description": "Embeddable scripting where everything is a string, often paired with Tk."
+      }
+    ],
+    "intruders": [
+      {
+        "title": "Perl",
+        "description": "Text-processing scripting famed for regular expressions and a camel book.",
+        "why": "The name came from 'Pearl' with a letter dropped. 'Practical Extraction and Report Language' is a backronym added afterward."
+      },
+      {
+        "title": "FORTH",
+        "description": "Stack-based code in reverse Polish notation with user-defined words.",
+        "why": "Chuck Moore meant 'fourth', but the IBM 1130 limited file names to five characters. It is often printed in capitals like an acronym."
+      },
+      {
+        "title": "LOGO",
+        "description": "Educational code in which a turtle draws shapes on the screen.",
+        "why": "Named from the Greek 'logos', meaning word or thought. It is often printed in capitals but is not an acronym."
+      }
+    ]
+  },
+  {
+    "id": "tools-workpiece-first",
+    "domain": "tools",
+    "tier": "subtle",
+    "theme": "Tools whose name begins with the object they are used on.",
+    "decoy": "Everyday hand tools with compound names",
+    "members": [
+      {
+        "title": "Screwdriver",
+        "description": "Shaft with a flat or cross-shaped tip set in a grippy handle."
+      },
+      {
+        "title": "Nutcracker",
+        "description": "Hinged pair of levers that crushes hard shells."
+      },
+      {
+        "title": "Can opener",
+        "description": "Hand-cranked wheel that clamps onto a rim and pierces the lid."
+      },
+      {
+        "title": "Bottle opener",
+        "description": "Flat metal piece with a lip that pries off crown caps."
+      },
+      {
+        "title": "Wire stripper",
+        "description": "Plier-like device with graded notches that peel off insulation."
+      },
+      {
+        "title": "Pipe wrench",
+        "description": "Heavy adjustable wrench with serrated jaws that bite harder under force."
+      },
+      {
+        "title": "Lug wrench",
+        "description": "Cross-shaped or L-shaped bar kept in a car trunk for changing a wheel."
+      },
+      {
+        "title": "Tire lever",
+        "description": "Flat spoon-ended bar for prying a bicycle bead off the rim."
+      },
+      {
+        "title": "Shoehorn",
+        "description": "Curved slip of horn, metal or plastic that eases a heel into place."
+      },
+      {
+        "title": "Cherry pitter",
+        "description": "Spring plunger that pushes the stones out of small fruit."
+      }
+    ],
+    "intruders": [
+      {
+        "title": "Monkey wrench",
+        "description": "Adjustable wrench with smooth jaws set at right angles to the handle.",
+        "why": "It is never used on monkeys; the first word is an unexplained nickname. Its two-word form matches pipe wrench and lug wrench."
+      },
+      {
+        "title": "Needle-nose pliers",
+        "description": "Pliers with long tapering jaws for reaching into tight spaces.",
+        "why": "'Needle-nose' describes the shape of the jaws, not what they grip. It reads like 'wire stripper'."
+      },
+      {
+        "title": "Rat-tail file",
+        "description": "Round tapering file for enlarging and smoothing holes.",
+        "why": "The first word describes the file's shape. It reads like 'cherry pitter' or 'pipe wrench'."
+      }
+    ]
+  },
+  {
+    "id": "tools-buoyancy-devices",
+    "domain": "tools",
+    "tier": "subtle",
+    "theme": "Devices whose working part relies on buoyancy in a liquid.",
+    "decoy": "Devices for checking, measuring or controlling liquids",
+    "members": [
+      {
+        "title": "Hydrometer",
+        "description": "Weighted glass stem with a scale, dropped into a sample jar."
+      },
+      {
+        "title": "Galileo thermometer",
+        "description": "Sealed column of tagged glass bulbs that shift with the temperature."
+      },
+      {
+        "title": "Ballcock",
+        "description": "Toilet cistern valve on an arm that shuts off when the tank is full."
+      },
+      {
+        "title": "Spirit level",
+        "description": "Straight bar with a vial whose bubble centers when a surface is true."
+      },
+      {
+        "title": "Cartesian diver",
+        "description": "Squeezable bottle holding a small dropper that dives on command."
+      },
+      {
+        "title": "Float switch",
+        "description": "Sump pump trigger that flips on as the pit fills up."
+      },
+      {
+        "title": "Fishing bobber",
+        "description": "Red-and-white ball on a line that dips when a fish bites."
+      },
+      {
+        "title": "Alcoholmeter",
+        "description": "Distiller's glass gauge for checking the strength of spirits."
+      }
+    ],
+    "intruders": [
+      {
+        "title": "Refractometer",
+        "description": "Handheld prism tube winemakers use to check sugar in grape juice.",
+        "why": "It measures how much light bends in a drop of juice, and nothing floats. It does the same job as a hydrometer."
+      },
+      {
+        "title": "Pycnometer",
+        "description": "Small glass flask with a capillary stopper, weighed empty and full.",
+        "why": "It finds density by weighing an exact volume, and nothing floats. It does the same job as a hydrometer."
+      },
+      {
+        "title": "Dipstick",
+        "description": "Long thin rod pulled from an engine to check the oil mark.",
+        "why": "It shows level by the wetted mark and has no buoyant part, unlike a float gauge."
+      }
+    ]
+  },
+  {
+    "id": "tools-self-recording-instruments",
+    "domain": "tools",
+    "tier": "subtle",
+    "theme": "Instruments that automatically record a measured quantity as a trace over time.",
+    "decoy": "Devices whose names end in -graph",
+    "members": [
+      {
+        "title": "Seismograph",
+        "description": "Suspended mass and pen that chart ground tremors on paper."
+      },
+      {
+        "title": "Barograph",
+        "description": "Stack of aneroid capsules driving an inked arm across a slowly turning drum."
+      },
+      {
+        "title": "Polygraph",
+        "description": "Bank of pens charting pulse, breathing and sweating during questioning."
+      },
+      {
+        "title": "Kymograph",
+        "description": "Smoked revolving cylinder used in physiology labs since the 1840s."
+      },
+      {
+        "title": "Electrocardiograph",
+        "description": "Machine with chest electrodes printing heartbeat waves on a strip."
+      },
+      {
+        "title": "Tachograph",
+        "description": "Sealed truck unit logging speed and driving hours for regulators."
+      },
+      {
+        "title": "Sphygmograph",
+        "description": "Nineteenth-century wrist device that drew the pulse as a wavy line."
+      },
+      {
+        "title": "Pluviograph",
+        "description": "Rain gauge with a float and a pen that charts rainfall."
+      },
+      {
+        "title": "Hygrograph",
+        "description": "Hair-driven stylus charting humidity on a weekly paper chart."
+      }
+    ],
+    "intruders": [
+      {
+        "title": "Heliograph",
+        "description": "Tripod-mounted mirror that flashes sunlight in Morse code over miles.",
+        "why": "A signaling device that sends messages and records nothing. It shares the -graph ending."
+      },
+      {
+        "title": "Pantograph",
+        "description": "Linked parallelogram of rods and a pen that copies a drawing to scale.",
+        "why": "It copies drawings with a pen but measures nothing. It shares the -graph ending and the pen-on-paper look."
+      },
+      {
+        "title": "Hectograph",
+        "description": "Gelatin-pad duplicator that prints copies of a handwritten page.",
+        "why": "A copying process for documents that measures nothing. It shares the -graph ending."
+      }
+    ]
+  },
+  {
+    "id": "tools-venturi-effect",
+    "domain": "tools",
+    "tier": "subtle",
+    "theme": "Devices that draw in a second fluid through the low pressure of a fast-moving stream.",
+    "decoy": "Sprayers, burners and fittings that mix or dispense liquids and gases",
+    "members": [
+      {
+        "title": "Carburetor",
+        "description": "Engine part that mixes petrol and air, fitted with a choke and jets."
+      },
+      {
+        "title": "Perfume atomizer",
+        "description": "Glass bottle with a squeezable rubber bulb and a fine nozzle."
+      },
+      {
+        "title": "Water aspirator",
+        "description": "Tap-mounted lab fitting that provides suction for filtering."
+      },
+      {
+        "title": "Bunsen burner",
+        "description": "Lab gas burner with an adjustable collar at the base of its barrel."
+      },
+      {
+        "title": "Airbrush",
+        "description": "Pen-sized sprayer fed by a compressor, used for fine artwork."
+      },
+      {
+        "title": "Siphon-feed spray gun",
+        "description": "Paint gun with a cup hanging beneath the nozzle."
+      },
+      {
+        "title": "Hose-end sprayer",
+        "description": "Jar screwed to a garden hose for spreading fertilizer."
+      },
+      {
+        "title": "Steam injector",
+        "description": "Valveless fitting that feeds water into a locomotive boiler."
+      },
+      {
+        "title": "Flit gun",
+        "description": "Hand-pumped insecticide sprayer with a tank beneath the cylinder."
+      }
+    ],
+    "intruders": [
+      {
+        "title": "Aerosol can",
+        "description": "Pressurized metal can with a push-down valve and a fine nozzle.",
+        "why": "Compressed propellant pushes the product out; nothing is drawn in by a moving stream. It sprays a fine mist like the perfume atomizer."
+      },
+      {
+        "title": "Trigger spray bottle",
+        "description": "Plastic bottle with a squeeze trigger, used for window cleaner.",
+        "why": "A small piston pump pushes liquid straight out of the nozzle. It is a handheld sprayer like the flit gun."
+      }
+    ]
+  },
+  {
+    "id": "tools-magnetic-direction",
+    "domain": "tools",
+    "tier": "subtle",
+    "theme": "Direction-finding instruments that work by sensing Earth's magnetic field.",
+    "decoy": "Compasses of every kind",
+    "members": [
+      {
+        "title": "Mariner's compass",
+        "description": "Gimballed card in a binnacle on a ship's deck."
+      },
+      {
+        "title": "Lensatic compass",
+        "description": "Folding military model with a sighting wire and a small lens."
+      },
+      {
+        "title": "Baseplate compass",
+        "description": "Clear rectangular plate with a rotating bezel, used in orienteering."
+      },
+      {
+        "title": "Prismatic compass",
+        "description": "Hand model with a prism for reading bearings while sighting."
+      },
+      {
+        "title": "Fluxgate compass",
+        "description": "Electronic sensor with coils that feeds heading to an autopilot."
+      },
+      {
+        "title": "Whiskey compass",
+        "description": "Liquid-filled standby unit mounted above a cockpit windshield."
+      },
+      {
+        "title": "Surveyor's compass",
+        "description": "Brass dial with sight vanes, used to run property lines."
+      },
+      {
+        "title": "Thumb compass",
+        "description": "Orienteering model worn on the thumb for quick map reading."
+      }
+    ],
+    "intruders": [
+      {
+        "title": "Gyrocompass",
+        "description": "Motor-driven instrument that finds true north aboard large ships.",
+        "why": "A spinning gyroscope aligns with the axis of Earth's rotation and ignores magnetism. It is the standard ship's compass."
+      },
+      {
+        "title": "Sun compass",
+        "description": "Shadow-casting pin on a dial, used by desert patrols in vehicles.",
+        "why": "It reads the sun's shadow. Desert patrols used it because steel vehicles upset magnetic needles."
+      },
+      {
+        "title": "Radio compass",
+        "description": "Aircraft receiver whose needle points toward a ground beacon.",
+        "why": "An automatic direction finder that homes on radio signals. It sits on the panel beside the magnetic compass."
+      }
+    ]
+  },
+  {
+    "id": "tools-density-separators",
+    "domain": "tools",
+    "tier": "subtle",
+    "theme": "Devices that sort mixtures by density, letting heavier material settle or be flung outward.",
+    "decoy": "Equipment for separating mixtures in labs, kitchens, mines and plants",
+    "members": [
+      {
+        "title": "Centrifuge",
+        "description": "Lab rotor spinning sample tubes at thousands of revolutions per minute."
+      },
+      {
+        "title": "Separatory funnel",
+        "description": "Pear-shaped glass vessel with a stopcock, shaken and then drained."
+      },
+      {
+        "title": "Cream separator",
+        "description": "Hand-cranked dairy machine with a stack of spinning conical discs."
+      },
+      {
+        "title": "Gravy separator",
+        "description": "Measuring jug with a spout that pours from the bottom."
+      },
+      {
+        "title": "Gold pan",
+        "description": "Shallow ridged pan swirled in a creek by prospectors."
+      },
+      {
+        "title": "Sluice box",
+        "description": "Long trough with riffles that catch flakes from flowing gravel."
+      },
+      {
+        "title": "Grease trap",
+        "description": "Box under a restaurant sink that holds back fats from the drain."
+      },
+      {
+        "title": "Clarifier",
+        "description": "Large round tank at a treatment works with a slow scraper arm."
+      },
+      {
+        "title": "Rocker box",
+        "description": "Wooden cradle rocked by hand to wash gold-bearing gravel."
+      }
+    ],
+    "intruders": [
+      {
+        "title": "Magnetic separator",
+        "description": "Drum or belt fitted with magnets over a recycling conveyor.",
+        "why": "It pulls out iron and steel by magnetism, not density. It shares its name with the cream and gravy separators."
+      },
+      {
+        "title": "Fractionating column",
+        "description": "Tall column packed with trays or beads above a boiling flask.",
+        "why": "It splits liquids by boiling point. It is a classic separation apparatus beside the separatory funnel."
+      },
+      {
+        "title": "Chromatography column",
+        "description": "Glass tube packed with silica through which a solvent is run.",
+        "why": "It splits compounds by how strongly they cling to the packing, not by density. It is a standard lab separation tool."
+      }
+    ]
+  },
+  {
+    "id": "tools-wedges",
+    "domain": "tools",
+    "tier": "subtle",
+    "theme": "Objects that work as a wedge: a tapered piece forced into material or a gap to split, lift or hold it.",
+    "decoy": "Everyday objects built around a sloping or tapering surface",
+    "members": [
+      {
+        "title": "Zipper",
+        "description": "Slider that joins and parts two rows of interlocking teeth."
+      },
+      {
+        "title": "Doorstop",
+        "description": "Rubber block kicked under a door to keep it open."
+      },
+      {
+        "title": "Shim",
+        "description": "Thin sliver of wood slipped under a cabinet to level it."
+      },
+      {
+        "title": "Froe",
+        "description": "L-shaped iron blade struck with a club to rive shingles."
+      },
+      {
+        "title": "Plow",
+        "description": "Farm implement whose share turns over furrows of soil."
+      },
+      {
+        "title": "Nail",
+        "description": "Pointed steel shank hammered into timber."
+      },
+      {
+        "title": "Wheel chock",
+        "description": "Rubber block placed against a tire on a slope."
+      },
+      {
+        "title": "Splitting maul",
+        "description": "Heavy blunt-edged head on a long handle, swung at firewood rounds."
+      }
+    ],
+    "intruders": [
+      {
+        "title": "Loading ramp",
+        "description": "Sloped aluminum track for rolling a mower up into a truck.",
+        "why": "A stationary inclined plane: the load moves along it, whereas a wedge is the part that moves. It is built on the same sloping surface."
+      },
+      {
+        "title": "Wood screw",
+        "description": "Tapered steel fastener with a helical ridge and a slotted head.",
+        "why": "A screw is an inclined plane wrapped around a shaft and is driven by turning. It has a pointed tip like a nail."
+      }
+    ]
+  }
+]
