@@ -1,0 +1,605 @@
+[
+  {
+    "id": "design-serif-typefaces",
+    "domain": "design objects",
+    "tier": "obvious",
+    "theme": "Typefaces with serifs: small finishing strokes project from the ends of the main strokes of each letter.",
+    "decoy": "Classic typefaces with long print histories",
+    "members": [
+      {"title": "Garamond", "description": "Sixteenth-century French roman revived countless times for book text."},
+      {"title": "Baskerville", "description": "High-contrast 1750s English face cut for a Birmingham printer and japanner."},
+      {"title": "Bodoni", "description": "Stark Italian face with hairline contrast, favored by fashion magazines."},
+      {"title": "Caslon", "description": "Eighteenth-century English face used to print the Declaration of Independence."},
+      {"title": "Didot", "description": "Parisian high-contrast face from around 1800, a masthead staple."},
+      {"title": "Palatino", "description": "Hermann Zapf's calligraphic face drawn after Italian Renaissance writing masters."},
+      {"title": "Clarendon", "description": "Sturdy 1845 English display face seen on Victorian posters."},
+      {"title": "Rockwell", "description": "Geometric 1934 Monotype display face with an even, heavy weight."},
+      {"title": "Trajan", "description": "Carol Twombly's all-capital face based on an inscription at a Roman column's base."}
+    ],
+    "intruders": [
+      {"title": "Optima", "description": "Hermann Zapf's elegant roman with gently swelling, tapered verticals.", "why": "A humanist sans-serif: its strokes flare toward the ends but carry no serifs. Its classical proportions and designer make it read like a book face."},
+      {"title": "Lithos", "description": "Carol Twombly's all-capital display face based on ancient Greek inscriptions.", "why": "A sans-serif. Like Twombly's Trajan it revives ancient carved capitals, but its Greek letterforms have no serifs."}
+    ]
+  },
+  {
+    "id": "design-monospaced-typefaces",
+    "domain": "design objects",
+    "tier": "obvious",
+    "theme": "Monospaced typefaces, in which every glyph occupies the same horizontal width.",
+    "decoy": "Typefaces with a typewriter or computer-terminal flavor",
+    "members": [
+      {"title": "Courier", "description": "Slab face drawn by Howard Kettler for IBM typewriters in 1955."},
+      {"title": "Consolas", "description": "Microsoft face bundled with Windows Vista and Visual Studio."},
+      {"title": "Lucida Console", "description": "Sans face from the Lucida family long offered in Windows command windows."},
+      {"title": "Menlo", "description": "Apple's 2009 face derived from Bitstream Vera, used in Xcode."},
+      {"title": "Inconsolata", "description": "Open-source face by Raph Levien, inspired by Consolas."},
+      {"title": "OCR-A", "description": "Blocky 1968 face designed for machine reading on checks and forms."},
+      {"title": "Letter Gothic", "description": "Clean sans face drawn by Roger Roberson for IBM typewriters."},
+      {"title": "Monaco", "description": "Compact sans face shipped on Macs since the 1980s, a programmer favorite."}
+    ],
+    "intruders": [
+      {"title": "American Typewriter", "description": "Rounded slab face from 1974 evoking office-machine output.", "why": "Proportionally spaced: Joel Kaden and Tony Stan drew it to look typewritten while letting narrow letters take less room."},
+      {"title": "Lucida Grande", "description": "Humanist sans face from the Lucida family used for Mac OS X menus.", "why": "A proportional face. It shares the Lucida family with Lucida Console, but its letters vary in width."}
+    ]
+  },
+  {
+    "id": "design-real-animal-logos",
+    "domain": "design objects",
+    "tier": "obvious",
+    "theme": "Logos whose emblem depicts a real animal species rather than a mythical creature.",
+    "decoy": "Brand logos built around a creature",
+    "members": [
+      {"title": "Ferrari", "description": "Black prancing horse on a yellow shield, from Maranello."},
+      {"title": "Lamborghini", "description": "Gold charging bull on the black shield of an Italian supercar maker."},
+      {"title": "Peugeot", "description": "Lion rearing on its hind legs, on French car badges."},
+      {"title": "Lacoste", "description": "Small green crocodile stitched onto the chest of a piqué polo."},
+      {"title": "Twitter", "description": "Small blue bird in flight, used by a microblogging service."},
+      {"title": "MGM", "description": "Roaring lion framed by a film-strip ring before studio features."},
+      {"title": "Bacardi", "description": "Black bat with outstretched wings on a rum bottle label."},
+      {"title": "Abarth", "description": "Scorpion on a red and yellow shield, on tuned Italian small cars."}
+    ],
+    "intruders": [
+      {"title": "Mobil", "description": "Red winged horse on the signage of a petroleum brand.", "why": "Pegasus is a creature of Greek myth. It looks like a cousin of Ferrari's horse, but no real species has wings."},
+      {"title": "Vauxhall", "description": "Griffin on the grilles and badges of a British carmaker.", "why": "The griffin is a mythical lion-eagle hybrid, not a real animal, though it sits on car badges like Peugeot's lion."}
+    ]
+  },
+  {
+    "id": "design-full-brim-hats",
+    "domain": "design objects",
+    "tier": "obvious",
+    "theme": "Hats with a brim that runs all the way around the crown.",
+    "decoy": "Classic men's hats",
+    "members": [
+      {"title": "Fedora", "description": "Soft felt hat with a lengthwise dent and a pinched front."},
+      {"title": "Trilby", "description": "Narrow felt hat angled down at the back, often worn tipped forward."},
+      {"title": "Bowler", "description": "Hard, rounded felt hat of London clerks and Charlie Chaplin."},
+      {"title": "Panama hat", "description": "Pale hat woven from toquilla straw in Ecuador."},
+      {"title": "Boater", "description": "Stiff flat-topped straw hat with a ribbon band, for summer regattas."},
+      {"title": "Pork pie hat", "description": "Flat-topped felt hat with a circular groove, linked to jazz musicians."},
+      {"title": "Homburg", "description": "Stiff felt hat with a single center dent and a bound edge."},
+      {"title": "Top hat", "description": "Tall silk-plush cylinder for formal evening and daytime dress."}
+    ],
+    "intruders": [
+      {"title": "Deerstalker", "description": "Tweed hat with ear flaps tied on top, linked to Sherlock Holmes.", "why": "It has two peaks, one at the front and one at the back, and nothing at the sides. It is still a classic menswear hat with projecting shade."},
+      {"title": "Flat cap", "description": "Rounded tweed hat with a small stiff peak, worn in the countryside.", "why": "Its short peak projects only at the front, like a visor."}
+    ]
+  },
+  {
+    "id": "design-recorded-audio-players",
+    "domain": "design objects",
+    "tier": "obvious",
+    "theme": "Devices that play back recorded audio (tapes, discs, vinyl, or stored files) rather than only receiving broadcasts.",
+    "decoy": "Iconic portable and home audio gadgets",
+    "members": [
+      {"title": "Sony Walkman TPS-L2", "description": "Blue-and-silver 1979 portable with two headphone jacks and a hotline button."},
+      {"title": "Sony Discman D-50", "description": "Sony's squat, square 1984 portable with a flip-up lid."},
+      {"title": "iPod (first generation)", "description": "White 2001 pocket gadget with a mechanical scroll wheel and a hard drive."},
+      {"title": "iPod shuffle", "description": "Tiny screenless clip-on gadget that can mix up song order."},
+      {"title": "Zune", "description": "Microsoft's 2006 portable, offered in brown, with wireless song sharing."},
+      {"title": "Diamond Rio PMP300", "description": "1998 pocket MP3 gadget that the recording industry sued to stop."},
+      {"title": "Dansette", "description": "Two-tone British portable turntable cabinet of 1950s teenage bedrooms."},
+      {"title": "Victrola", "description": "Wooden cabinet phonograph with its horn hidden behind doors."}
+    ],
+    "intruders": [
+      {"title": "Braun T3", "description": "Dieter Rams' 1958 pocket gadget with a perforated grille and a round dial.", "why": "A radio receiver only: it tunes stations and cannot play any recording. Its dial-and-grille face famously prefigured the iPod."},
+      {"title": "Brionvega TS 502", "description": "Hinged red cube that opens to reveal a speaker and tuning dials.", "why": "An AM/FM radio only, with no mechanism for recordings."},
+      {"title": "Regency TR-1", "description": "1954 pocket gadget sold in brightly colored plastic cases.", "why": "The first commercial transistor radio: it only receives stations, though it was the Walkman of its day."}
+    ]
+  },
+  {
+    "id": "design-unplugged-kitchen-classics",
+    "domain": "design objects",
+    "tier": "obvious",
+    "theme": "Kitchen and coffee design classics that work without electricity.",
+    "decoy": "Iconic coffee and kitchen design objects",
+    "members": [
+      {"title": "Bialetti Moka Express", "description": "Octagonal aluminum pot from 1933 with a mustachioed mascot."},
+      {"title": "Chemex", "description": "Hourglass glass flask with a wooden collar and a leather tie."},
+      {"title": "Bodum Chambord", "description": "Chrome-framed glass carafe with a mesh plunger for steeped coffee."},
+      {"title": "AeroPress", "description": "Plastic syringe-like tube that pushes coffee through a paper filter."},
+      {"title": "Hario V60", "description": "Cone with spiral ribs and one large hole, for pour-over coffee."},
+      {"title": "Anna G. corkscrew", "description": "Smiling figure in a dress whose arms rise as she opens wine."},
+      {"title": "Le Creuset Dutch oven", "description": "Enameled cast-iron pot in flame orange, made in France since 1925."},
+      {"title": "Weber kettle grill", "description": "Round black charcoal barbecue on three legs with a domed lid."}
+    ],
+    "intruders": [
+      {"title": "Technivorm Moccamaster", "description": "Dutch 1968 drip coffee brewer with a boxy aluminum frame.", "why": "It plugs in: an electric element heats the water. It sits beside the Chemex as a design-classic brewer."},
+      {"title": "KitchenAid stand mixer", "description": "Egmont Arens' 1937 tilt-head mixer in enameled steel.", "why": "Driven by an electric motor, though it is as much a design icon as the Moka pot."},
+      {"title": "Dualit toaster", "description": "Chunky stainless-steel British toaster with a mechanical timer.", "why": "Its heating elements run on mains electricity; only the timer is mechanical."}
+    ]
+  },
+  {
+    "id": "design-keyboard-devices",
+    "domain": "design objects",
+    "tier": "obvious",
+    "theme": "Devices with a built-in physical keyboard for typing text.",
+    "decoy": "Landmark typewriters, computers and handheld gadgets",
+    "members": [
+      {"title": "Olivetti Valentine", "description": "Ettore Sottsass's red plastic portable with a matching carry case, 1969."},
+      {"title": "IBM Selectric", "description": "1961 office machine with a spinning golf-ball type element."},
+      {"title": "IBM Model M", "description": "Heavy 1985 buckling-spring peripheral, famous for its clatter."},
+      {"title": "Commodore 64", "description": "1982 beige home computer housing all its circuitry in one wedge."},
+      {"title": "ZX Spectrum", "description": "Sinclair's 1982 black home computer with rubbery rainbow-striped styling."},
+      {"title": "Nokia 9000 Communicator", "description": "1996 clamshell phone that opens to reveal a small office computer."},
+      {"title": "Psion Series 5", "description": "1997 pocket organizer whose lid slides forward as it opens."},
+      {"title": "BlackBerry Bold", "description": "Glossy 2008 smartphone with a leather-textured back and a trackball."},
+      {"title": "TRS-80 Model 100", "description": "Battery-powered 1983 portable computer with a wide monochrome LCD strip."}
+    ],
+    "intruders": [
+      {"title": "PalmPilot", "description": "1996 pocket organizer with a monochrome screen and a slot-in stylus.", "why": "Input is Graffiti handwriting with a stylus; there is no built-in keyboard. It competed directly with Psion's organizers."},
+      {"title": "Apple Newton MessagePad", "description": "Apple's 1993 handheld organizer with a large gray screen and stylus.", "why": "It relied on handwriting recognition; keyboards were only optional external accessories."}
+    ]
+  },
+  {
+    "id": "design-pendant-lamps",
+    "domain": "design objects",
+    "tier": "obvious",
+    "theme": "Pendant lights: fixtures that hang suspended from the ceiling.",
+    "decoy": "Famous modern lamps",
+    "members": [
+      {"title": "PH5", "description": "Poul Henningsen's 1958 lamp of stacked curved shades that hide the bulb."},
+      {"title": "PH Artichoke", "description": "Copper leaves in staggered rows around a bulb, first made for a Copenhagen restaurant."},
+      {"title": "Taraxacum", "description": "Castiglioni brothers' cocoon of sprayed resin over a steel skeleton."},
+      {"title": "Heracleum", "description": "Bertjan Pot's branching metal stems ending in small LED lenses."},
+      {"title": "Aim", "description": "Bouroullec brothers' lamps on long looping cables, free to be rearranged."},
+      {"title": "Frisbi", "description": "Achille Castiglioni's translucent disc floating below a small metal shade."},
+      {"title": "Zettel'z", "description": "Ingo Maurer's lamp bristling with clipped paper notes on wires."},
+      {"title": "Le Klint 101", "description": "Hand-pleated plastic shade folded in Denmark from one sheet."}
+    ],
+    "intruders": [
+      {"title": "Arco", "description": "Castiglioni brothers' arching steel stem rising from a heavy marble block.", "why": "A floor lamp: the arc carries the shade over a table to mimic a pendant without ceiling wiring."},
+      {"title": "Twiggy", "description": "Marc Sadler's slender fiberglass arc bending over to hold a shade aloft.", "why": "A floor lamp whose flexible arc places the shade overhead; nothing is attached to the ceiling."}
+    ]
+  },
+  {
+    "id": "design-wooden-frame-chairs",
+    "domain": "design objects",
+    "tier": "obvious",
+    "theme": "Chairs whose frame, legs included, is made of wood rather than metal.",
+    "decoy": "Classic dining and lounge chairs",
+    "members": [
+      {"title": "Thonet No. 14", "description": "Six steam-bent parts and ten screws, shipped flat-packed from 1859."},
+      {"title": "Wishbone Chair", "description": "Hans Wegner's Y-backed design with a hand-woven paper-cord seat."},
+      {"title": "Windsor chair", "description": "English country seat with turned spindles socketed into a carved saddle."},
+      {"title": "Red and Blue Chair", "description": "Rietveld's angular De Stijl seat of primary-colored planes and black battens."},
+      {"title": "Paimio Chair", "description": "Alvar Aalto's sanatorium armchair with a scrolled bent-plywood seat."},
+      {"title": "Peacock Chair", "description": "Hans Wegner's armchair with a fan of flattened spindles behind the sitter."},
+      {"title": "Shaker ladder-back chair", "description": "Plain rush-seated side chair with horizontal slats, from a religious community."},
+      {"title": "Adirondack chair", "description": "Slatted outdoor lounger with a sloped seat and broad flat armrests."}
+    ],
+    "intruders": [
+      {"title": "Ant Chair", "description": "Arne Jacobsen's pinch-waisted molded plywood seat, first made with three supports.", "why": "Its legs are chromed tubular steel; only the seat shell is plywood."},
+      {"title": "Series 7", "description": "Arne Jacobsen's hourglass molded plywood shell, stacked in countless cafes.", "why": "The plywood shell sits on tubular steel legs."},
+      {"title": "Eames Lounge Chair", "description": "Molded rosewood plywood shells with leather cushions and a matching ottoman.", "why": "The plywood shells ride on a cast-aluminum swivel base joined by aluminum braces."}
+    ]
+  },
+  {
+    "id": "design-cantilever-chairs",
+    "domain": "design objects",
+    "tier": "moderate",
+    "theme": "Cantilever chairs, which stand on a single continuous support with no rear legs.",
+    "decoy": "Modernist chairs of bent tube, plywood or plastic",
+    "members": [
+      {"title": "Cesca Chair", "description": "Marcel Breuer's chrome tubular steel design with a caned seat and back."},
+      {"title": "MR10 Chair", "description": "Mies van der Rohe's sweeping chrome tube design shown in Stuttgart in 1927."},
+      {"title": "S33 Chair", "description": "Mart Stam's chrome tube design, inspired by gas pipes, with a leather seat."},
+      {"title": "Brno Chair", "description": "Mies van der Rohe's flat steel bar armchair for the Tugendhat villa."},
+      {"title": "Zig-Zag Chair", "description": "Gerrit Rietveld's four wooden planks joined in a Z silhouette."},
+      {"title": "S-Chair", "description": "Tom Dixon's sinuous rush-woven design on a welded steel skeleton."},
+      {"title": "Armchair 406", "description": "Alvar Aalto's birch armchair with fabric webbing stretched between bent runners."},
+      {"title": "B35 Lounge Chair", "description": "Marcel Breuer's chrome tube lounge armchair with wooden armrests."}
+    ],
+    "intruders": [
+      {"title": "Wassily Chair", "description": "Marcel Breuer's chrome tube armchair with taut leather straps.", "why": "Its tubular frame meets the floor on runners at both front and back, so nothing is cantilevered. It shares the Cesca's designer and material."},
+      {"title": "Barcelona Chair", "description": "Mies van der Rohe's X-framed steel lounge chair with tufted leather cushions.", "why": "Its crossed steel legs support the seat at front and back; it has no cantilever, unlike Mies's MR10."}
+    ]
+  },
+  {
+    "id": "design-one-piece-chairs",
+    "domain": "design objects",
+    "tier": "moderate",
+    "theme": "Chairs molded as one single piece of material, with no separate base, legs, or fasteners.",
+    "decoy": "Sculptural modern plastic chairs",
+    "members": [
+      {"title": "Panton Chair", "description": "Verner Panton's flowing S-curve plastic chair, a glossy icon of 1960s pop."},
+      {"title": "Air-Chair", "description": "Jasper Morrison's stackable polypropylene chair made by gas-assisted injection."},
+      {"title": "Selene", "description": "Vico Magistretti's 1969 fiberglass chair with S-profiled supports."},
+      {"title": "Bofinger Chair", "description": "Helmut Bätzner's 1966 stackable fiberglass-polyester chair from a German firm."},
+      {"title": "Bellini Chair", "description": "Mario Bellini's 1998 stackable polypropylene chair with a slotted back."},
+      {"title": "White resin patio chair", "description": "Cheap stackable garden chair found on terraces worldwide."},
+      {"title": "Tip Ton", "description": "Barber Osgerby's polypropylene chair that tilts forward on its skids."},
+      {"title": "Myto", "description": "Konstantin Grcic's perforated plastic cantilever chair released in 2008."}
+    ],
+    "intruders": [
+      {"title": "Tulip Chair", "description": "Eero Saarinen's white chair that seems to grow from a single stem.", "why": "The fiberglass shell sits on a separate cast-aluminum base. Saarinen wanted one material but could not achieve it, so it only looks monolithic."},
+      {"title": "Eames Plastic Side Chair", "description": "Charles and Ray Eames's 1950 fiberglass shell chair in soft muted colors.", "why": "The shell is bolted, via rubber shock mounts, to separate wire or wooden bases."},
+      {"title": "Tom Vac", "description": "Ron Arad's rippled polypropylene chair, first made in aluminum for a Milan show.", "why": "The rippled shell is fixed onto separate tubular steel legs."}
+    ]
+  },
+  {
+    "id": "design-rear-engine-cars",
+    "domain": "design objects",
+    "tier": "moderate",
+    "theme": "Cars whose engine sits at the rear, behind the passenger compartment.",
+    "decoy": "Iconic small and sporty cars of the 20th century",
+    "members": [
+      {"title": "Volkswagen Beetle", "description": "Rounded German economy car built for decades with minimal change."},
+      {"title": "Porsche 911", "description": "Sloping-fastback German sports coupe first shown in 1963."},
+      {"title": "Fiat Nuova 500", "description": "Tiny 1957 Italian city car with a roll-back fabric roof."},
+      {"title": "Renault 4CV", "description": "Small postwar French four-door nicknamed the 'motte de beurre'."},
+      {"title": "Tatra T87", "description": "Streamlined 1930s Czech sedan with a tall dorsal fin."},
+      {"title": "DeLorean DMC-12", "description": "Brushed stainless-steel gull-winged coupe built in Northern Ireland."},
+      {"title": "Chevrolet Corvair", "description": "Compact 1960s American car attacked in 'Unsafe at Any Speed'."},
+      {"title": "Volkswagen Type 2", "description": "Split-windshield German van beloved by surfers and campers."},
+      {"title": "Smart Fortwo", "description": "Two-seat microcar short enough to park nose-in to the curb."}
+    ],
+    "intruders": [
+      {"title": "Mini", "description": "Tiny 1959 British two-door with its wheels pushed out to the corners.", "why": "Its engine sits transversely at the front, driving the front wheels. It shares the Fiat 500's small-car fame."},
+      {"title": "Citroën 2CV", "description": "Corrugated French economy car with a roll-back canvas roof.", "why": "Its flat-twin engine is at the front, driving the front wheels. Its canvas roof and mission echo the Fiat 500 and Beetle."},
+      {"title": "Trabant", "description": "East German small car with a body of cotton-fiber-reinforced plastic.", "why": "Its two-stroke engine is at the front, driving the front wheels, though it was the Eastern bloc's people's car like the Beetle."}
+    ]
+  },
+  {
+    "id": "design-military-issue-clothing",
+    "domain": "design objects",
+    "tier": "moderate",
+    "theme": "Garments first developed as military issue before becoming civilian fashion.",
+    "decoy": "Classic menswear staples with utilitarian origins",
+    "members": [
+      {"title": "Trench coat", "description": "Belted double-breasted gabardine coat with epaulettes and a storm flap."},
+      {"title": "MA-1 bomber jacket", "description": "Nylon jacket with a knit collar and a bright orange lining."},
+      {"title": "Peacoat", "description": "Short double-breasted dark wool coat with broad lapels."},
+      {"title": "Cargo pants", "description": "Loose trousers with large bellows pockets on the thighs."},
+      {"title": "Ray-Ban Aviator", "description": "Teardrop-lensed metal-framed sunglasses with a double bridge."},
+      {"title": "M-65 jacket", "description": "Olive cotton-nylon jacket with four front pockets and a hood stowed in the collar."},
+      {"title": "Chinos", "description": "Lightweight cotton twill trousers in shades of khaki and stone."},
+      {"title": "Fishtail parka", "description": "Hooded olive parka with a split tail, adopted by 1960s mods."}
+    ],
+    "intruders": [
+      {"title": "Clarks Desert Boot", "description": "Suede ankle boot on a crepe sole, introduced in 1950.", "why": "Nathan Clark designed it for civilian sale, inspired by boots officers had made in Cairo bazaars. The military link is inspiration, not issue."},
+      {"title": "Levi's 501", "description": "Riveted indigo denim trousers with a button fly.", "why": "Made as workwear for miners and laborers, not for soldiers."}
+    ]
+  },
+  {
+    "id": "design-dieter-rams",
+    "domain": "design objects",
+    "tier": "moderate",
+    "theme": "Products designed or co-designed by Dieter Rams.",
+    "decoy": "Modernist Braun and Vitsoe products of the 1950s to 1980s",
+    "members": [
+      {"title": "Braun SK 4", "description": "1956 radio-phonograph with a clear acrylic lid, nicknamed Snow White's Coffin."},
+      {"title": "Vitsoe 606 Universal Shelving System", "description": "Wall-mounted aluminum track shelving launched in 1960."},
+      {"title": "Vitsoe 620 Chair Programme", "description": "Modular 1962 lounge seating on a swivel or fixed base."},
+      {"title": "Braun T 1000", "description": "Aluminum-cased 1963 multiband world receiver with a hinged front cover."},
+      {"title": "Braun ET 66", "description": "1987 black pocket calculator with convex round buttons."},
+      {"title": "Braun TP 1", "description": "1959 portable pairing a pocket receiver with a small phonograph."},
+      {"title": "Braun T 2 lighter", "description": "Cylindrical 1968 table lighter in chrome or black."},
+      {"title": "Braun HLD 4", "description": "Compact 1970 handheld hair dryer with a slim angular body."}
+    ],
+    "intruders": [
+      {"title": "Braun Sixtant", "description": "1962 electric shaver with a black body and a matte silver foil head.", "why": "Designed by Hans Gugelot and Gerd Alfred Müller. It is a quintessential Braun object of the Rams era, but not his work."},
+      {"title": "Braun KF 20", "description": "Cylindrical 1972 drip coffee maker in stacked tiers of colored plastic.", "why": "Designed by Florian Seiffert, a member of the Braun team Rams led."}
+    ]
+  },
+  {
+    "id": "design-commissioned-typefaces",
+    "domain": "design objects",
+    "tier": "moderate",
+    "theme": "Typefaces created on commission for one organization's own use, such as a newspaper, transit network, road authority or company.",
+    "decoy": "Influential twentieth-century typefaces",
+    "members": [
+      {"title": "Johnston", "description": "Edward Johnston's 1916 humanist sans with diamond-shaped dots on i and j."},
+      {"title": "Times New Roman", "description": "Stanley Morison's compact 1932 roman for narrow columns."},
+      {"title": "Transport", "description": "Kinneir and Calvert's mixed-case sans for British motorway signs."},
+      {"title": "Frutiger", "description": "Adrian Frutiger's open humanist sans, first seen on Paris airport signs."},
+      {"title": "Verdana", "description": "Matthew Carter's wide sans tuned for low-resolution screens."},
+      {"title": "Bell Centennial", "description": "Matthew Carter's sans with ink traps for tiny phone-directory listings."},
+      {"title": "Rail Alphabet", "description": "Crisp sans seen on British station signage from 1965."},
+      {"title": "Calvert", "description": "Margaret Calvert's slab serif for the signs of a Tyneside metro."},
+      {"title": "Highway Gothic", "description": "Condensed American sans family lettered on interstate signs."}
+    ],
+    "intruders": [
+      {"title": "Univers", "description": "Adrian Frutiger's 1957 sans issued in a numbered grid of 21 styles.", "why": "Released commercially by the Deberny & Peignot foundry, not made for a client. Frutiger's later airport face was the commissioned one."},
+      {"title": "Futura", "description": "Paul Renner's geometric 1927 sans that went to the Moon on a plaque.", "why": "A commercial release from the Bauer Type Foundry; its famous uses came later and were not commissions."}
+    ]
+  },
+  {
+    "id": "design-finnish-designers",
+    "domain": "design objects",
+    "tier": "moderate",
+    "theme": "Design objects created by Finnish designers.",
+    "decoy": "Nordic modern design classics",
+    "members": [
+      {"title": "Savoy vase", "description": "Alvar Aalto's wavy-walled glass vase from 1936."},
+      {"title": "Ball Chair", "description": "Eero Aarnio's fiberglass globe seat with a padded interior, 1963."},
+      {"title": "Teema", "description": "Kaj Franck's plain tableware built on circles, squares and rectangles."},
+      {"title": "Stool 60", "description": "Alvar Aalto's stackable three-legged birch stool with L-shaped bent legs."},
+      {"title": "Birds by Toikka", "description": "Oiva Toikka's hand-blown glass birds, each slightly different."},
+      {"title": "Kivi votive", "description": "Heikki Orvola's thick glass tealight holder made in dozens of colors."},
+      {"title": "Aarne glassware", "description": "Göran Hongell's heavy-based drinking glasses from 1948."},
+      {"title": "Jokapoika shirt", "description": "Vuokko Nurmesniemi's striped cotton shirt for Marimekko, 1956."}
+    ],
+    "intruders": [
+      {"title": "Kay Bojesen monkey", "description": "Kay Bojesen's jointed teak and limba wooden monkey toy.", "why": "Bojesen was Danish. His toy sits naturally beside Toikka's birds as a Nordic collectible."},
+      {"title": "IKEA Poäng", "description": "Noboru Nakamura's cantilevered bentwood armchair for a flat-pack retailer.", "why": "Designed by a Japanese designer for Swedish IKEA; its bent birch recalls Aalto's work."}
+    ]
+  },
+  {
+    "id": "design-dive-watches",
+    "domain": "design objects",
+    "tier": "moderate",
+    "theme": "Wristwatches designed for underwater diving.",
+    "decoy": "Classic mid-century steel tool watches",
+    "members": [
+      {"title": "Rolex Submariner", "description": "1953 steel watch with a black bezel and Mercedes-style hands."},
+      {"title": "Blancpain Fifty Fathoms", "description": "1953 steel watch with a broad black bezel and luminous markers."},
+      {"title": "Omega Seamaster 300", "description": "1957 steel watch with broad-arrow hands and a black bezel."},
+      {"title": "Seiko SKX007", "description": "Affordable Japanese automatic with its crown at four o'clock."},
+      {"title": "Doxa Sub 300", "description": "1967 Swiss watch with a bright orange dial and a cushion case."},
+      {"title": "Panerai Radiomir", "description": "Oversized cushion-cased Italian watch with radium-paint numerals."},
+      {"title": "Rolex Sea-Dweller", "description": "Thick-cased 1967 steel watch with a black bezel and a date."},
+      {"title": "Omega Ploprof", "description": "Chunky 1970 steel watch with a monobloc case and a red bezel-lock button."}
+    ],
+    "intruders": [
+      {"title": "Rolex GMT-Master", "description": "1954 steel watch with a two-tone red and blue bezel.", "why": "Developed with Pan Am for airline pilots tracking two time zones. It shares the Submariner's case and rotating bezel."},
+      {"title": "Omega Speedmaster Professional", "description": "1957 steel chronograph with a tachymeter scale, worn on the Moon.", "why": "A racing chronograph later flown by NASA; it was never built for use in water."},
+      {"title": "Rolex Explorer", "description": "1953 steel watch with a black dial and 3-6-9 numerals.", "why": "Tied to mountaineering and the 1953 Everest expedition, not to the sea."}
+    ]
+  },
+  {
+    "id": "design-basketball-sneakers",
+    "domain": "design objects",
+    "tier": "moderate",
+    "theme": "Sneakers originally designed as basketball shoes.",
+    "decoy": "Classic sneakers that crossed over into streetwear",
+    "members": [
+      {"title": "Converse Chuck Taylor All Star", "description": "Canvas high-top with a rubber toe cap and an ankle patch."},
+      {"title": "Nike Air Jordan 1", "description": "1985 leather high-top in red, black and white with a winged logo."},
+      {"title": "Nike Blazer", "description": "Early-1970s leather or suede high-top with an oversized side logo."},
+      {"title": "Adidas Superstar", "description": "White leather low-top with a ridged rubber shell toe."},
+      {"title": "Puma Clyde", "description": "Suede low-top with a contrasting side stripe, a 1970s New York favorite."},
+      {"title": "Nike Dunk", "description": "1985 leather sneaker issued in bold two-tone colorways."},
+      {"title": "Reebok Pump", "description": "1989 high-top with an inflatable tongue and a pump button."},
+      {"title": "Nike Air Force 1", "description": "1982 white leather sneaker with a chunky cupsole."}
+    ],
+    "intruders": [
+      {"title": "Adidas Stan Smith", "description": "White leather low-top with perforated stripes and a green heel tab.", "why": "A tennis shoe, first sold as the Robert Haillet. Its clean white leather makes it look like the Superstar."},
+      {"title": "Adidas Samba", "description": "Slim low-top with a gum sole and a suede T-toe.", "why": "Made for football training on frozen ground, not basketball."},
+      {"title": "Nike Air Max 1", "description": "1987 low-top with a visible heel air unit and mesh panels.", "why": "A running shoe, though it sits alongside the Air Force 1 and Jordan 1 in sneaker culture."}
+    ]
+  },
+  {
+    "id": "design-jony-ive-apple",
+    "domain": "design objects",
+    "tier": "moderate",
+    "theme": "Apple products designed by the industrial design group Jony Ive led (1996-2019).",
+    "decoy": "Landmark Apple hardware",
+    "members": [
+      {"title": "iMac G3", "description": "Egg-shaped all-in-one computer in translucent Bondi Blue plastic."},
+      {"title": "Power Mac G4 Cube", "description": "Eight-inch clear acrylic cube with a slot-loading optical drive on top."},
+      {"title": "iMac G4", "description": "White dome base with a flat screen on a chrome swiveling arm."},
+      {"title": "iPhone", "description": "Glass-fronted touchscreen phone with a single round home button."},
+      {"title": "MacBook Air", "description": "Wedge-shaped aluminum laptop pulled from a manila envelope on stage."},
+      {"title": "iPad", "description": "Thin aluminum-backed touchscreen slate with a single round home button."},
+      {"title": "Apple Watch", "description": "Rounded rectangular wrist computer with a digital crown."},
+      {"title": "AirPods", "description": "White wireless earbuds with stems, stored in a flip-top charging case."}
+    ],
+    "intruders": [
+      {"title": "Macintosh 128K", "description": "Beige all-in-one computer with a built-in nine-inch screen and handle.", "why": "Designed by Jerry Manock and Terry Oyama's team, years before Ive joined Apple."},
+      {"title": "Apple IIc", "description": "Compact off-white portable computer with a carry handle.", "why": "Designed with Hartmut Esslinger's frogdesign in the 'Snow White' language, long before Ive's group."}
+    ]
+  },
+  {
+    "id": "design-negative-space-logos",
+    "domain": "design objects",
+    "tier": "subtle",
+    "theme": "Logos that hide a figure formed by negative space, the empty area between or around the drawn shapes.",
+    "decoy": "Famous logos with a hidden image or message",
+    "members": [
+      {"title": "FedEx", "description": "Purple and orange wordmark of an overnight courier."},
+      {"title": "Toblerone", "description": "Matterhorn silhouette on the box of a triangular Swiss chocolate bar."},
+      {"title": "Carrefour", "description": "Red and blue arrow-like wedges for a French hypermarket chain."},
+      {"title": "Pittsburgh Zoo & PPG Aquarium", "description": "Stylized black tree above the name of a Pennsylvania zoo."},
+      {"title": "WWF", "description": "Black and white giant panda for a conservation charity."},
+      {"title": "NBC", "description": "Six colored feathers fanning out, for an American TV network."},
+      {"title": "Formula 1 (1994-2017)", "description": "Red slanted F with speed stripes, for motor racing's top series."},
+      {"title": "Hartford Whalers", "description": "Green W topped by a blue whale's tail, for a hockey team."}
+    ],
+    "intruders": [
+      {"title": "Tostitos", "description": "Bold wordmark of an American tortilla-chip and salsa brand.", "why": "Its two t's are drawn as people sharing a chip over a salsa-bowl i-dot. The hidden picture comes from the letters themselves, not from negative space."},
+      {"title": "Tour de France", "description": "Hand-lettered wordmark of cycling's most famous three-week race.", "why": "Its hidden cyclist is drawn by the letter R with a round yellow wheel, which are positive shapes, not empty space."}
+    ]
+  },
+  {
+    "id": "design-foreign-word-brands",
+    "domain": "design objects",
+    "tier": "subtle",
+    "theme": "Brand names taken from genuine words or phrases in a language other than English.",
+    "decoy": "Brands with foreign-sounding names",
+    "members": [
+      {"title": "LEGO", "description": "Interlocking plastic bricks from Billund in Denmark."},
+      {"title": "Volvo", "description": "Swedish carmaker known for boxy estates and safety engineering."},
+      {"title": "Vespa", "description": "Italian step-through scooter with a pressed-steel body."},
+      {"title": "Nivea", "description": "German skin cream sold in a flat blue tin with white lettering."},
+      {"title": "ASICS", "description": "Japanese running-shoe maker whose stripes crisscross the side."},
+      {"title": "Samsung", "description": "South Korean electronics giant behind the Galaxy phones."},
+      {"title": "Muji", "description": "Japanese retailer of plain, minimal household goods and stationery."},
+      {"title": "Fjällräven", "description": "Swedish outdoor brand behind the boxy Kånken backpack."}
+    ],
+    "intruders": [
+      {"title": "Häagen-Dazs", "description": "American ice cream brand sold in small round pint cartons.", "why": "The name is invented gibberish styled to sound Danish; it is not a word in any language."},
+      {"title": "Rolex", "description": "Swiss watchmaker whose crown logo tops the Oyster case.", "why": "Hans Wilsdorf coined the name; despite its Latin ring it is not a word in any language."}
+    ]
+  },
+  {
+    "id": "design-city-typefaces",
+    "domain": "design objects",
+    "tier": "subtle",
+    "theme": "Typefaces named after a city.",
+    "decoy": "Typefaces with place-name titles",
+    "members": [
+      {"title": "Chicago", "description": "Heavy bitmap sans that labeled the menus of the original Macintosh."},
+      {"title": "Geneva", "description": "Neat bitmap sans for small interface text, drawn after a Swiss grotesque."},
+      {"title": "London", "description": "Bitmap blackletter face in the Old English manner."},
+      {"title": "Venice", "description": "Bill Atkinson's slanted calligraphic bitmap script."},
+      {"title": "San Francisco", "description": "Ransom-note bitmap face whose letters look cut from newspapers."},
+      {"title": "Cairo", "description": "Bitmap font of tiny pictograms, home of Clarus the dogcow."},
+      {"title": "Memphis", "description": "Rudolf Wolf's geometric slab serif, released by Stempel in 1929."},
+      {"title": "Zurich", "description": "Bitstream's version of Univers, sold under a different trade title."}
+    ],
+    "intruders": [
+      {"title": "Helvetica", "description": "Max Miedinger's neutral 1957 grotesque from the Haas foundry.", "why": "Its name is Latin for 'Swiss', a country rather than a city. Geneva was drawn after it."},
+      {"title": "Georgia", "description": "Matthew Carter's sturdy screen serif with old-style numerals, for Microsoft.", "why": "Named after a tabloid headline about alien heads found in Georgia, a US state rather than a city."}
+    ]
+  },
+  {
+    "id": "design-genericized-trademarks",
+    "domain": "design objects",
+    "tier": "subtle",
+    "theme": "Former brand names that lost trademark protection after becoming the generic word for the product.",
+    "decoy": "Everyday products known by a brand-like coinage",
+    "members": [
+      {"title": "Escalator", "description": "Moving staircase of linked steps, promoted by Otis from 1900."},
+      {"title": "Thermos", "description": "Vacuum-insulated bottle keeping drinks hot or cold for hours."},
+      {"title": "Yo-yo", "description": "Spool on a string that climbs back up after a flick."},
+      {"title": "Cellophane", "description": "Transparent film of regenerated cellulose for wrapping."},
+      {"title": "Zipper", "description": "Two interlocking rows of teeth joined by a sliding pull."},
+      {"title": "Trampoline", "description": "Taut fabric bed on springs in a steel frame, for bouncing."},
+      {"title": "Linoleum", "description": "Floor covering of linseed oil and cork on a canvas backing."},
+      {"title": "Mimeograph", "description": "Stencil duplicator that pushes ink through a waxed master."}
+    ],
+    "intruders": [
+      {"title": "Jet Ski", "description": "Stand-up personal watercraft steered by handlebars, from Kawasaki.", "why": "Kawasaki has kept it a registered trademark despite everyday generic use."},
+      {"title": "Rollerblade", "description": "Boots with a single line of polyurethane wheels.", "why": "Rollerblade Inc. has kept it a registered trademark; the generic term is inline skate."},
+      {"title": "Hula Hoop", "description": "Plastic hoop twirled around the waist, a 1958 craze.", "why": "Wham-O has kept it a registered trademark; the generic object is simply a hoop."}
+    ]
+  },
+  {
+    "id": "design-architect-designed-objects",
+    "domain": "design objects",
+    "tier": "subtle",
+    "theme": "Objects designed by people who were architects by training and profession.",
+    "decoy": "Iconic furniture and homeware by star designers",
+    "members": [
+      {"title": "Egg Chair", "description": "Arne Jacobsen's enveloping 1958 swivel lounge chair with a high back."},
+      {"title": "Wiggle Side Chair", "description": "Frank Gehry's layered corrugated-cardboard chair from the Easy Edges line."},
+      {"title": "Alessi 9093 kettle", "description": "Michael Graves's stovetop kettle with a red bird whistle on the spout."},
+      {"title": "La Conica", "description": "Aldo Rossi's conical stovetop espresso pot for Alessi."},
+      {"title": "Hill House Chair", "description": "Charles Rennie Mackintosh's tall, black ladder-backed chair of 1902."},
+      {"title": "Barrel Chair", "description": "Frank Lloyd Wright's semicircular wooden chair with a vertical-slat back."},
+      {"title": "Superleggera", "description": "Gio Ponti's featherweight ash side chair with a woven seat, for Cassina."},
+      {"title": "Womb Chair", "description": "Eero Saarinen's fiberglass shell lounge chair made for curling up."}
+    ],
+    "intruders": [
+      {"title": "Noguchi Table", "description": "Isamu Noguchi's heavy glass top resting on two interlocking wooden supports.", "why": "Noguchi was a sculptor, not an architect. His table sits comfortably among mid-century architect-designed classics."},
+      {"title": "Embryo Chair", "description": "Marc Newson's plump neoprene-skinned lounge chair on slim chrome legs.", "why": "Newson studied jewelry and sculpture, not architecture."}
+    ]
+  },
+  {
+    "id": "design-shape-named-seating",
+    "domain": "design objects",
+    "tier": "subtle",
+    "theme": "Seating named for the thing its shape resembles.",
+    "decoy": "Modern seating with evocative one-word names",
+    "members": [
+      {"title": "Swan Chair", "description": "Arne Jacobsen's swiveling armchair with curved upswept arms, for a Copenhagen hotel."},
+      {"title": "Butterfly Chair", "description": "Leather sling stretched over a looping steel rod, created in Buenos Aires."},
+      {"title": "Coconut Chair", "description": "George Nelson's triangular lounge shell on slim steel legs."},
+      {"title": "Diamond Chair", "description": "Harry Bertoia's welded steel-wire lounge chair with a padded cover."},
+      {"title": "Marshmallow Sofa", "description": "George Nelson's 1956 bench of eighteen round vinyl cushions."},
+      {"title": "Tongue Chair", "description": "Pierre Paulin's low stretch-jersey lounger that sits directly on the floor."},
+      {"title": "Bubble Chair", "description": "Eero Aarnio's transparent acrylic sphere that sways from a chain."},
+      {"title": "Heart Cone Chair", "description": "Verner Panton's upholstered armchair on a cone, with two rounded top lobes."},
+      {"title": "Shell Chair", "description": "Hans Wegner's three-legged lounge chair of curved laminated wood."}
+    ],
+    "intruders": [
+      {"title": "Ghost Chair", "description": "Philippe Starck's clear polycarbonate armchair with an oval Louis XVI back.", "why": "Starck's Louis Ghost is called 'Ghost' for its see-through material; its outline is a Louis XVI armchair, not a ghost."},
+      {"title": "Djinn Chair", "description": "Olivier Mourgue's low foam-padded lounge chair, seen in '2001: A Space Odyssey'.", "why": "Named after the spirits of Middle Eastern folklore, not for any resemblance in outline."}
+    ]
+  },
+  {
+    "id": "design-literal-name-logos",
+    "domain": "design objects",
+    "tier": "subtle",
+    "theme": "Logos that picture the literal meaning of the brand's name.",
+    "decoy": "Famous pictorial brand logos",
+    "members": [
+      {"title": "Apple", "description": "Silhouette of a bitten fruit, once striped in rainbow colors."},
+      {"title": "Shell", "description": "Red-edged yellow scallop on petrol station canopies."},
+      {"title": "Target", "description": "Red bullseye of concentric rings for a Minneapolis retailer."},
+      {"title": "Puma", "description": "Leaping big cat in silhouette above a sportswear wordmark."},
+      {"title": "Jaguar", "description": "Chrome cat mascot mid-pounce on the hood of British saloons."},
+      {"title": "Penguin Books", "description": "Black and white seabird in an orange oval on paperbacks."},
+      {"title": "Mitsubishi", "description": "Three red rhombuses meeting at a central point."},
+      {"title": "Subaru", "description": "Six silver stars on a blue oval, one larger than the rest."},
+      {"title": "Dove", "description": "Gold bird silhouette on bars of moisturizing soap."}
+    ],
+    "intruders": [
+      {"title": "Starbucks", "description": "Green circle framing a crowned, twin-tailed siren.", "why": "The name comes from Starbuck, the first mate in Moby-Dick; the siren has nothing to do with it."},
+      {"title": "Amazon", "description": "Lowercase wordmark underlined by an orange smile-shaped arrow.", "why": "Named after the river, but the arrow runs from a to z and shows no river."},
+      {"title": "Evernote", "description": "Green elephant head with a folded page-corner ear.", "why": "The elephant stands for memory; nothing in the name means elephant."}
+    ]
+  },
+  {
+    "id": "design-women-designers",
+    "domain": "design objects",
+    "tier": "subtle",
+    "theme": "Design icons created by a woman designer.",
+    "decoy": "Landmark fashion, graphic and furniture icons of the 20th century",
+    "members": [
+      {"title": "Nike Swoosh", "description": "Curved check-like mark drawn for a running-shoe company in 1971."},
+      {"title": "Unikko", "description": "Bold poppy print of big flat blooms for Marimekko, 1964."},
+      {"title": "Bibendum Chair", "description": "Plump armchair of stacked tubular rolls on a chrome base, 1920s."},
+      {"title": "Wrap dress", "description": "Jersey dress that ties at the waist with no buttons or zips, 1974."},
+      {"title": "Chanel 2.55", "description": "Quilted leather handbag with a chain-and-leather shoulder strap, 1955."},
+      {"title": "Happy Mac", "description": "Smiling computer icon greeting early Macintosh users at startup."},
+      {"title": "Calyx", "description": "1951 abstract furnishing fabric of cup-like motifs on thin stems."},
+      {"title": "Citi logo", "description": "Lowercase bank wordmark with a red arc over the t, 1998."}
+    ],
+    "intruders": [
+      {"title": "Kelly bag", "description": "Trapezoid leather handbag with a flap, strap and padlock, from Hermès.", "why": "Designed by Robert Dumas; it only took the name of Grace Kelly, who carried it."},
+      {"title": "I Love NY logo", "description": "Typewriter-style I and NY flanking a red heart, from 1977.", "why": "Designed by Milton Glaser. It is as iconic a piece of graphic design as the Swoosh or the Citi arc."}
+    ]
+  },
+  {
+    "id": "design-renamed-products",
+    "domain": "design objects",
+    "tier": "subtle",
+    "theme": "Products first introduced under a different name before being renamed.",
+    "decoy": "Classic household products and toys",
+    "members": [
+      {"title": "Frisbee", "description": "Plastic flying disc thrown with a flick of the wrist."},
+      {"title": "Post-it Note", "description": "Small yellow pad of repositionable sticky paper squares."},
+      {"title": "Q-tips", "description": "Cotton-tipped swabs on a stick, sold in round tubs."},
+      {"title": "Etch A Sketch", "description": "Red-framed screen drawn on by turning two white knobs."},
+      {"title": "Crock-Pot", "description": "Countertop stoneware slow cooker for all-day stews."},
+      {"title": "Super Soaker", "description": "Pump-action water gun with a pressurized reservoir."},
+      {"title": "Lava Lamp", "description": "Tapered glass vessel of rising and falling colored wax blobs."},
+      {"title": "Cabbage Patch Kids", "description": "Soft-sculpture dolls with yarn hair and adoption papers."}
+    ],
+    "intruders": [
+      {"title": "Slinky", "description": "Pre-compressed steel spring that walks down stairs.", "why": "Betty James picked the word from a dictionary before its 1945 launch; it has always been sold as Slinky."},
+      {"title": "Barbie", "description": "Eleven-and-a-half-inch fashion doll launched at the 1959 Toy Fair.", "why": "Sold as Barbie from day one. Mattel based it on Germany's Bild Lilli doll, but that was a different product."}
+    ]
+  }
+]
