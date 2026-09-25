@@ -1,0 +1,16 @@
+# uv run vf-eval @ configs/eval.toml
+model = "openai/gpt-4.1-mini"
+num_tasks = 30
+num_rollouts = 3
+shuffle = true
+
+[sampling]
+temperature = 0.7
+max_tokens = 2048
+
+[env.taskset]
+id = "curators-eye"
+split = "eval"
+
+[env.agent.harness]
+id = "null"

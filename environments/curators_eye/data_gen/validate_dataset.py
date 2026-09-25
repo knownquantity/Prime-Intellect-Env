@@ -6,6 +6,7 @@ outside 1-2, duplicate items within a row, duplicate themes across rows.
 Reported diagnostics (should stay low; investigate outliers):
   * theme-word leak: a word of the hidden theme that appears in member text but in
     no intruder's text (so it could point at the principle and away from intruders)
+  * intruder position balance across first/middle/last thirds (error if skewed)
   * shortcut baselines, each told the true intruder count (a generous oracle-k):
       - random:  expected Jaccard of a random k-subset
       - lexical: TF-IDF odd-one-out (least similar items to the rest)
@@ -92,6 +93,7 @@ def main() -> None:
     by_tier: Counter = Counter()
     by_domain: Counter = Counter()
     title_use: Counter = Counter()
+    thirds: Counter = Counter()
 
     for row in rows:
         info = row["info"]
@@ -124,6 +126,10 @@ def main() -> None:
             if hit and not it["is_intruder"]:
                 leaks.append(f"{sid}/{it['id']} {it['title']!r}: {sorted(hit)}")
 
+        for pos, it in enumerate(items):
+            if it["is_intruder"]:
+                thirds[min(2, 3 * pos // len(items))] += 1
+
         k = len(gold)
         scores["random"].append(random_k_jaccard(len(items), k))
         scores["lexical"].append(jaccard(lexical_guess(items, k), gold))
@@ -142,6 +148,11 @@ def main() -> None:
     print("shortcut baselines (mean Jaccard, oracle k):")
     for name, vals in scores.items():
         print(f"  {name:8s} {statistics.mean(vals):.3f}")
+    total = sum(thirds.values())
+    shares = [thirds[i] / total for i in range(3)]
+    print("intruder position (first/middle/last third): " + " / ".join(f"{x:.2f}" for x in shares))
+    if len(rows) >= 50 and not all(0.2 <= x <= 0.47 for x in shares):
+        errors.append(f"intruder positions are unbalanced: {shares}")
     print(f"theme-word leaks: {len(leaks)} item(s)")
     for leak in leaks if args.verbose else leaks[:10]:
         print(f"  {leak}")

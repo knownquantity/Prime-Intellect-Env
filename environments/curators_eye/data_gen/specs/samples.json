@@ -25,7 +25,7 @@
     "id": "tools-kitchen-cutting",
     "domain": "tools",
     "tier": "obvious",
-    "theme": "Kitchen tools that work by cutting: a blade, sharp edge, or taut wire severs the food.",
+    "theme": "Kitchen tools that work by cutting: a blade or sharp edge severs the food.",
     "decoy": "Handheld gadgets for preparing produce and ingredients",
     "members": [
       {"title": "Mandoline", "description": "Flat frame with an adjustable platform for uniform thin pieces."},

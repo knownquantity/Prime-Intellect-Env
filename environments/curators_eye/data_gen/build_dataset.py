@@ -8,7 +8,7 @@ intruders, shuffles it, assigns letter IDs, and writes HF-compatible rows:
 
     prompt  list[{"role", "content"}]  system + user messages
     answer  str                        sorted, comma-joined intruder IDs ("C,H")
-    info    dict                       theme, decoy, tier, domain, items (with truth)
+    info    dict                       theme, decoy, tier, domain, split, items (with truth)
 
 Usage:
     python data_gen/build_dataset.py data_gen/specs/*.json -o curators_eye/data/curators_eye.jsonl
@@ -53,6 +53,13 @@ def build_row(spec: dict) -> dict:
         {**i, "is_intruder": True} for i in intruders
     ]
     rng.shuffle(items)
+    # Move the first intruder into a randomly chosen third of the list, so intruder
+    # positions stay balanced across the dataset and position bias can't be exploited.
+    n = len(items)
+    third = rng.randrange(3)
+    target = rng.randrange(third * n // 3, (third + 1) * n // 3)
+    first = next(i for i, it in enumerate(items) if it["is_intruder"])
+    items[first], items[target] = items[target], items[first]
     for letter, item in zip(string.ascii_uppercase, items):
         item["id"] = letter
 
@@ -84,6 +91,16 @@ def build_row(spec: dict) -> dict:
     }
 
 
+def assign_splits(rows: list[dict], eval_every: int = 5) -> None:
+    """Theme-disjoint split: within each tier, every `eval_every`-th row (in a
+    hash-shuffled order) is held out as `eval`, the rest are `train`."""
+    for tier in {r["info"]["difficulty"] for r in rows}:
+        tier_rows = [r for r in rows if r["info"]["difficulty"] == tier]
+        tier_rows.sort(key=lambda r: hashlib.sha256(r["info"]["spec_id"].encode()).hexdigest())
+        for i, row in enumerate(tier_rows):
+            row["info"]["split"] = "eval" if i % eval_every == 0 else "train"
+
+
 def main() -> None:
     parser = argparse.ArgumentParser()
     parser.add_argument("specs", nargs="+", type=Path)
@@ -95,6 +112,7 @@ def main() -> None:
     if dupes := {i for i in ids if ids.count(i) > 1}:
         raise SystemExit(f"duplicate spec ids: {sorted(dupes)}")
     rows = [build_row(s) for s in sorted(specs, key=lambda s: s["id"])]
+    assign_splits(rows)
     args.out.parent.mkdir(parents=True, exist_ok=True)
     args.out.write_text("".join(json.dumps(r, ensure_ascii=False) + "\n" for r in rows))
     print(f"wrote {len(rows)} rows -> {args.out}")
