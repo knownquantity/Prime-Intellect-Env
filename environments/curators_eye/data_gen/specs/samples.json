@@ -1,0 +1,217 @@
+[
+  {
+    "id": "games-zero-chance",
+    "domain": "games",
+    "tier": "obvious",
+    "theme": "Games with no element of chance: no dice, card draws, or blind tile pulls, so outcomes depend only on the players' decisions.",
+    "decoy": "Classic tabletop strategy games",
+    "members": [
+      {"title": "Chess", "description": "Two armies of sixteen pieces maneuver across an 8x8 checkered board."},
+      {"title": "Go", "description": "Stones are placed alternately on a grid to surround territory."},
+      {"title": "Checkers", "description": "Discs move diagonally and capture by jumping over opponents."},
+      {"title": "Othello", "description": "Discs flip between two colors when outflanked along a line."},
+      {"title": "Connect Four", "description": "Drop discs into a vertical rack to line up four in a row."},
+      {"title": "Hive", "description": "Hexagonal insect pieces form the playing surface as they are placed."},
+      {"title": "Nine Men's Morris", "description": "Form rows of three on nested squares to remove enemy pieces."},
+      {"title": "Abalone", "description": "Marbles shove each other off the edge of a hexagonal board."},
+      {"title": "Oware", "description": "Seeds are sown around a ring of pits, capturing on certain counts."}
+    ],
+    "intruders": [
+      {"title": "Backgammon", "description": "Race fifteen checkers around triangular points and bear them off.", "why": "Every move is dictated by a roll of two dice."},
+      {"title": "Scrabble", "description": "Build interlocking words on a grid of premium squares for points.", "why": "Letter tiles are drawn blind from a bag, so each rack is luck."}
+    ]
+  },
+  {
+    "id": "tools-kitchen-cutting",
+    "domain": "tools",
+    "tier": "obvious",
+    "theme": "Kitchen tools that work by cutting: a blade, sharp edge, or taut wire severs the food.",
+    "decoy": "Handheld gadgets for preparing produce and ingredients",
+    "members": [
+      {"title": "Mandoline", "description": "Flat frame with an adjustable platform for uniform thin pieces."},
+      {"title": "Microplane zester", "description": "Long rasp that lifts fine strands from citrus peel and hard cheese."},
+      {"title": "Egg slicer", "description": "Hinged frame that divides a boiled egg into even rounds."},
+      {"title": "Pizza wheel", "description": "Rolling disc on a handle for portioning flatbreads."},
+      {"title": "Apple corer", "description": "Ringed tube pushed through fruit to remove the center."},
+      {"title": "Cheese plane", "description": "Flat spatula with a slot that shaves thin sheets from a block."},
+      {"title": "Poultry shears", "description": "Heavy spring-loaded scissors for jointing birds."},
+      {"title": "Spiralizer", "description": "Crank-turned gadget that turns vegetables into long ribbons."},
+      {"title": "Mezzaluna", "description": "Curved rocking tool with handles at both ends, used on herbs."}
+    ],
+    "intruders": [
+      {"title": "Garlic press", "description": "Hinged tool that forces cloves through a perforated chamber.", "why": "It crushes and extrudes; nothing in it has a cutting edge."},
+      {"title": "Potato ricer", "description": "Lever-operated hopper that pushes cooked potatoes through small holes.", "why": "It extrudes soft food through a plate rather than cutting it."}
+    ]
+  },
+  {
+    "id": "music-woodwinds",
+    "domain": "music",
+    "tier": "obvious",
+    "theme": "Woodwind instruments: the sound comes from a reed or from air split across an edge, whatever the body is made of.",
+    "decoy": "Orchestral and band wind instruments",
+    "members": [
+      {"title": "Flute", "description": "Metal tube held sideways and played by blowing over an open hole."},
+      {"title": "Saxophone", "description": "Brass-bodied conical instrument with a curved neck and upturned bell."},
+      {"title": "Clarinet", "description": "Black cylindrical instrument with a beaked mouthpiece and flared bell."},
+      {"title": "Oboe", "description": "Slender conical instrument whose pitch tunes the orchestra."},
+      {"title": "Bassoon", "description": "Tall folded instrument with a long curved metal crook."},
+      {"title": "Piccolo", "description": "Half-sized, highest-pitched voice of the orchestra's wind section."},
+      {"title": "English horn", "description": "Alto instrument with a bulb-shaped bell, pitched a fifth below its smaller sibling."},
+      {"title": "Recorder", "description": "Wooden or plastic end-blown pipe common in school music classes."}
+    ],
+    "intruders": [
+      {"title": "French horn", "description": "Coiled metal instrument ending in a wide bell, played with a hand inside it.", "why": "A brass instrument: the player's lips buzz in a cup mouthpiece. Its name echoes the English horn, which is a woodwind."}
+    ]
+  },
+  {
+    "id": "food-named-for-a-person",
+    "domain": "food",
+    "tier": "moderate",
+    "theme": "Dishes named after a specific real person.",
+    "decoy": "Classic restaurant dishes with proper-noun names",
+    "members": [
+      {"title": "Peach Melba", "description": "Poached peaches with raspberry sauce over vanilla ice cream."},
+      {"title": "Pavlova", "description": "Meringue with a crisp crust and soft center, topped with fruit and cream."},
+      {"title": "Beef Stroganoff", "description": "Sauteed strips of beef in a sour-cream sauce."},
+      {"title": "Oysters Rockefeller", "description": "Baked oysters on the half shell under a rich green herb topping."},
+      {"title": "Carpaccio", "description": "Paper-thin slices of raw beef dressed with oil and shaved cheese."},
+      {"title": "Nachos", "description": "Tortilla chips baked with melted cheese and sliced jalapenos."},
+      {"title": "Caesar salad", "description": "Romaine with croutons, parmesan, and a coddled-egg dressing."},
+      {"title": "Bananas Foster", "description": "Bananas flambeed in butter, brown sugar, and rum, served over ice cream."},
+      {"title": "Salisbury steak", "description": "Seasoned ground-beef patty served in brown gravy."},
+      {"title": "Chicken Tetrazzini", "description": "Baked pasta and chicken in a creamy mushroom-and-sherry sauce."}
+    ],
+    "intruders": [
+      {"title": "Chicken Marengo", "description": "Chicken braised with tomatoes, garlic, and wine, garnished with crayfish.", "why": "Named after the Battle of Marengo, a village in Piedmont. It is tied to Napoleon but not named for him."},
+      {"title": "Lobster Thermidor", "description": "Lobster in a cognac-cream sauce, returned to the shell and browned.", "why": "Named after the play 'Thermidor', which takes its name from a month in the French Revolutionary calendar. No person is involved."}
+    ]
+  },
+  {
+    "id": "architecture-expo-built",
+    "domain": "architecture",
+    "tier": "moderate",
+    "theme": "Structures originally built for a world's fair or international exposition.",
+    "decoy": "Iconic modern landmarks and towers",
+    "members": [
+      {"title": "Eiffel Tower", "description": "Wrought-iron lattice tower on the Champ de Mars in Paris."},
+      {"title": "Atomium", "description": "Nine steel-clad spheres joined by tubes, in Brussels."},
+      {"title": "Space Needle", "description": "Observation tower with a saucer-shaped top in Seattle."},
+      {"title": "Habitat 67", "description": "Stacked prefabricated concrete boxes forming a housing complex in Montreal."},
+      {"title": "Montreal Biosphere", "description": "Buckminster Fuller geodesic dome on an island in the St. Lawrence."},
+      {"title": "Barcelona Pavilion", "description": "Mies van der Rohe's low hall of marble, onyx, glass, and chrome columns."},
+      {"title": "Palace of Fine Arts", "description": "Roman-style rotunda and colonnade beside a lagoon in San Francisco."},
+      {"title": "Tower of the Americas", "description": "Slender concrete tower topped by a revolving restaurant in San Antonio."},
+      {"title": "Crystal Palace", "description": "Vast cast-iron and plate-glass hall first raised in Hyde Park, London."}
+    ],
+    "intruders": [
+      {"title": "Tokyo Tower", "description": "Orange-and-white lattice tower modeled on a famous Parisian landmark.", "why": "Built in 1958 as a broadcast tower, not for an exposition. It echoes the Eiffel Tower in form only."},
+      {"title": "Beijing National Stadium", "description": "Woven steel-lattice 'Bird's Nest' arena in Beijing.", "why": "Built for the 2008 Olympics: a major international event, but a sporting one, not an exposition."}
+    ]
+  },
+  {
+    "id": "internet-screen-still-memes",
+    "domain": "internet culture",
+    "tier": "moderate",
+    "theme": "Reaction-image memes that are frames taken from a film, TV show, or TV cartoon.",
+    "decoy": "Famous reaction-image memes",
+    "members": [
+      {"title": "One Does Not Simply", "description": "A bearded man at a council gestures while explaining why a task is harder than it sounds."},
+      {"title": "Surprised Pikachu", "description": "A yellow creature stares with its mouth hanging open in shock."},
+      {"title": "Is This a Pigeon?", "description": "A bespectacled man gestures at a butterfly and misidentifies it."},
+      {"title": "Picard Facepalm", "description": "A bald officer in uniform buries his face in his hand."},
+      {"title": "Laughing Leo", "description": "A man in a velvet jacket laughs, drink in hand, surrounded by guests."},
+      {"title": "Spider-Man Pointing", "description": "Two identical costumed heroes point accusingly at each other."},
+      {"title": "Mocking SpongeBob", "description": "A hunched sea sponge clucks, captioned in alternating capital letters."},
+      {"title": "Not Sure If", "description": "A squinting orange-haired man narrows his eyes in suspicion."}
+    ],
+    "intruders": [
+      {"title": "This Is Fine", "description": "A cartoon dog sips coffee calmly while the room around him burns.", "why": "Comes from KC Green's webcomic 'Gunshow'. It looks like a cartoon but was never on screen."},
+      {"title": "Distracted Boyfriend", "description": "A man turns to eye a passerby while his companion glares at him.", "why": "A staged stock photograph by Antonio Guillem. It looks cinematic but is not a film still."}
+    ]
+  },
+  {
+    "id": "games-born-as-mods",
+    "domain": "games",
+    "tier": "moderate",
+    "theme": "Games that began as fan-made mods of another game.",
+    "decoy": "Influential PC multiplayer and indie games",
+    "members": [
+      {"title": "Counter-Strike", "description": "Tactical team shooter: one side plants a bomb, the other defuses it."},
+      {"title": "Defense of the Ancients", "description": "Three-lane battle in which each player commands a single hero."},
+      {"title": "DayZ", "description": "Survivors scavenge a post-Soviet countryside overrun by the infected."},
+      {"title": "Team Fortress", "description": "Class-based team shooter built around capturing flags."},
+      {"title": "Garry's Mod", "description": "Physics sandbox for building contraptions, with no set goals."},
+      {"title": "The Stanley Parable", "description": "An office worker defies a narrator in a branching story."},
+      {"title": "Dear Esther", "description": "Wander an empty Hebridean island while a narrator reads letters."},
+      {"title": "Red Orchestra", "description": "Unforgiving Eastern Front infantry shooter."},
+      {"title": "Day of Defeat", "description": "Second World War squad shooter fought over control points."}
+    ],
+    "intruders": [
+      {"title": "League of Legends", "description": "Two teams of five champions push lanes toward the enemy base.", "why": "Built from scratch as a standalone commercial game. It was inspired by DotA but was never a mod itself."},
+      {"title": "Fortnite", "description": "Hundred-player last-one-standing shooter where you build cover on the fly.", "why": "Epic built its battle royale mode in-house. The genre traces back to mods, but this game did not start as one."}
+    ]
+  },
+  {
+    "id": "design-repurposed-products",
+    "domain": "design objects",
+    "tier": "subtle",
+    "theme": "Products first made or sold for a completely different use than the one they became famous for.",
+    "decoy": "Everyday products with well-known invention stories",
+    "members": [
+      {"title": "Bubble Wrap", "description": "Sheets of air-filled plastic cushions."},
+      {"title": "Play-Doh", "description": "Soft, brightly colored modeling compound for children."},
+      {"title": "Kleenex", "description": "Disposable facial tissues pulled from a box."},
+      {"title": "Listerine", "description": "Antiseptic mouthwash with a sharp herbal bite."},
+      {"title": "Coca-Cola", "description": "Caramel-colored carbonated soft drink."},
+      {"title": "Chainsaw", "description": "Motorized saw with teeth mounted on a looping chain."},
+      {"title": "Silly Putty", "description": "Bouncy, stretchy silicone putty packaged in a plastic egg."},
+      {"title": "Rubik's Cube", "description": "Twisting 3x3x3 puzzle with six colored faces."}
+    ],
+    "intruders": [
+      {"title": "Velcro", "description": "Two-sided fastener made of tiny hooks and loops.", "why": "The idea came from burrs, but it was designed as a fastener from day one. A famous origin story, not a change of purpose."},
+      {"title": "Band-Aid", "description": "Adhesive strip with a small gauze pad for minor cuts.", "why": "Invented for exactly this job, covering kitchen cuts. It has a charming origin story but never changed purpose."}
+    ]
+  },
+  {
+    "id": "music-bands-named-for-songs",
+    "domain": "music",
+    "tier": "subtle",
+    "theme": "Bands named after a song by another artist.",
+    "decoy": "British and American rock bands with borrowed or cryptic names",
+    "members": [
+      {"title": "Radiohead", "description": "Oxford band that moved from guitar anthems to glitchy electronics."},
+      {"title": "The Rolling Stones", "description": "London blues-rock band fronted by Mick Jagger for six decades."},
+      {"title": "Deep Purple", "description": "Hard-rock pioneers behind a famous riff about a fire on Lake Geneva."},
+      {"title": "Judas Priest", "description": "Birmingham metal band known for twin lead guitars and leather-and-studs."},
+      {"title": "The Pretty Things", "description": "Raw 1960s R&B band that went on to make an early rock opera."},
+      {"title": "Death Cab for Cutie", "description": "Washington State indie band fronted by Ben Gibbard."},
+      {"title": "The Sisters of Mercy", "description": "Leeds gothic-rock band built around a drum machine called Doktor Avalanche."},
+      {"title": "Pretenders", "description": "Chrissie Hynde's band, formed in London in the late 1970s."}
+    ],
+    "intruders": [
+      {"title": "The Doors", "description": "Los Angeles band whose singer styled himself the Lizard King.", "why": "Named after Aldous Huxley's book 'The Doors of Perception', which is a book, not a song."},
+      {"title": "Duran Duran", "description": "Birmingham new-wave band famous for glossy, exotic music videos.", "why": "Named after a villain in the film 'Barbarella', which is a film, not a song."}
+    ]
+  },
+  {
+    "id": "tools-named-for-true-inventor",
+    "domain": "tools",
+    "tier": "subtle",
+    "theme": "Objects named after the person who actually invented them.",
+    "decoy": "Eponymous objects, meaning things named after a person",
+    "members": [
+      {"title": "Diesel engine", "description": "Compression-ignition engine that runs without a spark plug."},
+      {"title": "Ferris wheel", "description": "Giant upright rotating wheel carrying passenger cars."},
+      {"title": "Petri dish", "description": "Shallow lidded glass dish for growing cultures."},
+      {"title": "Tupperware", "description": "Plastic food containers with an airtight 'burping' seal."},
+      {"title": "Jacuzzi", "description": "Hot tub whose jets pump bubbling water."},
+      {"title": "Zeppelin", "description": "Rigid airship with gas cells inside a metal frame."},
+      {"title": "Stetson", "description": "Wide-brimmed felt hat associated with the American West."},
+      {"title": "Braille", "description": "Tactile writing system of raised dots."}
+    ],
+    "intruders": [
+      {"title": "Guillotine", "description": "Tall frame whose weighted, angled blade drops between two uprights.", "why": "Named after Joseph-Ignace Guillotin, who argued for its use but did not design it. Antoine Louis and Tobias Schmidt built it."},
+      {"title": "Cardigan", "description": "Knitted sweater that opens down the front with buttons.", "why": "Named after the 7th Earl of Cardigan, who made it fashionable but did not invent it."}
+    ]
+  }
+]
