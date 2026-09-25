@@ -96,7 +96,7 @@
       {"title": "iPod (first generation)", "description": "White 2001 pocket gadget with a mechanical scroll wheel and a hard drive."},
       {"title": "iPod shuffle", "description": "Tiny screenless clip-on gadget that can mix up song order."},
       {"title": "Zune", "description": "Microsoft's 2006 portable, offered in brown, with wireless song sharing."},
-      {"title": "Diamond Rio PMP300", "description": "1998 pocket MP3 gadget that the recording industry sued to stop."},
+      {"title": "Diamond Rio PMP300", "description": "1998 pocket MP3 gadget that the music industry sued to stop."},
       {"title": "Dansette", "description": "Two-tone British portable turntable cabinet of 1950s teenage bedrooms."},
       {"title": "Victrola", "description": "Wooden cabinet phonograph with its horn hidden behind doors."}
     ],
@@ -115,16 +115,16 @@
     "members": [
       {"title": "Bialetti Moka Express", "description": "Octagonal aluminum pot from 1933 with a mustachioed mascot."},
       {"title": "Chemex", "description": "Hourglass glass flask with a wooden collar and a leather tie."},
-      {"title": "Bodum Chambord", "description": "Chrome-framed glass carafe with a mesh plunger for steeped coffee."},
-      {"title": "AeroPress", "description": "Plastic syringe-like tube that pushes coffee through a paper filter."},
-      {"title": "Hario V60", "description": "Cone with spiral ribs and one large hole, for pour-over coffee."},
+      {"title": "Bodum Chambord", "description": "Chrome-framed glass carafe with a mesh plunger for steeped brews."},
+      {"title": "AeroPress", "description": "Plastic syringe-like tube that forces a brew through a paper filter."},
+      {"title": "Hario V60", "description": "Cone with spiral ribs and one large hole, for pour-over brewing."},
       {"title": "Anna G. corkscrew", "description": "Smiling figure in a dress whose arms rise as she opens wine."},
       {"title": "Le Creuset Dutch oven", "description": "Enameled cast-iron pot in flame orange, made in France since 1925."},
       {"title": "Weber kettle grill", "description": "Round black charcoal barbecue on three legs with a domed lid."}
     ],
     "intruders": [
-      {"title": "Technivorm Moccamaster", "description": "Dutch 1968 drip coffee brewer with a boxy aluminum frame.", "why": "It plugs in: an electric element heats the water. It sits beside the Chemex as a design-classic brewer."},
-      {"title": "KitchenAid stand mixer", "description": "Egmont Arens' 1937 tilt-head mixer in enameled steel.", "why": "Driven by an electric motor, though it is as much a design icon as the Moka pot."},
+      {"title": "Technivorm Moccamaster", "description": "Dutch 1968 drip brewer with a boxy aluminum frame and glass carafe.", "why": "It plugs in: an electric element heats the water. It sits beside the Chemex as a design-classic brewer."},
+      {"title": "KitchenAid stand mixer", "description": "Egmont Arens' 1937 tilt-head stand mixer in enameled steel.", "why": "Driven by an electric motor, though it is as much a design icon as the Moka pot."},
       {"title": "Dualit toaster", "description": "Chunky stainless-steel British toaster with a mechanical timer.", "why": "Its heating elements run on mains electricity; only the timer is mechanical."}
     ]
   },
@@ -254,7 +254,7 @@
       {"title": "Smart Fortwo", "description": "Two-seat microcar short enough to park nose-in to the curb."}
     ],
     "intruders": [
-      {"title": "Mini", "description": "Tiny 1959 British two-door with its wheels pushed out to the corners.", "why": "Its engine sits transversely at the front, driving the front wheels. It shares the Fiat 500's small-car fame."},
+      {"title": "Mini", "description": "Tiny 1959 British two-door with its wheels pushed to the corners.", "why": "Its engine sits transversely at the front, driving the front wheels. It shares the Fiat 500's small-car fame."},
       {"title": "Citroën 2CV", "description": "Corrugated French economy car with a roll-back canvas roof.", "why": "Its flat-twin engine is at the front, driving the front wheels. Its canvas roof and mission echo the Fiat 500 and Beetle."},
       {"title": "Trabant", "description": "East German small car with a body of cotton-fiber-reinforced plastic.", "why": "Its two-stroke engine is at the front, driving the front wheels, though it was the Eastern bloc's people's car like the Beetle."}
     ]
@@ -268,7 +268,7 @@
     "members": [
       {"title": "Trench coat", "description": "Belted double-breasted gabardine coat with epaulettes and a storm flap."},
       {"title": "MA-1 bomber jacket", "description": "Nylon jacket with a knit collar and a bright orange lining."},
-      {"title": "Peacoat", "description": "Short double-breasted dark wool coat with broad lapels."},
+      {"title": "Peacoat", "description": "Short dark wool coat with broad lapels and large buttons."},
       {"title": "Cargo pants", "description": "Loose trousers with large bellows pockets on the thighs."},
       {"title": "Ray-Ban Aviator", "description": "Teardrop-lensed metal-framed sunglasses with a double bridge."},
       {"title": "M-65 jacket", "description": "Olive cotton-nylon jacket with four front pockets and a hood stowed in the collar."},
@@ -276,7 +276,7 @@
       {"title": "Fishtail parka", "description": "Hooded olive parka with a split tail, adopted by 1960s mods."}
     ],
     "intruders": [
-      {"title": "Clarks Desert Boot", "description": "Suede ankle boot on a crepe sole, introduced in 1950.", "why": "Nathan Clark designed it for civilian sale, inspired by boots officers had made in Cairo bazaars. The military link is inspiration, not issue."},
+      {"title": "Clarks Desert Boot", "description": "Lightweight suede ankle boot on a crepe sole, worn by 1960s mods.", "why": "Nathan Clark designed it for civilian sale, inspired by boots officers had made in Cairo bazaars. The military link is inspiration, not issue."},
       {"title": "Levi's 501", "description": "Riveted indigo denim trousers with a button fly.", "why": "Made as workwear for miners and laborers, not for soldiers."}
     ]
   },
@@ -333,14 +333,14 @@
       {"title": "Savoy vase", "description": "Alvar Aalto's wavy-walled glass vase from 1936."},
       {"title": "Ball Chair", "description": "Eero Aarnio's fiberglass globe seat with a padded interior, 1963."},
       {"title": "Teema", "description": "Kaj Franck's plain tableware built on circles, squares and rectangles."},
-      {"title": "Stool 60", "description": "Alvar Aalto's stackable three-legged birch stool with L-shaped bent legs."},
+      {"title": "Stool 60", "description": "Alvar Aalto's stackable three-legged wooden stool with L-shaped birch legs."},
       {"title": "Birds by Toikka", "description": "Oiva Toikka's hand-blown glass birds, each slightly different."},
       {"title": "Kivi votive", "description": "Heikki Orvola's thick glass tealight holder made in dozens of colors."},
       {"title": "Aarne glassware", "description": "Göran Hongell's heavy-based drinking glasses from 1948."},
       {"title": "Jokapoika shirt", "description": "Vuokko Nurmesniemi's striped cotton shirt for Marimekko, 1956."}
     ],
     "intruders": [
-      {"title": "Kay Bojesen monkey", "description": "Kay Bojesen's jointed teak and limba wooden monkey toy.", "why": "Bojesen was Danish. His toy sits naturally beside Toikka's birds as a Nordic collectible."},
+      {"title": "Kay Bojesen monkey", "description": "Kay Bojesen's jointed wooden monkey toy of teak and limba.", "why": "Bojesen was Danish. His toy sits naturally beside Toikka's birds as a Nordic collectible."},
       {"title": "IKEA Poäng", "description": "Noboru Nakamura's cantilevered bentwood armchair for a flat-pack retailer.", "why": "Designed by a Japanese designer for Swedish IKEA; its bent birch recalls Aalto's work."}
     ]
   },
@@ -363,7 +363,7 @@
     "intruders": [
       {"title": "Rolex GMT-Master", "description": "1954 steel watch with a two-tone red and blue bezel.", "why": "Developed with Pan Am for airline pilots tracking two time zones. It shares the Submariner's case and rotating bezel."},
       {"title": "Omega Speedmaster Professional", "description": "1957 steel chronograph with a tachymeter scale, worn on the Moon.", "why": "A racing chronograph later flown by NASA; it was never built for use in water."},
-      {"title": "Rolex Explorer", "description": "1953 steel watch with a black dial and 3-6-9 numerals.", "why": "Tied to mountaineering and the 1953 Everest expedition, not to the sea."}
+      {"title": "Rolex Explorer", "description": "1953 steel watch with a black dial and bold 3-6-9 numerals.", "why": "Tied to mountaineering and the 1953 Everest expedition, not to the sea."}
     ]
   },
   {
@@ -378,9 +378,9 @@
       {"title": "Nike Blazer", "description": "Early-1970s leather or suede high-top with an oversized side logo."},
       {"title": "Adidas Superstar", "description": "White leather low-top with a ridged rubber shell toe."},
       {"title": "Puma Clyde", "description": "Suede low-top with a contrasting side stripe, a 1970s New York favorite."},
-      {"title": "Nike Dunk", "description": "1985 leather sneaker issued in bold two-tone colorways."},
+      {"title": "Nike Dunk", "description": "1985 leather model issued in bold two-tone colorways."},
       {"title": "Reebok Pump", "description": "1989 high-top with an inflatable tongue and a pump button."},
-      {"title": "Nike Air Force 1", "description": "1982 white leather sneaker with a chunky cupsole."}
+      {"title": "Nike Air Force 1", "description": "1982 all-white leather model with a chunky cupsole."}
     ],
     "intruders": [
       {"title": "Adidas Stan Smith", "description": "White leather low-top with perforated stripes and a green heel tab.", "why": "A tennis shoe, first sold as the Robert Haillet. Its clean white leather makes it look like the Superstar."},
@@ -406,7 +406,7 @@
     ],
     "intruders": [
       {"title": "Macintosh 128K", "description": "Beige all-in-one computer with a built-in nine-inch screen and handle.", "why": "Designed by Jerry Manock and Terry Oyama's team, years before Ive joined Apple."},
-      {"title": "Apple IIc", "description": "Compact off-white portable computer with a carry handle.", "why": "Designed with Hartmut Esslinger's frogdesign in the 'Snow White' language, long before Ive's group."}
+      {"title": "Apple IIc", "description": "Compact off-white portable computer with a fold-down carry handle.", "why": "Designed with Hartmut Esslinger's frogdesign in the 'Snow White' language, long before Ive's group."}
     ]
   },
   {
@@ -459,7 +459,7 @@
     "decoy": "Typefaces with place-name titles",
     "members": [
       {"title": "Chicago", "description": "Heavy bitmap sans that labeled the menus of the original Macintosh."},
-      {"title": "Geneva", "description": "Neat bitmap sans for small interface text, drawn after a Swiss grotesque."},
+      {"title": "Geneva", "description": "Neat bitmap sans for small interface text, modeled on a Swiss grotesque."},
       {"title": "London", "description": "Bitmap blackletter face in the Old English manner."},
       {"title": "Venice", "description": "Bill Atkinson's slanted calligraphic bitmap script."},
       {"title": "San Francisco", "description": "Ransom-note bitmap face whose letters look cut from newspapers."},
@@ -469,7 +469,7 @@
     ],
     "intruders": [
       {"title": "Helvetica", "description": "Max Miedinger's neutral 1957 grotesque from the Haas foundry.", "why": "Its name is Latin for 'Swiss', a country rather than a city. Geneva was drawn after it."},
-      {"title": "Georgia", "description": "Matthew Carter's sturdy screen serif with old-style numerals, for Microsoft.", "why": "Named after a tabloid headline about alien heads found in Georgia, a US state rather than a city."}
+      {"title": "Georgia", "description": "Matthew Carter's screen serif for Microsoft with old-style numerals.", "why": "Named after a tabloid headline about alien heads found in Georgia, a US state rather than a city."}
     ]
   },
   {
@@ -481,7 +481,7 @@
     "members": [
       {"title": "Escalator", "description": "Moving staircase of linked steps, promoted by Otis from 1900."},
       {"title": "Thermos", "description": "Vacuum-insulated bottle keeping drinks hot or cold for hours."},
-      {"title": "Yo-yo", "description": "Spool on a string that climbs back up after a flick."},
+      {"title": "Yo-yo", "description": "Spool that climbs back up its string when flicked."},
       {"title": "Cellophane", "description": "Transparent film of regenerated cellulose for wrapping."},
       {"title": "Zipper", "description": "Two interlocking rows of teeth joined by a sliding pull."},
       {"title": "Trampoline", "description": "Taut fabric bed on springs in a steel frame, for bouncing."},
@@ -490,8 +490,8 @@
     ],
     "intruders": [
       {"title": "Jet Ski", "description": "Stand-up personal watercraft steered by handlebars, from Kawasaki.", "why": "Kawasaki has kept it a registered trademark despite everyday generic use."},
-      {"title": "Rollerblade", "description": "Boots with a single line of polyurethane wheels.", "why": "Rollerblade Inc. has kept it a registered trademark; the generic term is inline skate."},
-      {"title": "Hula Hoop", "description": "Plastic hoop twirled around the waist, a 1958 craze.", "why": "Wham-O has kept it a registered trademark; the generic object is simply a hoop."}
+      {"title": "Rollerblade", "description": "Boots riding on a single straight line of polyurethane wheels.", "why": "Rollerblade Inc. has kept it a registered trademark; the generic term is inline skate."},
+      {"title": "Hula Hoop", "description": "Plastic hoop twirled around the waist, a huge 1958 craze.", "why": "Wham-O has kept it a registered trademark; the generic object is simply a hoop."}
     ]
   },
   {
@@ -511,7 +511,7 @@
       {"title": "Womb Chair", "description": "Eero Saarinen's fiberglass shell lounge chair made for curling up."}
     ],
     "intruders": [
-      {"title": "Noguchi Table", "description": "Isamu Noguchi's heavy glass top resting on two interlocking wooden supports.", "why": "Noguchi was a sculptor, not an architect. His table sits comfortably among mid-century architect-designed classics."},
+      {"title": "Noguchi Table", "description": "Isamu Noguchi's glass top resting on two interlocking wooden supports.", "why": "Noguchi was a sculptor, not an architect. His table sits comfortably among mid-century architect-designed classics."},
       {"title": "Embryo Chair", "description": "Marc Newson's plump neoprene-skinned lounge chair on slim chrome legs.", "why": "Newson studied jewelry and sculpture, not architecture."}
     ]
   },
@@ -557,7 +557,7 @@
     "intruders": [
       {"title": "Starbucks", "description": "Green circle framing a crowned, twin-tailed siren.", "why": "The name comes from Starbuck, the first mate in Moby-Dick; the siren has nothing to do with it."},
       {"title": "Amazon", "description": "Lowercase wordmark underlined by an orange smile-shaped arrow.", "why": "Named after the river, but the arrow runs from a to z and shows no river."},
-      {"title": "Evernote", "description": "Green elephant head with a folded page-corner ear.", "why": "The elephant stands for memory; nothing in the name means elephant."}
+      {"title": "Evernote", "description": "Green elephant head in profile whose ear is a folded page corner.", "why": "The elephant stands for memory; nothing in the name means elephant."}
     ]
   },
   {
@@ -572,7 +572,7 @@
       {"title": "Bibendum Chair", "description": "Plump armchair of stacked tubular rolls on a chrome base, 1920s."},
       {"title": "Wrap dress", "description": "Jersey dress that ties at the waist with no buttons or zips, 1974."},
       {"title": "Chanel 2.55", "description": "Quilted leather handbag with a chain-and-leather shoulder strap, 1955."},
-      {"title": "Happy Mac", "description": "Smiling computer icon greeting early Macintosh users at startup."},
+      {"title": "Happy Mac", "description": "Smiling computer face greeting early Macintosh users at startup."},
       {"title": "Calyx", "description": "1951 abstract furnishing fabric of cup-like motifs on thin stems."},
       {"title": "Citi logo", "description": "Lowercase bank wordmark with a red arc over the t, 1998."}
     ],
@@ -599,7 +599,7 @@
     ],
     "intruders": [
       {"title": "Slinky", "description": "Pre-compressed steel spring that walks down stairs.", "why": "Betty James picked the word from a dictionary before its 1945 launch; it has always been sold as Slinky."},
-      {"title": "Barbie", "description": "Eleven-and-a-half-inch fashion doll launched at the 1959 Toy Fair.", "why": "Sold as Barbie from day one. Mattel based it on Germany's Bild Lilli doll, but that was a different product."}
+      {"title": "Barbie", "description": "Slim fashion doll launched at the 1959 American Toy Fair.", "why": "Sold as Barbie from day one. Mattel based it on Germany's Bild Lilli doll, but that was a different product."}
     ]
   }
 ]

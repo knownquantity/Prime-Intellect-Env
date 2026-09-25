@@ -328,8 +328,8 @@
         "description": "White-plastered Japanese complex nicknamed the White Heron."
       },
       {
-        "title": "Bodiam Castle",
-        "description": "Moated fourteenth-century quadrangle with round corner towers in East Sussex."
+        "title": "Dover Castle",
+        "description": "Clifftop complex above the Channel port, with a great square keep."
       },
       {
         "title": "Conwy Castle",
@@ -583,7 +583,7 @@
     "domain": "architecture",
     "tier": "moderate",
     "theme": "Buildings designed by Antoni Gaudi.",
-    "decoy": "Catalan Modernisme landmarks in and around Barcelona",
+    "decoy": "Landmarks of Catalan Modernisme architecture",
     "members": [
       {
         "title": "Casa Batllo",
@@ -747,6 +747,11 @@
         "title": "Tower Bridge",
         "description": "Victorian bridge with twin Gothic towers and lifting roadways over the Thames.",
         "why": "Never moved from London. A persistent myth says the American who bought Rennie's London Bridge thought he was getting Tower Bridge."
+      },
+      {
+        "title": "Temple of Edfu",
+        "description": "Ptolemaic sandstone temple of Horus with a towering pylon and granite shrine.",
+        "why": "Still stands where it was built, north of Aswan and above the reach of Lake Nasser. It is a Ptolemaic temple like Philae and Kalabsha, which were moved."
       }
     ]
   },
@@ -794,7 +799,7 @@
       {
         "title": "Grand Central Terminal",
         "description": "Beaux-Arts Manhattan rail terminal with a celestial ceiling over its main concourse.",
-        "why": "Threatened by a 1960s tower plan, it was saved by New York's landmarks law, upheld by the Supreme Court in 1978. It is the twin of the lost Penn Station."
+        "why": "Threatened by a 1960s tower plan, it was saved by New York's landmarks law, upheld by the Supreme Court in 1978. It is the great Manhattan counterpart of the lost Penn Station."
       },
       {
         "title": "Battersea Power Station",
@@ -1080,6 +1085,11 @@
         "title": "Louvre Pyramid",
         "description": "Glass and steel pyramid entrance in the main courtyard of a Paris museum.",
         "why": "President Mitterrand chose I. M. Pei directly in 1983, with no competition. It was one of the Paris Grands Projets, several of which were competition winners."
+      },
+      {
+        "title": "Kimbell Art Museum",
+        "description": "Fort Worth art museum of long concrete vaults lit by slots of daylight.",
+        "why": "Director Richard Brown chose Louis Kahn directly in 1966, with no design competition. It is a celebrated cultural landmark like the members."
       }
     ]
   },
@@ -1145,7 +1155,7 @@
     "domain": "architecture",
     "tier": "subtle",
     "theme": "Structures whose chief designer died before they were completed.",
-    "decoy": "Famous landmarks finished in the nineteenth and twentieth centuries",
+    "decoy": "Famous landmarks completed from the mid nineteenth to the early twenty-first century",
     "members": [
       {
         "title": "Brooklyn Bridge",
@@ -1229,8 +1239,8 @@
         "description": "Ultra-thin residential tower on Billionaires' Row with terracotta-faced flanks."
       },
       {
-        "title": "30 Rockefeller Plaza",
-        "description": "Setback limestone slab at the heart of Rockefeller Center in Midtown."
+        "title": "One Vanderbilt",
+        "description": "Tapering glass supertall beside Grand Central with a stepped, faceted crown."
       }
     ],
     "intruders": [
@@ -1340,8 +1350,8 @@
         "description": "Neolithic ring ditch and palisade enclosure in Saxony-Anhalt."
       },
       {
-        "title": "Mnajdra",
-        "description": "Megalithic temple complex on the southern coast of Malta."
+        "title": "Bryn Celli Ddu",
+        "description": "Neolithic passage tomb on Anglesey, a grassy mound over a stone chamber."
       },
       {
         "title": "Anthem Veterans Memorial",
@@ -1379,10 +1389,6 @@
       {
         "title": "Kinkaku-ji",
         "description": "Kyoto temple pavilion covered in gold leaf above a mirror pond."
-      },
-      {
-        "title": "Shakespeare's Globe",
-        "description": "Open-air thatched timber playhouse on London's Bankside."
       },
       {
         "title": "Stoa of Attalos",
@@ -1481,7 +1487,7 @@
     "domain": "architecture",
     "tier": "subtle",
     "theme": "Bridges built to replace a predecessor on the same route that had collapsed.",
-    "decoy": "Modern road and rail bridges with notable engineering histories",
+    "decoy": "Road and rail bridges with notable engineering histories",
     "members": [
       {
         "title": "Tacoma Narrows Bridge",
@@ -1512,8 +1518,8 @@
         "description": "Steel truss crossing of the Han River in Seoul."
       },
       {
-        "title": "Hintze Ribeiro Bridge",
-        "description": "Road crossing of the Douro at Castelo de Paiva in northern Portugal."
+        "title": "Tjorn Bridge",
+        "description": "Cable-stayed road crossing on Sweden's west coast, opened in 1981."
       }
     ],
     "intruders": [
@@ -1521,6 +1527,11 @@
         "title": "London Millennium Footbridge",
         "description": "Steel pedestrian crossing over the Thames between St Paul's and Tate Modern.",
         "why": "Closed two days after its 2000 opening because it swayed, then fitted with dampers and reopened in 2002. It never collapsed and replaced nothing."
+      },
+      {
+        "title": "Forth Bridge",
+        "description": "Red cantilever railway crossing of the Firth of Forth, opened in 1890.",
+        "why": "The first bridge on its route. Thomas Bouch's suspension design for it was dropped after his Tay Bridge fell, which is why it gets linked to the disaster."
       }
     ]
   },

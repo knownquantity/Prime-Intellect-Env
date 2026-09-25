@@ -584,10 +584,6 @@
     "decoy": "Temperate orchard fruits, berries, and nuts",
     "members": [
       {
-        "title": "Apple",
-        "description": "Crisp orchard staple pressed into cider and baked into pies."
-      },
-      {
         "title": "Pear",
         "description": "Sweet, grainy-fleshed orchard crop poached in wine or eaten ripe."
       },
@@ -962,8 +958,8 @@
         "description": "Spanish nougat bar of honey, egg white, and toasted almonds."
       },
       {
-        "title": "Lebkuchen",
-        "description": "Soft spiced Nuremberg honey biscuits, often glazed or chocolate-coated."
+        "title": "Vanocka",
+        "description": "Braided Czech sweet loaf with raisins and almonds, dusted with sugar."
       },
       {
         "title": "Pan de jamon",
@@ -1116,7 +1112,7 @@
     "domain": "food",
     "tier": "subtle",
     "theme": "Dishes named after the pot, pan, or mold they are cooked in.",
-    "decoy": "Slow-cooked and oven-baked dishes of European and Mediterranean home cooking",
+    "decoy": "Hearty slow-cooked and oven-baked home-style dishes",
     "members": [
       {
         "title": "Tagine",
@@ -1149,10 +1145,6 @@
       {
         "title": "Olla podrida",
         "description": "Spanish stew of beans, pork, and sausages simmered for hours."
-      },
-      {
-        "title": "Donburi",
-        "description": "Japanese bowl of rice topped with simmered beef, chicken, or fried cutlet."
       }
     ],
     "intruders": [
@@ -1296,10 +1288,6 @@
     "theme": "Foods whose name is the same word said twice.",
     "decoy": "Foods with playful, sing-song names",
     "members": [
-      {
-        "title": "Couscous",
-        "description": "North African steamed semolina pellets served under a vegetable stew."
-      },
       {
         "title": "Bonbon",
         "description": "Bite-sized chocolate or sugar confection wrapped in foil or paper."
@@ -1471,16 +1459,16 @@
     "id": "food-american-born-foreign-dishes",
     "domain": "food",
     "tier": "subtle",
-    "theme": "Dishes associated with a foreign cuisine that were actually first created in the United States.",
-    "decoy": "Dishes whose names or styles point to a foreign cuisine",
+    "theme": "Foods associated with a foreign cuisine that were actually first created in the United States.",
+    "decoy": "Foods whose names or styles point to a foreign cuisine",
     "members": [
       {
-        "title": "Spaghetti and meatballs",
-        "description": "Long pasta under a tomato sauce crowned with large round meatballs."
+        "title": "Pepperoni",
+        "description": "Spicy, paprika-red cured sausage sliced thin and crisped on pizza."
       },
       {
-        "title": "Chicken parmigiana",
-        "description": "Breaded chicken cutlet baked under tomato sauce and melted mozzarella."
+        "title": "German chocolate cake",
+        "description": "Layered chocolate cake spread with a gooey coconut-and-pecan frosting."
       },
       {
         "title": "Crab Rangoon",
@@ -1501,6 +1489,10 @@
       {
         "title": "Italian beef",
         "description": "Thin-sliced roast beef soaked in gravy on a roll with giardiniera."
+      },
+      {
+        "title": "Muffuletta",
+        "description": "Round sesame loaf sandwich of salami, ham, provolone, and olive salad."
       }
     ],
     "intruders": [
@@ -1627,7 +1619,7 @@
       {
         "title": "Prosecco",
         "description": "Northeastern Italian sparkling wine from Glera grapes, light and fruity.",
-        "why": "Prosecco's rules allow the tank (Charmat) method, and nearly all of it is made that way."
+        "why": "Prosecco's rules permit the tank (Charmat) method, and nearly all of it is made that way; a few producers bottle-ferment by choice, but the appellation does not require it."
       },
       {
         "title": "Asti",
@@ -1637,7 +1629,7 @@
       {
         "title": "Sekt",
         "description": "German sparkling wine, a staple at weddings and New Year's Eve toasts.",
-        "why": "German rules allow tank fermentation, and most Sekt is made that way."
+        "why": "German rules permit tank fermentation and most Sekt is made that way; bottle-fermented Sekt exists, but the category does not require it."
       }
     ]
   }
