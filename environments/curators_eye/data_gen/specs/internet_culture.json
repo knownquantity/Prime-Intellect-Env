@@ -1,0 +1,637 @@
+[
+  {
+    "id": "internet-house-cat-celebrities",
+    "domain": "internet culture",
+    "tier": "obvious",
+    "theme": "Internet-famous animals that are domestic felines of the species Felis catus.",
+    "decoy": "Famous pets and animal stars of internet memes",
+    "members": [
+      {"title": "Tardar Sauce", "description": "Pet whose permanently downturned mouth made her the face of grumpiness."},
+      {"title": "Lil Bub", "description": "Tiny pet with extra toes and a tongue that always poked out."},
+      {"title": "Maru", "description": "Japanese pet adored for squeezing himself into undersized cardboard boxes."},
+      {"title": "Longcat", "description": "White pet held up in a photo that seems to stretch forever."},
+      {"title": "Colonel Meow", "description": "Scowling pet with an enormous, flowing mane of fur."},
+      {"title": "Henri le Chat Noir", "description": "Tuxedo-coated pet narrating existential despair in subtitled French videos."},
+      {"title": "Smudge", "description": "White pet seated behind a salad plate, looking baffled at dinner."},
+      {"title": "Shironeko", "description": "Sleepy white pet photographed calmly balancing objects on his head."},
+      {"title": "Choupette", "description": "Pampered Birman belonging to a famous Chanel fashion designer."}
+    ],
+    "intruders": [
+      {"title": "Doge", "description": "Shiba Inu glancing sideways, captioned in multicolored Comic Sans fragments.", "why": "Kabosu, the pet behind Doge, is a dog. The meme is so often grouped with pet memes that it slips in."},
+      {"title": "Big Floppa", "description": "Stern-faced pet with tall, black-tufted ears, beloved in Russian photos.", "why": "Gosha, the pet behind Big Floppa, is a caracal, a wild cat species, not a domestic cat."}
+    ]
+  },
+  {
+    "id": "internet-initialism-slang",
+    "domain": "internet culture",
+    "tier": "obvious",
+    "theme": "Internet slang terms that are abbreviations formed from the initial letters of a phrase.",
+    "decoy": "Short slang terms born in chat rooms, forums, and online games",
+    "members": [
+      {"title": "lol", "description": "Tacked onto a message to show something was funny."},
+      {"title": "brb", "description": "Quick notice that you are stepping away for a moment."},
+      {"title": "afk", "description": "Status note that a player is temporarily away from the computer."},
+      {"title": "imho", "description": "Modest preface to an opinion someone is about to share."},
+      {"title": "tl;dr", "description": "Header for a short summary placed above or below a long post."},
+      {"title": "smh", "description": "Expression of disappointed disbelief at something someone just said."},
+      {"title": "iirc", "description": "Hedge admitting a claim comes from possibly faulty memory."},
+      {"title": "rofl", "description": "Step up from a simple laugh, suggesting helpless, uncontrollable laughter."},
+      {"title": "ftw", "description": "Tacked after a noun to cheer it as the best choice."},
+      {"title": "irl", "description": "Marks something as happening offline, away from screens."}
+    ],
+    "intruders": [
+      {"title": "pwn", "description": "Gamer boast for crushing an opponent completely and humiliatingly.", "why": "An altered spelling of the word 'own'; its letters do not stand for a phrase."},
+      {"title": "noob", "description": "Dismissive label for an inexperienced newcomer to a game or forum.", "why": "A clipped respelling of 'newbie', not an abbreviation of a phrase."}
+    ]
+  },
+  {
+    "id": "internet-animated-viral-videos",
+    "domain": "internet culture",
+    "tier": "obvious",
+    "theme": "Viral internet videos made entirely with animation rather than filmed live action.",
+    "decoy": "Early viral videos starring odd characters and catchy loops",
+    "members": [
+      {"title": "Nyan Cat", "description": "Pop-Tart-bodied kitty flies through space trailing a rainbow."},
+      {"title": "Badger Badger Badger", "description": "Looping chant of bobbing badgers, interrupted by a mushroom and a snake."},
+      {"title": "Peanut Butter Jelly Time", "description": "Banana shakes maracas to a chant about a sandwich."},
+      {"title": "Charlie the Unicorn", "description": "Two pushy unicorns drag a weary third off to Candy Mountain."},
+      {"title": "Dancing Baby", "description": "Diapered infant performs a jerky cha-cha in a repeating loop."},
+      {"title": "The Ultimate Showdown of Ultimate Destiny", "description": "Pop-culture icons brawl to decide who wins, told as a rock ballad."},
+      {"title": "Salad Fingers", "description": "Thin green figure with long fingers wanders a rusty wasteland."},
+      {"title": "Llamas with Hats", "description": "Hat-wearing llama calmly explains away a string of disasters to his friend."}
+    ],
+    "intruders": [
+      {"title": "Keyboard Cat", "description": "Kitty in a blue shirt plays an upbeat tune on an electric keyboard.", "why": "Old home footage of a real cat, Fatso, puppeted by her owner. It is filmed, not animated."},
+      {"title": "Dramatic Chipmunk", "description": "Small rodent whips its head toward the camera to ominous music.", "why": "Real footage of a prairie dog from a Japanese TV show. It is filmed, not animated."},
+      {"title": "Potter Puppet Pals", "description": "Felt versions of boy wizards bicker until a ticking noise drives them mad.", "why": "Physical hand puppets filmed on camera. The characters look cartoonish but it is live action."}
+    ]
+  },
+  {
+    "id": "internet-encrypted-protocols",
+    "domain": "internet culture",
+    "tier": "obvious",
+    "theme": "Network protocols that encrypt their traffic by design.",
+    "decoy": "Ways of logging in remotely, moving files, and reaching remote servers",
+    "members": [
+      {"title": "SSH", "description": "Command-line login to a remote server, usually on port 22."},
+      {"title": "TLS", "description": "Handshake layer beneath countless web, mail, and messaging connections."},
+      {"title": "IPsec", "description": "Suite acting on individual packets, common in corporate VPN links."},
+      {"title": "WireGuard", "description": "Lean VPN tunnel merged into the Linux kernel in 2020."},
+      {"title": "OpenVPN", "description": "Long-running VPN tunneling software that can use UDP or TCP."},
+      {"title": "Signal Protocol", "description": "Messaging scheme from Open Whisper Systems, later adopted by WhatsApp."},
+      {"title": "Tor", "description": "Volunteer relay system that bounces connections through three hops."},
+      {"title": "HTTPS", "description": "Scheme behind the padlock icon in a browser's address bar."},
+      {"title": "Mosh", "description": "Remote terminal that survives roaming between Wi-Fi and cellular links."}
+    ],
+    "intruders": [
+      {"title": "Telnet", "description": "Command-line login to a remote host, classically on port 23.", "why": "Sends everything, passwords included, as plaintext. It looks like SSH's twin, which is why SSH replaced it."},
+      {"title": "FTP", "description": "Classic file transfer using separate control and data connections.", "why": "Sends credentials and files unencrypted; encryption needs the separate FTPS or SFTP."},
+      {"title": "Gopher", "description": "Menu-driven document retrieval system that briefly rivaled the early web.", "why": "Transfers menus and documents as plaintext with no encryption."}
+    ]
+  },
+  {
+    "id": "internet-realtime-chat",
+    "domain": "internet culture",
+    "tier": "obvious",
+    "theme": "Systems built for live, back-and-forth text chat between people online at the same moment.",
+    "decoy": "Early online communication systems",
+    "members": [
+      {"title": "IRC", "description": "Channels prefixed with a hash sign, hosted on networks like EFnet."},
+      {"title": "ICQ", "description": "Israeli-built client with a flower logo and numeric user IDs."},
+      {"title": "AIM", "description": "America Online's client known for buddy lists and away messages."},
+      {"title": "MSN Messenger", "description": "Microsoft's client with nudges, winks, and custom display pictures."},
+      {"title": "Yahoo! Messenger", "description": "Web portal's client with 'buzz' alerts, emoticons, and public rooms."},
+      {"title": "Talkomatic", "description": "1970s PLATO program that showed each keystroke to others as it was typed."},
+      {"title": "CB Simulator", "description": "CompuServe service from 1980 modeled on citizens band radio channels."},
+      {"title": "Jabber", "description": "Open, federated XML-based system later standardized as XMPP."},
+      {"title": "Google Talk", "description": "Search giant's client of 2005, built on an open standard."}
+    ],
+    "intruders": [
+      {"title": "Usenet", "description": "Worldwide hierarchy of newsgroups such as comp.lang and alt.folklore.", "why": "Posts propagate between servers and are read later; it is asynchronous discussion, not live conversation."},
+      {"title": "LISTSERV", "description": "Software that relays each subscriber's email to everyone on a list.", "why": "An email mailing-list manager; messages are read whenever recipients check their mail."},
+      {"title": "phpBB", "description": "Open-source software behind countless topic-and-reply web forums.", "why": "Forum threads are posted and answered over hours or days; it is asynchronous."}
+    ]
+  },
+  {
+    "id": "internet-dance-crazes",
+    "domain": "internet culture",
+    "tier": "obvious",
+    "theme": "Viral trends in which participants perform a dance.",
+    "decoy": "Viral video trends and challenges recreated by huge numbers of people",
+    "members": [
+      {"title": "Harlem Shake", "description": "One masked person moves alone, then the bass drops and everyone erupts."},
+      {"title": "Crank That", "description": "Soulja Boy's 2007 hit with a signature 'Superman' routine."},
+      {"title": "The Floss", "description": "Swinging both straight arms back and forth around the hips in rhythm."},
+      {"title": "Renegade", "description": "Rapid arm-and-hip sequence set to K Camp's 'Lottery' on TikTok."},
+      {"title": "Running Man Challenge", "description": "Jogging-in-place footwork set to Ghost Town DJ's 'My Boo'."},
+      {"title": "In My Feelings Challenge", "description": "Hopping out of a slowly rolling car to move along with a Drake chorus."},
+      {"title": "Watch Me (Whip/Nae Nae)", "description": "Silento's 2015 hit that called out a string of named moves."},
+      {"title": "Teach Me How to Dougie", "description": "Cali Swag District hit teaching a smooth, shoulder-led groove."},
+      {"title": "Hit the Quan", "description": "iLoveMemphis track whose smooth arm-rolling routine spread across Vine."}
+    ],
+    "intruders": [
+      {"title": "Mannequin Challenge", "description": "Groups hold poses perfectly still while one camera weaves among them.", "why": "Participants freeze motionless; music usually plays, but nobody moves."},
+      {"title": "Ice Bucket Challenge", "description": "Participants dump icy water over their heads, then nominate friends.", "why": "A fundraising dare for ALS awareness; no dancing is involved."},
+      {"title": "Planking", "description": "Lying rigidly face-down on odd surfaces for a photograph.", "why": "A motionless pose captured in a still photo, not a dance."}
+    ]
+  },
+  {
+    "id": "internet-video-platforms",
+    "domain": "internet culture",
+    "tier": "obvious",
+    "theme": "Platforms whose core content is user-posted video.",
+    "decoy": "Upload and streaming sites for creators and fans",
+    "members": [
+      {"title": "YouTube", "description": "Its first upload showed a co-founder standing at the San Diego Zoo."},
+      {"title": "Vimeo", "description": "Upload site launched in 2004, prized by indie filmmakers for Staff Picks."},
+      {"title": "Dailymotion", "description": "Paris-based upload site founded in 2005 as a European rival."},
+      {"title": "Vine", "description": "Six-second looping uploads, discontinued by Twitter in early 2017."},
+      {"title": "Niconico", "description": "Japanese site where viewer comments scroll across the screen."},
+      {"title": "Twitch", "description": "Livestreaming service that grew out of Justin.tv's gaming section."},
+      {"title": "Periscope", "description": "Phone broadcasting app that Twitter bought just before its 2015 launch."},
+      {"title": "Bilibili", "description": "Shanghai-based site with scrolling comments, popular with anime fans."},
+      {"title": "Veoh", "description": "Mid-2000s upload site known for a landmark copyright case with Universal Music."}
+    ],
+    "intruders": [
+      {"title": "SoundCloud", "description": "Berlin-based upload site where listener comments are pinned along the waveform.", "why": "Built around audio tracks, not video, though it shares the upload-and-comment model."},
+      {"title": "Bandcamp", "description": "Upload storefront where independent musicians set their own prices.", "why": "Sells and streams music as audio; video is not its core content."}
+    ]
+  },
+  {
+    "id": "internet-open-source-apps",
+    "domain": "internet culture",
+    "tier": "obvious",
+    "theme": "Software whose source code is released under an open-source license.",
+    "decoy": "Popular free-to-download desktop software",
+    "members": [
+      {"title": "VLC media player", "description": "Traffic-cone-branded player that opens nearly any audio or video file."},
+      {"title": "Thunderbird", "description": "Desktop email client from Mozilla with a bird-and-envelope logo."},
+      {"title": "Audacity", "description": "Waveform editor widely used for recording podcasts and cleaning up audio."},
+      {"title": "Apache HTTP Server", "description": "Feather-logo web server that powered much of the early web."},
+      {"title": "WordPress", "description": "Blogging and site-building system behind a huge share of websites."},
+      {"title": "LibreOffice", "description": "Office suite forked from OpenOffice.org in 2010."},
+      {"title": "Blender", "description": "3D modeling and animation suite that produces its own short films."},
+      {"title": "7-Zip", "description": "Archiver that introduced the .7z format with strong compression."},
+      {"title": "Pidgin", "description": "Multi-network messaging client, formerly Gaim, with a purple bird icon."},
+      {"title": "OBS Studio", "description": "Recording and livestreaming suite favored by game streamers."}
+    ],
+    "intruders": [
+      {"title": "Google Chrome", "description": "Minimalist browser from 2008 with a four-color circular logo.", "why": "Proprietary. Its underlying Chromium project is open source, but Chrome itself ships under Google's own terms with closed components."},
+      {"title": "WinRAR", "description": "Archiver famous for a free trial that never actually expires.", "why": "Proprietary shareware; its source code is not released under an open-source license."},
+      {"title": "Opera", "description": "Norwegian browser that introduced the Speed Dial start page.", "why": "Free to download but proprietary; it has never been released as open source."}
+    ]
+  },
+  {
+    "id": "internet-wikis",
+    "domain": "internet culture",
+    "tier": "obvious",
+    "theme": "Websites built as wikis, where visitors can directly change the published pages.",
+    "decoy": "Online reference sites and encyclopedias",
+    "members": [
+      {"title": "Wikipedia", "description": "Multilingual general encyclopedia launched in January 2001."},
+      {"title": "Wiktionary", "description": "Multilingual dictionary giving etymologies, pronunciations, and translations."},
+      {"title": "wikiHow", "description": "How-to guides illustrated with distinctive painted step-by-step images."},
+      {"title": "TV Tropes", "description": "Catalog of storytelling conventions, notorious for devouring readers' afternoons."},
+      {"title": "Uncyclopedia", "description": "Parody encyclopedia of deliberately absurd articles, launched in 2005."},
+      {"title": "Bulbapedia", "description": "Fan reference covering every Pokemon species, move, and episode."},
+      {"title": "Memory Alpha", "description": "Fan reference cataloging every starship, species, and episode of Star Trek."},
+      {"title": "Wookieepedia", "description": "Fan reference to Star Wars characters, planets, and starships."},
+      {"title": "Wikitravel", "description": "Travel guide to cities and countries, later forked into Wikivoyage."}
+    ],
+    "intruders": [
+      {"title": "Urban Dictionary", "description": "Slang reference where the most upvoted definition tops each entry.", "why": "Users submit and vote on definitions, but nobody can edit someone else's entry, so it is not a wiki."},
+      {"title": "Encyclopaedia Britannica Online", "description": "Web edition of a centuries-old encyclopedia first printed in Edinburgh.", "why": "Written and edited by staff and commissioned experts; readers cannot change articles directly."},
+      {"title": "Encarta", "description": "Microsoft's multimedia encyclopedia of the 1990s, later also offered on the web.", "why": "Produced by Microsoft's editorial staff; users could not edit its articles."}
+    ]
+  },
+  {
+    "id": "internet-crawler-search",
+    "domain": "internet culture",
+    "tier": "moderate",
+    "theme": "Web search engines that built their index with automated crawlers rather than human-curated listings.",
+    "decoy": "Places people went to find things on the early web",
+    "members": [
+      {"title": "AltaVista", "description": "Digital Equipment Corporation's 1995 service, home of the Babel Fish translator."},
+      {"title": "Lycos", "description": "Carnegie Mellon spin-off whose black Labrador mascot fetched results."},
+      {"title": "Excite", "description": "Service from six Stanford graduates that passed on buying Google."},
+      {"title": "HotBot", "description": "Wired magazine's service, launched in 1996."},
+      {"title": "Infoseek", "description": "Mid-1990s service later folded into Disney's Go.com portal."},
+      {"title": "Baidu", "description": "Beijing company founded in 2000 by Robin Li and Eric Xu."},
+      {"title": "Yandex", "description": "Russian service launched in 1997, later branching into taxis and maps."},
+      {"title": "AllTheWeb", "description": "Norwegian service from FAST Search & Transfer, launched in 1999."},
+      {"title": "Teoma", "description": "Rutgers-born service of 2000, later absorbed into Ask Jeeves."}
+    ],
+    "intruders": [
+      {"title": "Yahoo!", "description": "Portal begun by two Stanford graduate students in 1994, with an exclamation point.", "why": "Began as a hand-built directory of sites sorted by people; its keyword results long came from partners' crawlers."},
+      {"title": "DMOZ", "description": "Netscape-owned service launched in 1998 under the name GnuHoo.", "why": "The Open Directory Project: every listing was placed by volunteer human editors, not a crawler."},
+      {"title": "LookSmart", "description": "Australian-founded service of 1996, backed by Reader's Digest.", "why": "Began as a human-edited directory of categorized sites."}
+    ]
+  },
+  {
+    "id": "internet-pre-2000-sites",
+    "domain": "internet culture",
+    "tier": "moderate",
+    "theme": "Websites that launched before the year 2000.",
+    "decoy": "Landmark websites of the early consumer web",
+    "members": [
+      {"title": "GeoCities", "description": "Free home pages organized into themed 'neighborhoods' such as Area51 and Hollywood."},
+      {"title": "Hotmail", "description": "Free webmail service whose original name capitalized H, T, M, and L."},
+      {"title": "Napster", "description": "Peer-to-peer song-swapping service that drew lawsuits from record labels."},
+      {"title": "LiveJournal", "description": "Journaling community with mood icons, friends pages, and locked posts."},
+      {"title": "Slashdot", "description": "'News for nerds' site whose links could crush small servers."},
+      {"title": "Neopets", "description": "Virtual pet site with its own currency and a mysterious island."},
+      {"title": "Hampster Dance", "description": "Page of rodent animations jigging in rows to a sped-up whistled tune."},
+      {"title": "Space Jam website", "description": "Starry promotional page for a Michael Jordan and Looney Tunes film."},
+      {"title": "Something Awful", "description": "Comedy site whose paid forums spawned many early memes."}
+    ],
+    "intruders": [
+      {"title": "Friendster", "description": "Social network of friend circles and testimonials, later huge in Southeast Asia.", "why": "Launched in 2002-2003. It feels like a relic of the earliest web but postdates 2000."},
+      {"title": "Myspace", "description": "Social network of customizable profiles, music players, and a Top 8.", "why": "Launched in 2003, despite its dated look."},
+      {"title": "YTMND", "description": "Single-page gags pairing a zooming image, looping sound, and huge text.", "why": "Launched in 2004; its crude aesthetic mimics 1990s home pages."}
+    ]
+  },
+  {
+    "id": "internet-viral-advertising",
+    "domain": "internet culture",
+    "tier": "moderate",
+    "theme": "Viral hits that were created as advertising for a company or product.",
+    "decoy": "Viral web videos and interactive pages of the 2000s and 2010s",
+    "members": [
+      {"title": "Subservient Chicken", "description": "Webcam-style site where a person in a chicken suit obeys typed commands."},
+      {"title": "Will It Blend?", "description": "Man in a lab coat pulverizes iPhones, golf balls, and marbles."},
+      {"title": "The Man Your Man Could Smell Like", "description": "Shirtless man delivers a rapid monologue that ends on horseback."},
+      {"title": "Elf Yourself", "description": "Upload friends' faces onto dancing holiday elves."},
+      {"title": "Dumb Ways to Die", "description": "Cute blob characters meet silly ends in a catchy singalong about safety."},
+      {"title": "Evian Roller Babies", "description": "Diapered infants roller-skate and breakdance to an old-school hip-hop classic."},
+      {"title": "The Force", "description": "Child in a Darth Vader costume tries to move household objects with his mind."},
+      {"title": "Epic Split", "description": "Jean-Claude Van Damme does the splits between two reversing trucks."},
+      {"title": "Gorilla", "description": "Gorilla drums along to Phil Collins's 'In the Air Tonight'."}
+    ],
+    "intruders": [
+      {"title": "Diet Coke and Mentos", "description": "Hundreds of soda bottles erupt in choreographed geysers, Bellagio-style.", "why": "Made independently by the performers EepyBird. Neither brand commissioned it, though it looks like a product stunt."},
+      {"title": "Evolution of Dance", "description": "Comedian runs through decades of popular moves in six minutes.", "why": "A motivational comedian's own stage routine, filmed and posted by him; no brand commissioned it."}
+    ]
+  },
+  {
+    "id": "internet-netscape-inventions",
+    "domain": "internet culture",
+    "tier": "moderate",
+    "theme": "Web technologies first introduced by Netscape.",
+    "decoy": "Foundational browser technologies of the 1990s",
+    "members": [
+      {"title": "JavaScript", "description": "Scripting language written in ten days in 1995, originally called Mocha."},
+      {"title": "SSL", "description": "Encryption layer for connections, publicly released as version 2.0."},
+      {"title": "HTTP cookie", "description": "Small token a site stores to remember a visitor between pages."},
+      {"title": "<blink> tag", "description": "Markup that made text flash on and off, widely mocked."},
+      {"title": "HTML frames", "description": "Markup that split one window into separately scrolling panes."},
+      {"title": "RSS", "description": "Syndication feed originally designed for a customizable portal page."},
+      {"title": "NPAPI", "description": "Plug-in interface that let browsers run Flash, Java, and QuickTime content."},
+      {"title": "Proxy auto-config", "description": "Script file telling a browser which proxy to use for each address."}
+    ],
+    "intruders": [
+      {"title": "<marquee> tag", "description": "Markup that scrolled text across the page like a news ticker.", "why": "Introduced by Microsoft's Internet Explorer; it was IE's answer to Netscape's <blink>."},
+      {"title": "XMLHttpRequest", "description": "Scripting object letting pages fetch data without a full reload.", "why": "Created by Microsoft for Outlook Web Access and shipped in Internet Explorer 5."},
+      {"title": "Favicon", "description": "Tiny icon shown beside a site's name in tabs and bookmarks.", "why": "Introduced by Microsoft in Internet Explorer 5 as favicon.ico."}
+    ]
+  },
+  {
+    "id": "internet-nonprofit-sites",
+    "domain": "internet culture",
+    "tier": "moderate",
+    "theme": "Websites and services operated by nonprofit organizations.",
+    "decoy": "Free, mission-driven websites for knowledge and communication",
+    "members": [
+      {"title": "Internet Archive", "description": "San Francisco library behind the Wayback Machine's snapshots of old pages."},
+      {"title": "Khan Academy", "description": "Free lessons that began as tutoring videos a hedge-fund analyst made for cousins."},
+      {"title": "Project Gutenberg", "description": "Library of public-domain e-books, begun by Michael Hart in 1971."},
+      {"title": "OpenStreetMap", "description": "Crowd-drawn world map whose data feeds many other apps."},
+      {"title": "Let's Encrypt", "description": "Certificate authority issuing free certificates for HTTPS."},
+      {"title": "Archive of Our Own", "description": "Fan-fiction archive with a famously detailed tagging system."},
+      {"title": "Signal", "description": "End-to-end encrypted messenger for texts and calls."},
+      {"title": "arXiv", "description": "Preprint server where physicists and mathematicians post papers before peer review."},
+      {"title": "Wikimedia Commons", "description": "Repository of freely licensed images, sounds, and media files."}
+    ],
+    "intruders": [
+      {"title": "Craigslist", "description": "Plain-looking classifieds site with purple links and a .org address.", "why": "A for-profit company despite its .org domain and noncommercial look."},
+      {"title": "Duolingo", "description": "Free language-learning app with a green owl mascot and daily streaks.", "why": "A for-profit, publicly traded company, though its free mission resembles Khan Academy's."},
+      {"title": "Coursera", "description": "Free university courses online, launched by two Stanford professors.", "why": "A for-profit company, unlike its university-founded peer edX at launch."}
+    ]
+  },
+  {
+    "id": "internet-google-acquisitions",
+    "domain": "internet culture",
+    "tier": "moderate",
+    "theme": "Google products that began as startups Google acquired rather than ones built in-house.",
+    "decoy": "Google's best-known consumer products",
+    "members": [
+      {"title": "Google Maps", "description": "Street maps with draggable tiles and turn-by-turn directions."},
+      {"title": "Google Docs", "description": "Browser word processor with live multi-person editing."},
+      {"title": "Google Earth", "description": "Spinning 3D globe you can zoom into from orbit."},
+      {"title": "Android", "description": "Mobile operating system whose mascot is a green robot."},
+      {"title": "Blogger", "description": "Free blog publishing tool whose blogs live at blogspot.com addresses."},
+      {"title": "Picasa", "description": "Desktop photo organizer with red-eye removal and simple edits."},
+      {"title": "Google Analytics", "description": "Dashboard reporting a website's traffic and visitor sources."},
+      {"title": "Google Voice", "description": "One phone number that rings several phones and transcribes voicemail."},
+      {"title": "Waze", "description": "Crowdsourced driving app where users report police and traffic jams."}
+    ],
+    "intruders": [
+      {"title": "Gmail", "description": "Google's webmail, unveiled on April Fools' Day 2004 with a gigabyte of storage.", "why": "Built in-house by Google engineer Paul Buchheit, not acquired."},
+      {"title": "Google News", "description": "Automated front page grouping headlines from thousands of outlets.", "why": "Built in-house by Google researcher Krishna Bharat, not acquired."}
+    ]
+  },
+  {
+    "id": "internet-udp-protocols",
+    "domain": "internet culture",
+    "tier": "moderate",
+    "theme": "Protocols that normally carry their traffic over UDP rather than TCP.",
+    "decoy": "Core protocols that keep the internet running",
+    "members": [
+      {"title": "DNS", "description": "Turns human-readable hostnames into numeric addresses."},
+      {"title": "DHCP", "description": "Hands a newly connected device its address and gateway automatically."},
+      {"title": "NTP", "description": "Keeps computer clocks synchronized to reference servers."},
+      {"title": "SNMP", "description": "Lets administrators poll and monitor routers, switches, and printers."},
+      {"title": "TFTP", "description": "Stripped-down file transfer often used to network-boot devices."},
+      {"title": "RTP", "description": "Delivers live audio and video streams for calls and conferencing."},
+      {"title": "HTTP/3", "description": "Web revision standardized in 2022, built on QUIC."},
+      {"title": "RADIUS", "description": "Authenticates users logging into Wi-Fi and dial-up networks."},
+      {"title": "mDNS", "description": "Lets devices on a home network find each other's names without a server."}
+    ],
+    "intruders": [
+      {"title": "HTTP/2", "description": "Web revision of 2015 that multiplexes many requests on one connection.", "why": "Runs over TCP; only its successor HTTP/3 moved to UDP via QUIC."},
+      {"title": "SMTP", "description": "Relays outgoing email from server to server.", "why": "Runs over TCP, classically on port 25."},
+      {"title": "BGP", "description": "Exchanges routes between the independent networks that make up the internet.", "why": "Runs over TCP port 179, unlike most routing-adjacent infrastructure protocols."}
+    ]
+  },
+  {
+    "id": "internet-flash-games",
+    "domain": "internet culture",
+    "tier": "moderate",
+    "theme": "Browser games built in Adobe (Macromedia) Flash.",
+    "decoy": "Famous free games played in a web page",
+    "members": [
+      {"title": "Line Rider", "description": "Sled rider glides down tracks the player sketches freehand."},
+      {"title": "QWOP", "description": "Sprinter controlled by four keys, one per thigh and calf."},
+      {"title": "Club Penguin", "description": "Snowy virtual world where waddling avatars decorate igloos."},
+      {"title": "Bloons Tower Defense", "description": "Monkeys throw darts to pop streams of colored balloons."},
+      {"title": "Happy Wheels", "description": "Ragdoll riders tackle perilous user-built obstacle courses."},
+      {"title": "Desktop Tower Defense", "description": "Build mazes of towers on an office desk to stop creeps."},
+      {"title": "Alien Hominid", "description": "Yellow alien blasts FBI agents in a side-scrolling run-and-gun."},
+      {"title": "Meat Boy", "description": "Cube of flesh leaps through saw-filled levels to rescue Bandage Girl."},
+      {"title": "The Impossible Quiz", "description": "Trick questions with absurd answers, where one wrong click costs a life."}
+    ],
+    "intruders": [
+      {"title": "RuneScape", "description": "Medieval fantasy world where players train skills like woodcutting and fishing.", "why": "Originally ran in the browser as a Java applet, not Flash."},
+      {"title": "Agar.io", "description": "Cells swallow smaller rivals in a shared arena.", "why": "Built with HTML5 and JavaScript, not Flash."},
+      {"title": "2048", "description": "Sliding tiles merge into doubling numbers on a four-by-four grid.", "why": "Written in JavaScript and HTML, not Flash."}
+    ]
+  },
+  {
+    "id": "internet-email-worms",
+    "domain": "internet culture",
+    "tier": "moderate",
+    "theme": "Malware that spread mainly by emailing itself to victims as attachments or links.",
+    "decoy": "Notorious computer worms and viruses of the 1999-2007 era",
+    "members": [
+      {"title": "ILOVEYOU", "description": "Visual Basic script from Manila that overwrote users' image and music files."},
+      {"title": "Melissa", "description": "Word macro virus of 1999 that overwhelmed corporate servers."},
+      {"title": "Mydoom", "description": "2004 worm that aimed its infected PCs at the SCO Group's website."},
+      {"title": "Sobig", "description": "2003 worm family whose F variant spread faster than any before it."},
+      {"title": "Klez", "description": "2001 worm that faked its apparent origin and disabled antivirus programs."},
+      {"title": "Sircam", "description": "2001 worm that leaked random documents from infected machines."},
+      {"title": "Netsky", "description": "2004 worm family whose author waged a public feud with Bagle's creators."},
+      {"title": "Storm Worm", "description": "2007 malware that assembled a huge peer-to-peer botnet."}
+    ],
+    "intruders": [
+      {"title": "Code Red", "description": "2001 worm named after the soda its discoverers were drinking.", "why": "Exploited a flaw in Microsoft IIS web servers, spreading directly from server to server."},
+      {"title": "SQL Slammer", "description": "2003 worm small enough to fit in a single network packet.", "why": "Spread by firing UDP packets at Microsoft SQL Server machines; no email was involved."},
+      {"title": "Blaster", "description": "2003 worm whose code hid a taunting message to Bill Gates.", "why": "Spread by exploiting a Windows RPC flaw across networks, not by email."}
+    ]
+  },
+  {
+    "id": "internet-born-webcomics",
+    "domain": "internet culture",
+    "tier": "moderate",
+    "theme": "Comics that were first published on the web rather than in print.",
+    "decoy": "Beloved comics with devoted online followings",
+    "members": [
+      {"title": "xkcd", "description": "Stick-figure strips about science, romance, and math, with hover-text jokes."},
+      {"title": "Penny Arcade", "description": "Gaming strip whose creators founded the PAX convention."},
+      {"title": "Homestuck", "description": "Sprawling interactive saga about four kids playing a world-ending game."},
+      {"title": "Questionable Content", "description": "Slice-of-life strip about indie music fans and their robot friends."},
+      {"title": "Cyanide & Happiness", "description": "Dark-humored gags starring simple, round-headed stick characters."},
+      {"title": "Hark! A Vagrant", "description": "Historical and literary figures mocked in loose, scratchy drawings."},
+      {"title": "Achewood", "description": "Stuffed animals and pets trade eccentric dialogue in California."},
+      {"title": "The Oatmeal", "description": "Long illustrated rants about grammar, running, and pets."},
+      {"title": "The Order of the Stick", "description": "Stick-figure fantasy adventurers who know they live by tabletop rules."}
+    ],
+    "intruders": [
+      {"title": "The Far Side", "description": "Single-panel absurdities featuring cows, cavemen, and scientists.", "why": "Syndicated in newspapers from 1980 to 1995; it only later gained an online presence."},
+      {"title": "Calvin and Hobbes", "description": "A boy and his stuffed tiger go on imaginative adventures.", "why": "A newspaper strip syndicated from 1985 to 1995, widely shared online since."},
+      {"title": "Peanuts", "description": "Round-headed kid, a beagle on a doghouse roof, and a pulled football.", "why": "A newspaper strip that began in 1950, long before the web."}
+    ]
+  },
+  {
+    "id": "internet-recursive-acronyms",
+    "domain": "internet culture",
+    "tier": "subtle",
+    "theme": "Software whose name is a recursive acronym, meaning the abbreviation's own expansion contains the abbreviation.",
+    "decoy": "Free and open-source software projects known by short all-letter names",
+    "members": [
+      {"title": "GNU", "description": "Free operating system project begun by Richard Stallman in 1983."},
+      {"title": "PHP", "description": "Server-side web scripting language created by Rasmus Lerdorf."},
+      {"title": "Wine", "description": "Compatibility layer that runs Windows programs on Linux and macOS."},
+      {"title": "YAML", "description": "Indentation-based serialization notation popular for configuration files."},
+      {"title": "LAME", "description": "Widely used encoder that produces MP3 audio."},
+      {"title": "Nagios", "description": "Monitoring tool that alerts administrators when servers or services fail."},
+      {"title": "XNU", "description": "Hybrid kernel at the heart of macOS and iOS."},
+      {"title": "RPM", "description": "Package manager used by Red Hat and Fedora."},
+      {"title": "HURD", "description": "Microkernel project meant to complete the GNU system."}
+    ],
+    "intruders": [
+      {"title": "GIMP", "description": "Free raster image editor, often suggested as a stand-in for Photoshop.", "why": "Stands for GNU Image Manipulation Program. It opens with the recursive GNU, but GIMP's own letters never recur."},
+      {"title": "GCC", "description": "Compiler suite that builds the Linux kernel and much free software.", "why": "Stands for GNU Compiler Collection; the G is GNU, not GCC itself."}
+    ]
+  },
+  {
+    "id": "internet-respelled-brands",
+    "domain": "internet culture",
+    "tier": "subtle",
+    "theme": "Internet brand names that are an ordinary English word or phrase with deliberately altered spelling.",
+    "decoy": "Web companies and apps with quirky, made-up-looking names",
+    "members": [
+      {"title": "Tumblr", "description": "Short-form blogging platform famous for reblogs and fandom GIFs."},
+      {"title": "Digg", "description": "Social news site where users voted stories up to the front page."},
+      {"title": "Scribd", "description": "Digital library for uploading and reading documents, audiobooks, and e-books."},
+      {"title": "Fiverr", "description": "Freelance marketplace where every gig originally cost the same small price."},
+      {"title": "Lyft", "description": "Ride-hailing app once known for fuzzy pink mustaches on car grilles."},
+      {"title": "Flickr", "description": "Photo-sharing site beloved by photographers for tags and Creative Commons licensing."},
+      {"title": "Reddit", "description": "Link aggregator divided into communities and ranked by votes."},
+      {"title": "Dribbble", "description": "Showcase site where designers post small previews of their work."},
+      {"title": "Froogle", "description": "Google's price-comparison shopping service, later renamed Google Product Search."}
+    ],
+    "intruders": [
+      {"title": "Tinder", "description": "Dating app built around swiping right or left on profiles.", "why": "Spelled exactly like the dictionary word 'tinder'; nothing is altered."},
+      {"title": "Hulu", "description": "Streaming service built for next-day TV episodes, backed by major networks.", "why": "Taken from a Mandarin word (hulu, a gourd), not a respelled English word."},
+      {"title": "Slack", "description": "Workplace messaging with channels, threads, and custom emoji.", "why": "The ordinary English word, spelled normally."}
+    ]
+  },
+  {
+    "id": "internet-plain-text-formats",
+    "domain": "internet culture",
+    "tier": "subtle",
+    "theme": "File formats stored as plain, human-readable text rather than binary data.",
+    "decoy": "Structured document and data formats built on markup or tagged syntax",
+    "members": [
+      {"title": "CSV", "description": "Spreadsheet rows with fields separated by commas."},
+      {"title": "Markdown", "description": "Lightweight markup where asterisks mean emphasis and hashes mean headings."},
+      {"title": "iCalendar", "description": "Standard for sharing calendar events and invitations between apps."},
+      {"title": "SRT", "description": "Subtitle files pairing numbered timestamps with lines of dialogue."},
+      {"title": "vCard", "description": "Electronic business card for exchanging contact details."},
+      {"title": "LaTeX", "description": "Typesetting system favored for mathematics and scientific papers."},
+      {"title": "XML", "description": "Tag-based markup with user-defined element names, used for feeds and configs."},
+      {"title": "TOML", "description": "Configuration syntax of key-value pairs and bracketed tables."},
+      {"title": "JSON", "description": "Interchange notation of braces, brackets, and key-value pairs from JavaScript."}
+    ],
+    "intruders": [
+      {"title": "DOCX", "description": "Microsoft Word's default document format since Office 2007, built on XML.", "why": "The XML parts are packed inside a ZIP archive, so the file itself is binary."},
+      {"title": "EPUB", "description": "Standard e-book format of reflowable chapters written in XHTML markup.", "why": "The XHTML chapters are bundled in a ZIP archive, so the file is binary."},
+      {"title": "XLSX", "description": "Excel's default spreadsheet format, built on Office Open XML markup.", "why": "Its XML parts are compressed into a ZIP archive, so the file is binary."}
+    ]
+  },
+  {
+    "id": "internet-pre-emoji-unicode",
+    "domain": "internet culture",
+    "tier": "subtle",
+    "theme": "Emoji whose characters were already encoded in Unicode before the 2010 emoji expansion (Unicode 6.0), inherited from older symbol sets.",
+    "decoy": "Common emoji depicting everyday objects, weather, and marks",
+    "members": [
+      {"title": "☎️ Telephone", "description": "Old desk phone with a handset resting on its cradle."},
+      {"title": "✈️ Airplane", "description": "Passenger jet seen from above, pointing toward the corner."},
+      {"title": "✂️ Scissors", "description": "Pair of open shears, used for cutting or snipping jokes."},
+      {"title": "☀️ Sun", "description": "Radiating disc used to signal clear, bright weather."},
+      {"title": "❄️ Snowflake", "description": "Six-armed ice crystal signaling cold weather or winter."},
+      {"title": "✉️ Envelope", "description": "Sealed paper letter, often used to mean a message."},
+      {"title": "☕ Hot Beverage", "description": "Steaming cup, usually read as coffee or tea."},
+      {"title": "⚡ High Voltage", "description": "Jagged yellow bolt used for electricity or speed."},
+      {"title": "✔️ Check Mark", "description": "Bold tick used to confirm, approve, or mark done."},
+      {"title": "♻️ Recycling", "description": "Three chasing arrows forming a loop, signaling reuse."}
+    ],
+    "intruders": [
+      {"title": "✅ Check Mark Button", "description": "White tick inside a filled green square, used to mark done.", "why": "Added in Unicode 6.0 (2010) with the emoji set, even though it sits in the old Dingbats block beside the older heavy check mark."},
+      {"title": "📞 Telephone Receiver", "description": "Handset alone, tilted, used to signal a call.", "why": "Added in Unicode 6.0 (2010) as part of the emoji set; only the full desk telephone is older."},
+      {"title": "✨ Sparkles", "description": "Cluster of twinkling stars used for emphasis or magic.", "why": "Added in Unicode 6.0 (2010) as part of the emoji set, filling a gap in the old Dingbats block."}
+    ]
+  },
+  {
+    "id": "internet-non-english-viral-songs",
+    "domain": "internet culture",
+    "tier": "subtle",
+    "theme": "Viral videos whose soundtrack has lyrics sung mainly in a language other than English.",
+    "decoy": "Viral music-driven videos by artists from outside the English-speaking world",
+    "members": [
+      {"title": "Gangnam Style", "description": "South Korean rapper's horse-riding routine that broke YouTube's view counter."},
+      {"title": "Caramelldansen", "description": "Looping anime characters hop with hands held over their heads like ears."},
+      {"title": "Leekspin", "description": "Anime girl twirls a leek to a Finnish a cappella tune."},
+      {"title": "Bad Apple!!", "description": "Shadow-art animation of silhouetted characters set to a Japanese doujin track."},
+      {"title": "Polish Cow", "description": "Spinning cow model grooves to a Polish rapper's track."},
+      {"title": "Tunak Tunak Tun", "description": "Indian pop star appears as four colored clones against digital backdrops."},
+      {"title": "Dame Tu Cosita", "description": "Green alien grooves in a Panamanian producer's music video."},
+      {"title": "Hare Hare Yukai", "description": "Anime closing sequence whose choreography fans recreated in costume."},
+      {"title": "PonPonPon", "description": "Japanese singer's candy-colored video with floating eyeballs and a surreal set."}
+    ],
+    "intruders": [
+      {"title": "What Does the Fox Say?", "description": "Norwegian comedy duo in animal costumes ponders a fox's call.", "why": "Ylvis sing it in English, despite being Norwegian."},
+      {"title": "PPAP", "description": "Japanese comedian in leopard print jams fruit and pens together.", "why": "Pikotaro's lyrics are in English, despite his being Japanese."},
+      {"title": "Trololo", "description": "Soviet baritone grins through a cheerful tune in a 1976 TV clip.", "why": "Eduard Khil sings a wordless vocalise, so there are no lyrics in any language."}
+    ]
+  },
+  {
+    "id": "internet-renamed-services",
+    "domain": "internet culture",
+    "tier": "subtle",
+    "theme": "Web services that operated publicly under a different name before adopting their famous one.",
+    "decoy": "Major internet companies with well-known founding stories",
+    "members": [
+      {"title": "Facebook", "description": "Harvard dorm-room directory of student profiles that went live in 2004."},
+      {"title": "eBay", "description": "Auction marketplace whose first sale was a broken laser pointer."},
+      {"title": "Snapchat", "description": "Photo messaging app whose pictures vanish after viewing."},
+      {"title": "Google", "description": "Link-ranking project that grew out of Stanford's computer science department."},
+      {"title": "Netscape Navigator", "description": "1990s browser whose ship's-wheel logo ruled the early web."},
+      {"title": "Firefox", "description": "Mozilla's open-source browser, with a logo that wraps an animal around a globe."},
+      {"title": "Uber", "description": "Ride-hailing app that began with black-car service in San Francisco."},
+      {"title": "Bing", "description": "Microsoft's web search service, known for a daily photo on its homepage."}
+    ],
+    "intruders": [
+      {"title": "Amazon", "description": "Online retailer that began by selling books from a Washington garage.", "why": "Incorporated as Cadabra, but renamed before the site launched in 1995, so it never operated publicly under that name."},
+      {"title": "Skype", "description": "Internet calling app built by the Estonian developers behind Kazaa.", "why": "The planned name Skyper was shortened before launch; it always operated publicly as Skype."}
+    ]
+  },
+  {
+    "id": "internet-committee-free-acronyms",
+    "domain": "internet culture",
+    "tier": "subtle",
+    "theme": "Acronym-named file types whose letters spell out a description of the content, not the name of a standards committee.",
+    "decoy": "Widely used media and document types known by their extensions",
+    "members": [
+      {"title": "GIF", "description": "Looping image type behind countless reaction clips, limited to 256 colors."},
+      {"title": "TIFF", "description": "Flexible raster image type favored by scanners and print shops."},
+      {"title": "PDF", "description": "Fixed-layout document that looks the same on every device."},
+      {"title": "AVI", "description": "Microsoft's 1992 container for moving pictures with synchronized sound."},
+      {"title": "SVG", "description": "XML-based drawings that stay crisp at any size on the web."},
+      {"title": "PNG", "description": "Web image type with lossless compression and alpha transparency."},
+      {"title": "FLAC", "description": "Open lossless audio codec popular with music collectors."},
+      {"title": "WAV", "description": "Uncompressed audio container developed by Microsoft and IBM."},
+      {"title": "RTF", "description": "Microsoft's cross-platform document type readable by most word processors."}
+    ],
+    "intruders": [
+      {"title": "JPEG", "description": "Lossy photo image type that can shrink camera pictures dramatically.", "why": "Named for the Joint Photographic Experts Group, the committee that wrote the standard."},
+      {"title": "MP3", "description": "Compressed audio type that powered Napster-era music swapping.", "why": "Short for MPEG-1 Audio Layer III; MPEG is the Moving Picture Experts Group committee."},
+      {"title": "MP4", "description": "Common container for moving pictures with AAC audio, used by most phones.", "why": "Short for MPEG-4 Part 14, named for the Moving Picture Experts Group committee."}
+    ]
+  },
+  {
+    "id": "internet-domain-hacks",
+    "domain": "internet culture",
+    "tier": "subtle",
+    "theme": "Domain names where the top-level domain completes the spelling of a word or brand, so the name reads straight across the dot.",
+    "decoy": "Short web addresses built on country-code endings",
+    "members": [
+      {"title": "del.icio.us", "description": "Social bookmarking service that popularized tagging saved links."},
+      {"title": "youtu.be", "description": "Short-link address for sharing clips from the biggest upload site."},
+      {"title": "instagr.am", "description": "Short address a photo-sharing app used for its early links."},
+      {"title": "goo.gl", "description": "Search giant's link shortener, launched in 2009."},
+      {"title": "bit.ly", "description": "Popular link shortener whose company is called after this address."},
+      {"title": "nyti.ms", "description": "Short-link address for a New York newspaper's stories."},
+      {"title": "lnkd.in", "description": "Short-link address a professional networking site uses for shared posts."},
+      {"title": "musical.ly", "description": "Lip-sync clip app later merged into TikTok."}
+    ],
+    "intruders": [
+      {"title": "t.co", "description": "Short-link wrapper applied to every link posted on Twitter.", "why": "'t' plus 'co' spells nothing; .co is simply Colombia's code, used here as a generic ending."},
+      {"title": "last.fm", "description": "Music site that tracks listening history, or 'scrobbles'.", "why": "Read as 'Last F-M': the .fm stands apart as a radio pun rather than finishing a word."},
+      {"title": "bbc.in", "description": "Short-link address a British broadcaster uses for shared stories.", "why": "'bbcin' is not a word; the .in is just India's code tacked on."}
+    ]
+  },
+  {
+    "id": "internet-symmetric-kaomoji",
+    "domain": "internet culture",
+    "tier": "subtle",
+    "theme": "Text faces that are mirror-symmetric: flipped left to right, the face looks the same.",
+    "decoy": "Upright text faces in the Japanese kaomoji style",
+    "members": [
+      {"title": "^_^", "description": "Closed, upturned eyes of pure contentment."},
+      {"title": "T_T", "description": "Tears streaming straight down both cheeks."},
+      {"title": "-_-", "description": "Flat, unimpressed stare of weary annoyance."},
+      {"title": ">_<", "description": "Eyes squeezed shut in frustration or pain."},
+      {"title": "x_x", "description": "Crossed-out eyes of exhaustion or defeat."},
+      {"title": "^o^", "description": "Beaming expression with an open, delighted mouth."},
+      {"title": "ʕ•ᴥ•ʔ", "description": "Round-eared bear with a small snout."},
+      {"title": "(≧▽≦)", "description": "Squeezed eyes and a wide grin of excitement."},
+      {"title": "O_O", "description": "Wide, unblinking eyes of shock."}
+    ],
+    "intruders": [
+      {"title": ">_>", "description": "Sidelong, shifty glance at something suspicious.", "why": "Both eyes point the same way, so a mirror image becomes <_<."},
+      {"title": "o_O", "description": "One small and one wide eye in baffled disbelief.", "why": "The eyes differ in size, so the mirror image is O_o."},
+      {"title": "^_~", "description": "Playful wink with one eye closed.", "why": "One eye is open and one winks, so mirroring swaps them to ~_^."}
+    ]
+  }
+]
