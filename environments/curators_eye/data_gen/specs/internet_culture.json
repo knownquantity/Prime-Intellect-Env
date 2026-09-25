@@ -340,7 +340,7 @@
       },
       {
         "title": "Hit the Quan",
-        "description": "iLoveMemphis track whose smooth arm-rolling routine spread across Vine."
+        "description": "iLoveMemphis's 2015 track whose smooth arm-rolling routine swept social media."
       }
     ],
     "intruders": [
@@ -423,7 +423,7 @@
     "domain": "internet culture",
     "tier": "obvious",
     "theme": "Software whose source code is released under an open-source license.",
-    "decoy": "Popular free-to-download desktop software",
+    "decoy": "Popular free-to-download software",
     "members": [
       {
         "title": "VLC media player",
@@ -598,12 +598,12 @@
       },
       {
         "title": "DMOZ",
-        "description": "Netscape-owned service launched in 1998 under the name GnuHoo.",
+        "description": "Volunteer-run service launched in 1998 as GnuHoo, soon bought by Netscape.",
         "why": "The Open Directory Project: every listing was placed by volunteer human editors, not a crawler."
       },
       {
         "title": "LookSmart",
-        "description": "Australian-founded service of 1996, backed by Reader's Digest.",
+        "description": "Mid-1990s service launched with early funding from Reader's Digest.",
         "why": "Began as a human-edited directory of categorized sites."
       }
     ]
@@ -666,7 +666,7 @@
       {
         "title": "YTMND",
         "description": "Single-page gags pairing a zooming image, looping sound, and huge text.",
-        "why": "Launched in 2004; its crude aesthetic mimics 1990s home pages."
+        "why": "Its joke page dates from 2001 and the user-made site opened in 2004; its crude aesthetic mimics 1990s home pages."
       }
     ]
   },
@@ -1037,7 +1037,7 @@
     "members": [
       {
         "title": "ILOVEYOU",
-        "description": "Visual Basic script from Manila that overwrote users' image and music files."
+        "description": "Visual Basic script from Manila that overwrote countless users' JPEG photos."
       },
       {
         "title": "Melissa",
@@ -1264,7 +1264,7 @@
     "domain": "internet culture",
     "tier": "subtle",
     "theme": "File formats stored as plain, human-readable text rather than binary data.",
-    "decoy": "Structured document and data formats built on markup or tagged syntax",
+    "decoy": "Standard file formats for documents, data, and configuration",
     "members": [
       {
         "title": "CSV",
@@ -1390,7 +1390,7 @@
   {
     "id": "internet-non-english-viral-songs",
     "domain": "internet culture",
-    "tier": "subtle",
+    "tier": "moderate",
     "theme": "Viral videos whose soundtrack has lyrics sung mainly in a language other than English.",
     "decoy": "Viral music-driven videos by artists from outside the English-speaking world",
     "members": [
@@ -1469,10 +1469,6 @@
         "description": "Photo messaging app whose pictures vanish after viewing."
       },
       {
-        "title": "Google",
-        "description": "Link-ranking project that grew out of Stanford's computer science department."
-      },
-      {
         "title": "Netscape Navigator",
         "description": "1990s browser whose ship's-wheel logo ruled the early internet."
       },
@@ -1487,6 +1483,10 @@
       {
         "title": "Bing",
         "description": "Microsoft's search service, known for a daily photo on its homepage."
+      },
+      {
+        "title": "Twitter",
+        "description": "Microblogging service whose posts were capped at 140 characters at launch."
       }
     ],
     "intruders": [
@@ -1536,10 +1536,6 @@
       {
         "title": "FLAC",
         "description": "Open lossless audio codec popular with music collectors."
-      },
-      {
-        "title": "WAV",
-        "description": "Uncompressed audio container developed by Microsoft and IBM."
       },
       {
         "title": "RTF",
@@ -1616,16 +1612,16 @@
         "why": "Read as 'Last F-M': the .fm stands apart as a radio pun rather than finishing a word."
       },
       {
-        "title": "bbc.in",
-        "description": "Short-link address a British broadcaster uses for shared stories.",
-        "why": "'bbcin' is not a word; the .in is just India's code tacked on."
+        "title": "amzn.to",
+        "description": "Short-link address for sharing an online retailer's product pages.",
+        "why": "'amznto' is not a word; the .to (Tonga's code) is just a handy 'to' tacked on, not the end of the brand."
       }
     ]
   },
   {
     "id": "internet-symmetric-kaomoji",
     "domain": "internet culture",
-    "tier": "subtle",
+    "tier": "obvious",
     "theme": "Text faces that are mirror-symmetric: flipped left to right, the face looks the same.",
     "decoy": "Upright text faces in the Japanese kaomoji style",
     "members": [

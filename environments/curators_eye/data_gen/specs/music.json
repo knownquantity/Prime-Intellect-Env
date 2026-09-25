@@ -36,7 +36,7 @@
       },
       {
         "title": "Kemenche",
-        "description": "Small pear-shaped Black Sea instrument with three strings, held upright on the knee."
+        "description": "Small bottle-shaped Black Sea instrument with three strings, held upright on the knee."
       }
     ],
     "intruders": [
@@ -299,7 +299,7 @@
     "domain": "music",
     "tier": "obvious",
     "theme": "Genres that originated in the United States.",
-    "decoy": "Popular music genres rooted in Black musical traditions",
+    "decoy": "Popular and dance music genres that arose in the 20th century",
     "members": [
       {
         "title": "Jazz",
@@ -385,7 +385,7 @@
       },
       {
         "title": "Arcangelo Corelli",
-        "description": "Roman violinist whose concerti grossi set a model across Europe."
+        "description": "Rome-based violinist whose concerti grossi set a model across Europe."
       },
       {
         "title": "Jean-Philippe Rameau",
@@ -479,7 +479,7 @@
     "id": "music-japanese-instruments",
     "domain": "music",
     "tier": "obvious",
-    "theme": "Traditional instruments native to Japan.",
+    "theme": "Traditional Japanese instruments: the Japanese forms themselves (even where descended from continental models), not their Chinese or Korean counterparts.",
     "decoy": "Traditional East Asian instruments",
     "members": [
       {
@@ -779,7 +779,7 @@
       {
         "title": "Pipe organ",
         "description": "Keyboard instrument with ranks of pipes supplied from a wind chest.",
-        "why": "Most of its pipes are flue pipes, and its reed stops use beating reeds; the harmonium only imitates it."
+        "why": "Most of its pipes are flue pipes, and its reed stops normally use beating reeds; the harmonium only imitates it."
       }
     ]
   },
@@ -1094,7 +1094,7 @@
     "id": "music-sympathetic-strings",
     "domain": "music",
     "tier": "subtle",
-    "theme": "Fitted with sympathetic strings: extra strings that nobody plays but that ring in response to the played ones.",
+    "theme": "Fitted with sympathetic strings: extra strings, normally left unbowed and unstopped, that ring in response to the played ones.",
     "decoy": "Classical and folk string instruments of South Asia and Europe",
     "members": [
       {
@@ -1588,7 +1588,7 @@
     "members": [
       {
         "title": "ADAT",
-        "description": "Alesis eight-track recorder system of 1991 using S-VHS tapes."
+        "description": "Alesis eight-track digital tape format of 1991, recorded on S-VHS cassettes."
       },
       {
         "title": "ALAC",
@@ -1624,11 +1624,6 @@
       }
     ],
     "intruders": [
-      {
-        "title": "MiniDisc",
-        "description": "Sony's small rewritable disc in a protective caddy, launched in 1992.",
-        "why": "It stores audio with Sony's ATRAC codec, which is lossy, though it looks like a compact cousin of the CD."
-      },
       {
         "title": "Digital Compact Cassette",
         "description": "Philips's 1992 digital tape format whose decks also played ordinary cassettes.",
