@@ -1,0 +1,1644 @@
+[
+  {
+    "id": "music-bowed-strings",
+    "domain": "music",
+    "tier": "obvious",
+    "theme": "String instruments normally played by drawing a bow across them.",
+    "decoy": "Traditional and orchestral string instruments with a neck",
+    "members": [
+      {
+        "title": "Violin",
+        "description": "Four-string instrument tuned in fifths and held under the chin."
+      },
+      {
+        "title": "Cello",
+        "description": "Large four-string instrument held between the knees, resting on an endpin."
+      },
+      {
+        "title": "Erhu",
+        "description": "Chinese two-string instrument with a small snakeskin-covered sound box."
+      },
+      {
+        "title": "Rebec",
+        "description": "Medieval pear-shaped instrument with three strings, carved from one piece of wood."
+      },
+      {
+        "title": "Morin khuur",
+        "description": "Mongolian two-string instrument whose pegbox is carved as a horse's head."
+      },
+      {
+        "title": "Gusle",
+        "description": "Balkan single-string instrument that accompanies recited epic poetry."
+      },
+      {
+        "title": "Haegeum",
+        "description": "Korean two-string instrument with a small round sound box."
+      },
+      {
+        "title": "Kemenche",
+        "description": "Small pear-shaped Black Sea instrument with three strings, held upright on the knee."
+      }
+    ],
+    "intruders": [
+      {
+        "title": "Mandolin",
+        "description": "Eight-string instrument in paired courses, tuned G-D-A-E like a violin.",
+        "why": "Plucked with a plectrum, not bowed; its strings share the violin's tuning, which makes it look like a relative."
+      },
+      {
+        "title": "Hurdy-gurdy",
+        "description": "Medieval instrument with melody and drone strings, played on the lap.",
+        "why": "Its strings are sounded by a crank-turned rosined wheel, not a bow, though it has a fiddle-like body and sustained tone."
+      }
+    ]
+  },
+  {
+    "id": "music-tempo-markings",
+    "domain": "music",
+    "tier": "obvious",
+    "theme": "Italian tempo markings: terms that tell the performer how fast the music should go.",
+    "decoy": "Italian performance directions written in scores",
+    "members": [
+      {
+        "title": "Largo",
+        "description": "Italian for 'broad'; stately and very drawn out."
+      },
+      {
+        "title": "Adagio",
+        "description": "Italian for 'at ease'; the usual marking for slow movements."
+      },
+      {
+        "title": "Andante",
+        "description": "Italian for 'walking'; an easy, flowing pace."
+      },
+      {
+        "title": "Allegro",
+        "description": "Italian for 'cheerful'; brisk, the usual choice for opening movements."
+      },
+      {
+        "title": "Presto",
+        "description": "Italian for 'quickly'; very rapid, often used in finales."
+      },
+      {
+        "title": "Lento",
+        "description": "Italian for 'sluggish'; unhurried and slow."
+      },
+      {
+        "title": "Grave",
+        "description": "Italian for 'heavy'; solemn and extremely slow."
+      },
+      {
+        "title": "Moderato",
+        "description": "Italian for 'restrained'; neither hurried nor dragging."
+      },
+      {
+        "title": "Vivace",
+        "description": "Italian for 'lively'; quick and spirited."
+      }
+    ],
+    "intruders": [
+      {
+        "title": "Forte",
+        "description": "Italian for 'strong'; abbreviated as a single letter f.",
+        "why": "A dynamic marking for loudness, not a rate of pulse; it appears in the same Italian vocabulary on the same scores."
+      },
+      {
+        "title": "Legato",
+        "description": "Italian for 'tied'; notes joined smoothly without gaps.",
+        "why": "An articulation marking about how notes connect, not how fast they go; it sits alongside tempo words in scores."
+      }
+    ]
+  },
+  {
+    "id": "music-metal-tuned-percussion",
+    "domain": "music",
+    "tier": "obvious",
+    "theme": "Pitched percussion whose sounding parts are all metal.",
+    "decoy": "Pitched percussion instruments played by striking",
+    "members": [
+      {
+        "title": "Vibraphone",
+        "description": "Bar instrument with motor-driven discs in its resonators that add a pulsing tremolo."
+      },
+      {
+        "title": "Tubular bells",
+        "description": "Hanging row of long tubes struck at the top with rawhide hammers."
+      },
+      {
+        "title": "Crotales",
+        "description": "Small thick tuned discs, played with mallets or bowed."
+      },
+      {
+        "title": "Handbells",
+        "description": "Individually held tuned bells rung in teams, each player covering a few notes."
+      },
+      {
+        "title": "Saron",
+        "description": "Javanese gamelan instrument of thick bars resting over a trough."
+      },
+      {
+        "title": "Hang",
+        "description": "Swiss-made lens-shaped instrument with dimpled note fields, played with the hands."
+      },
+      {
+        "title": "Gender",
+        "description": "Balinese instrument of thin bars suspended over bamboo resonators."
+      },
+      {
+        "title": "Carillon",
+        "description": "Tower instrument of at least twenty-three bells played from a baton keyboard."
+      },
+      {
+        "title": "Almglocken",
+        "description": "Tuned cowbells without clappers, arranged chromatically and struck with sticks."
+      }
+    ],
+    "intruders": [
+      {
+        "title": "Xylophone",
+        "description": "Bar instrument with a bright, dry tone, played with hard mallets.",
+        "why": "Its bars are wood (rosewood or synthetic), not metal; it is laid out exactly like the vibraphone."
+      },
+      {
+        "title": "Marimba",
+        "description": "Deep-toned bar instrument with long resonator tubes beneath its keyboard.",
+        "why": "Its bars are rosewood; only the resonator tubes underneath are metal."
+      },
+      {
+        "title": "Balafon",
+        "description": "West African bar instrument with gourds hung beneath the keys.",
+        "why": "Its keys are wooden slats and its resonators are gourds."
+      }
+    ]
+  },
+  {
+    "id": "music-membranophones",
+    "domain": "music",
+    "tier": "obvious",
+    "theme": "Drums whose sound comes from a stretched membrane or head.",
+    "decoy": "Hand-played and stick-played drums from around the world",
+    "members": [
+      {
+        "title": "Snare drum",
+        "description": "Shallow cylinder with wires strung across the bottom for a crisp rattle."
+      },
+      {
+        "title": "Timpani",
+        "description": "Large copper kettles tuned with pedals, played with felt mallets."
+      },
+      {
+        "title": "Bongos",
+        "description": "Pair of small joined Cuban drums held between the knees."
+      },
+      {
+        "title": "Djembe",
+        "description": "West African goblet-shaped drum played with bare hands."
+      },
+      {
+        "title": "Tabla",
+        "description": "North Indian pair of hand drums with a black tuning paste spot."
+      },
+      {
+        "title": "Bodhran",
+        "description": "Irish frame drum played with a double-ended wooden beater."
+      },
+      {
+        "title": "Conga",
+        "description": "Tall narrow Afro-Cuban drum, often played in sets of two or three."
+      },
+      {
+        "title": "Talking drum",
+        "description": "West African hourglass drum squeezed under the arm to bend its pitch."
+      },
+      {
+        "title": "Darbuka",
+        "description": "Goblet drum of the Middle East, played with sharp finger strokes."
+      }
+    ],
+    "intruders": [
+      {
+        "title": "Cajon",
+        "description": "Peruvian box drum that the player sits on and slaps.",
+        "why": "It is a wooden box whose thin plywood front is struck; there is no stretched skin or head."
+      },
+      {
+        "title": "Steelpan",
+        "description": "Trinidadian drum hammered from an oil barrel into tuned note areas.",
+        "why": "Called a drum, but it sounds from vibrating hammered steel, not a membrane."
+      },
+      {
+        "title": "Slit drum",
+        "description": "Hollowed log drum with a long slot cut along its top.",
+        "why": "The wooden body itself vibrates; nothing is stretched over it."
+      }
+    ]
+  },
+  {
+    "id": "music-operas",
+    "domain": "music",
+    "tier": "obvious",
+    "theme": "Operas: dramas written to be staged in an opera house, with singers acting out roles in costume.",
+    "decoy": "Large-scale works for vocal soloists, chorus, and orchestra",
+    "members": [
+      {
+        "title": "La traviata",
+        "description": "Verdi's 1853 work about a Parisian courtesan who gives up her lover."
+      },
+      {
+        "title": "The Magic Flute",
+        "description": "Mozart's 1791 work with a bird-catcher, a prince, and the Queen of the Night."
+      },
+      {
+        "title": "Tosca",
+        "description": "Puccini's 1900 work set in Rome over a single day in 1800."
+      },
+      {
+        "title": "Aida",
+        "description": "Verdi's 1871 work about an Ethiopian princess enslaved in Egypt."
+      },
+      {
+        "title": "Rigoletto",
+        "description": "Verdi's 1851 work about a hunchbacked jester at the court of Mantua."
+      },
+      {
+        "title": "Madama Butterfly",
+        "description": "Puccini's 1904 work about a young geisha in Nagasaki."
+      },
+      {
+        "title": "Fidelio",
+        "description": "Beethoven's only work of its kind, about a wife rescuing her imprisoned husband."
+      },
+      {
+        "title": "Tristan und Isolde",
+        "description": "Wagner's 1865 work whose opening chord became famous in harmony textbooks."
+      },
+      {
+        "title": "Don Giovanni",
+        "description": "Mozart's 1787 work about a seducer dragged down by a statue."
+      },
+      {
+        "title": "Eugene Onegin",
+        "description": "Tchaikovsky's 1879 work after Pushkin's novel in verse."
+      }
+    ],
+    "intruders": [
+      {
+        "title": "Messiah",
+        "description": "Handel's 1742 work in three parts, famous for its Hallelujah chorus.",
+        "why": "An oratorio, sung in concert without staging, costumes, or characters acting out a plot."
+      },
+      {
+        "title": "The Creation",
+        "description": "Haydn's 1798 work in three parts, with the archangels as narrators.",
+        "why": "An oratorio written for concert performance, not a staged drama."
+      }
+    ]
+  },
+  {
+    "id": "music-us-born-genres",
+    "domain": "music",
+    "tier": "obvious",
+    "theme": "Genres that originated in the United States.",
+    "decoy": "Popular music genres rooted in Black musical traditions",
+    "members": [
+      {
+        "title": "Jazz",
+        "description": "Improvisation-heavy style that grew in New Orleans around 1900."
+      },
+      {
+        "title": "Blues",
+        "description": "Twelve-bar form with bent notes, from the Mississippi Delta and beyond."
+      },
+      {
+        "title": "Bluegrass",
+        "description": "Fast acoustic string-band music with banjo rolls and high harmony."
+      },
+      {
+        "title": "Hip hop",
+        "description": "Rapping over breakbeats, first heard at Bronx block parties."
+      },
+      {
+        "title": "Ragtime",
+        "description": "Syncopated piano style made famous by Scott Joplin."
+      },
+      {
+        "title": "Zydeco",
+        "description": "Accordion and washboard dance music of Louisiana Creoles."
+      },
+      {
+        "title": "Techno",
+        "description": "Machine-driven dance music first made by the Belleville Three."
+      },
+      {
+        "title": "Doo-wop",
+        "description": "Street-corner vocal harmony style with nonsense-syllable backing."
+      },
+      {
+        "title": "House music",
+        "description": "Four-on-the-floor dance music from 1980s Chicago clubs."
+      }
+    ],
+    "intruders": [
+      {
+        "title": "Trip hop",
+        "description": "Slow, moody breakbeat style associated with Massive Attack and Portishead.",
+        "why": "It emerged in Bristol, England, though its name and beats borrow from hip hop."
+      },
+      {
+        "title": "Grime",
+        "description": "Rapid-fire MCing over sparse 140 bpm electronic beats.",
+        "why": "It originated in East London in the early 2000s; it resembles rap but grew from UK garage."
+      },
+      {
+        "title": "Drum and bass",
+        "description": "Fast breakbeats with heavy sub-bass lines, grown from jungle.",
+        "why": "It developed in the UK rave scene of the 1990s."
+      }
+    ]
+  },
+  {
+    "id": "music-baroque-composers",
+    "domain": "music",
+    "tier": "obvious",
+    "theme": "Active mainly in the Baroque era (roughly 1600 to 1750).",
+    "decoy": "Major composers of the 17th and 18th centuries",
+    "members": [
+      {
+        "title": "Johann Sebastian Bach",
+        "description": "Leipzig church musician behind the Brandenburg Concertos and the Mass in B minor."
+      },
+      {
+        "title": "George Frideric Handel",
+        "description": "German-born composer who settled in London and wrote the Water Music."
+      },
+      {
+        "title": "Antonio Vivaldi",
+        "description": "Venetian priest who taught at an orphanage and wrote The Four Seasons."
+      },
+      {
+        "title": "Georg Philipp Telemann",
+        "description": "Hamburg music director with thousands of works to his name."
+      },
+      {
+        "title": "Henry Purcell",
+        "description": "English composer of Dido and Aeneas and royal ceremonial odes."
+      },
+      {
+        "title": "Arcangelo Corelli",
+        "description": "Roman violinist whose concerti grossi set a model across Europe."
+      },
+      {
+        "title": "Jean-Philippe Rameau",
+        "description": "French composer and theorist who wrote a treatise on harmony."
+      },
+      {
+        "title": "Johann Pachelbel",
+        "description": "Nuremberg organist best known for a canon over a repeating bass."
+      },
+      {
+        "title": "Francois Couperin",
+        "description": "French keyboard composer who wrote a treatise on harpsichord playing."
+      }
+    ],
+    "intruders": [
+      {
+        "title": "Joseph Haydn",
+        "description": "Austrian who spent decades as music director for the Esterhazy princes.",
+        "why": "A Classical-era composer, active mainly after 1750 and central to the symphony and string quartet."
+      },
+      {
+        "title": "Christoph Willibald Gluck",
+        "description": "German-born opera composer who worked in Vienna and Paris.",
+        "why": "His reform operas from the 1760s onward belong to the early Classical period."
+      },
+      {
+        "title": "Luigi Boccherini",
+        "description": "Italian cellist-composer who spent most of his career in Madrid.",
+        "why": "Born in 1743, he is a Classical-era composer of quintets and symphonies."
+      }
+    ]
+  },
+  {
+    "id": "music-beatles-albums",
+    "domain": "music",
+    "tier": "obvious",
+    "theme": "LPs by The Beatles.",
+    "decoy": "Landmark British and American pop-rock LPs of the 1960s",
+    "members": [
+      {
+        "title": "Rubber Soul",
+        "description": "1965 LP whose cover photo shows the band's faces stretched and distorted."
+      },
+      {
+        "title": "Revolver",
+        "description": "1966 LP with a line-drawing and photo-collage cover by Klaus Voormann."
+      },
+      {
+        "title": "Abbey Road",
+        "description": "1969 LP whose cover shows four men walking over a zebra crossing."
+      },
+      {
+        "title": "Let It Be",
+        "description": "1970 LP from filmed sessions, with final production by Phil Spector."
+      },
+      {
+        "title": "Help!",
+        "description": "1965 LP serving as soundtrack to a comedy adventure film."
+      },
+      {
+        "title": "Please Please Me",
+        "description": "1963 LP, most of it recorded in a single day at EMI's studios."
+      },
+      {
+        "title": "Yellow Submarine",
+        "description": "1969 LP with one side given over to George Martin's orchestral film score."
+      },
+      {
+        "title": "A Hard Day's Night",
+        "description": "1964 soundtrack LP full of ringing twelve-string Rickenbacker guitar."
+      },
+      {
+        "title": "Magical Mystery Tour",
+        "description": "1967 US LP pairing a TV-film soundtrack with recent stand-alone singles."
+      }
+    ],
+    "intruders": [
+      {
+        "title": "Pet Sounds",
+        "description": "1966 LP with bicycle bells and barking dogs, its cover photo taken at a zoo.",
+        "why": "A Beach Boys album, masterminded by Brian Wilson; it is often paired with Rubber Soul and Revolver as their rival."
+      },
+      {
+        "title": "Aftermath",
+        "description": "1966 LP with marimba and Appalachian dulcimer, written entirely by the group.",
+        "why": "A Rolling Stones album, released the same year as Revolver and Pet Sounds."
+      }
+    ]
+  },
+  {
+    "id": "music-japanese-instruments",
+    "domain": "music",
+    "tier": "obvious",
+    "theme": "Traditional instruments native to Japan.",
+    "decoy": "Traditional East Asian instruments",
+    "members": [
+      {
+        "title": "Koto",
+        "description": "Long zither with thirteen strings on movable bridges, plucked with finger picks."
+      },
+      {
+        "title": "Shakuhachi",
+        "description": "End-blown bamboo flute with five finger holes, linked to Zen monks."
+      },
+      {
+        "title": "Taiko",
+        "description": "Large barrel drums played with heavy sticks in energetic ensembles."
+      },
+      {
+        "title": "Biwa",
+        "description": "Short-necked lute played with a large wedge-shaped plectrum to accompany narrative song."
+      },
+      {
+        "title": "Sho",
+        "description": "Mouth organ of seventeen bamboo pipes used in gagaku court music."
+      },
+      {
+        "title": "Hichiriki",
+        "description": "Short double-reed bamboo pipe with a piercing tone, used in gagaku."
+      },
+      {
+        "title": "Kokyu",
+        "description": "Small bowed lute with three or four strings and a square body."
+      },
+      {
+        "title": "Shinobue",
+        "description": "High-pitched transverse bamboo flute heard at festivals and in theatre."
+      },
+      {
+        "title": "Tsuzumi",
+        "description": "Hourglass-shaped hand drum whose lacing the player squeezes to change its tone."
+      }
+    ],
+    "intruders": [
+      {
+        "title": "Guzheng",
+        "description": "Long zither with about twenty-one strings on movable bridges, plucked with finger picks.",
+        "why": "A Chinese zither; the koto descends from this family, so the two look nearly identical."
+      },
+      {
+        "title": "Gayageum",
+        "description": "Twelve-string zither with movable bridges, traditionally strung with silk.",
+        "why": "A Korean zither, closely resembling the koto."
+      }
+    ]
+  },
+  {
+    "id": "music-triple-meter-dances",
+    "domain": "music",
+    "tier": "moderate",
+    "theme": "Dances in triple meter: three beats to the bar.",
+    "decoy": "Historical and folk dances that became art-music forms",
+    "members": [
+      {
+        "title": "Waltz",
+        "description": "Turning couple dance that swept the ballrooms of 19th-century Vienna."
+      },
+      {
+        "title": "Mazurka",
+        "description": "Polish folk dance with shifting accents, stylized by Chopin in dozens of pieces."
+      },
+      {
+        "title": "Polonaise",
+        "description": "Stately Polish processional dance that opened court balls."
+      },
+      {
+        "title": "Sarabande",
+        "description": "Slow, dignified dance movement at the heart of the Baroque suite."
+      },
+      {
+        "title": "Landler",
+        "description": "Austrian country couple dance with hopping and stamping steps."
+      },
+      {
+        "title": "Galliard",
+        "description": "Energetic Renaissance dance full of leaps, usually played after a slower partner."
+      },
+      {
+        "title": "Courante",
+        "description": "Running dance that usually comes second in a Baroque suite."
+      },
+      {
+        "title": "Chaconne",
+        "description": "Set of variations over a repeating bass, like Bach's for solo violin."
+      },
+      {
+        "title": "Jota",
+        "description": "Lively folk dance of Aragon with quick leaping steps."
+      },
+      {
+        "title": "Minuet",
+        "description": "Elegant French court dance, a standard inner movement of Classical symphonies."
+      }
+    ],
+    "intruders": [
+      {
+        "title": "Gavotte",
+        "description": "French court dance beginning halfway through the bar, found in Baroque suites.",
+        "why": "It is in duple time (4/4 or 2/2), despite sitting beside minuets and sarabandes in Baroque suites."
+      },
+      {
+        "title": "Allemande",
+        "description": "Moderate German-derived dance that opens many Baroque suites.",
+        "why": "It is in 4/4 time, though it is the standard partner of the courante."
+      },
+      {
+        "title": "Pavane",
+        "description": "Slow processional Renaissance dance, usually followed by a livelier partner.",
+        "why": "It is in duple time; its customary partner, the galliard, is the one in triple time."
+      }
+    ]
+  },
+  {
+    "id": "music-tchaikovsky-works",
+    "domain": "music",
+    "tier": "moderate",
+    "theme": "Compositions by Pyotr Ilyich Tchaikovsky.",
+    "decoy": "Famous 19th- and early 20th-century Russian orchestral and stage works",
+    "members": [
+      {
+        "title": "Swan Lake",
+        "description": "1877 ballet about a princess turned into a bird by a sorcerer."
+      },
+      {
+        "title": "The Nutcracker",
+        "description": "1892 Christmas ballet featuring the Sugar Plum Fairy and a celesta solo."
+      },
+      {
+        "title": "The Sleeping Beauty",
+        "description": "1890 ballet after Perrault's fairy tale, premiered at the Mariinsky Theatre."
+      },
+      {
+        "title": "1812 Overture",
+        "description": "Concert overture scored for cannon fire and pealing church bells."
+      },
+      {
+        "title": "Marche Slave",
+        "description": "1876 orchestral march on Serbian folk tunes, written for a war-relief concert."
+      },
+      {
+        "title": "Capriccio Italien",
+        "description": "1880 orchestral fantasy on tunes heard during a carnival season in Rome."
+      },
+      {
+        "title": "The Queen of Spades",
+        "description": "1890 opera after Pushkin about a gambler obsessed with a secret of three cards."
+      },
+      {
+        "title": "Manfred Symphony",
+        "description": "1885 program symphony after Byron's dramatic poem."
+      },
+      {
+        "title": "Pathetique Symphony",
+        "description": "Final symphony, premiered in St Petersburg in 1893 and ending with a slow movement."
+      },
+      {
+        "title": "Iolanta",
+        "description": "1892 one-act opera about a blind princess in Provence."
+      }
+    ],
+    "intruders": [
+      {
+        "title": "Scheherazade",
+        "description": "1888 orchestral suite on tales from the Arabian Nights, with a solo violin narrator.",
+        "why": "By Nikolai Rimsky-Korsakov, a contemporary Russian composer of the same era."
+      },
+      {
+        "title": "Pictures at an Exhibition",
+        "description": "1874 suite of musical portraits of artworks, famous in Ravel's orchestration.",
+        "why": "By Modest Mussorgsky; the popular orchestral version is Ravel's."
+      },
+      {
+        "title": "The Firebird",
+        "description": "1910 ballet for the Ballets Russes after a Russian folk tale.",
+        "why": "By Igor Stravinsky; a Russian fairy-tale ballet like those in the set."
+      }
+    ]
+  },
+  {
+    "id": "music-lloyd-webber-musicals",
+    "domain": "music",
+    "tier": "moderate",
+    "theme": "Stage musicals with music composed by Andrew Lloyd Webber.",
+    "decoy": "Blockbuster West End musicals of the 1970s to 1990s",
+    "members": [
+      {
+        "title": "Cats",
+        "description": "1981 show adapted from T. S. Eliot's book of poems about felines."
+      },
+      {
+        "title": "Evita",
+        "description": "1978 show about Eva Peron, with lyrics by Tim Rice."
+      },
+      {
+        "title": "Jesus Christ Superstar",
+        "description": "Rock opera first released in 1970 as a double album, with lyrics by Tim Rice."
+      },
+      {
+        "title": "Joseph and the Amazing Technicolor Dreamcoat",
+        "description": "Biblical show that began in 1968 as a short piece for a school concert."
+      },
+      {
+        "title": "Sunset Boulevard",
+        "description": "1993 show adapted from Billy Wilder's film about a faded silent-screen star."
+      },
+      {
+        "title": "Starlight Express",
+        "description": "1984 show about a train race, with the whole cast on roller skates."
+      },
+      {
+        "title": "Aspects of Love",
+        "description": "1989 romantic show adapted from a David Garnett novella."
+      },
+      {
+        "title": "Whistle Down the Wind",
+        "description": "1996 show adapted from the story of children who hide a fugitive in a barn."
+      },
+      {
+        "title": "The Phantom of the Opera",
+        "description": "1986 show after Gaston Leroux's novel, set beneath the Paris Opera house."
+      }
+    ],
+    "intruders": [
+      {
+        "title": "Les Miserables",
+        "description": "Show adapted from Victor Hugo's novel, opening in London in 1985.",
+        "why": "Music by Claude-Michel Schonberg; it shares producer Cameron Mackintosh with several of the set."
+      },
+      {
+        "title": "Miss Saigon",
+        "description": "1989 show relocating Madama Butterfly's story to the Vietnam War.",
+        "why": "Music by Claude-Michel Schonberg, produced by Cameron Mackintosh at Drury Lane."
+      },
+      {
+        "title": "Blood Brothers",
+        "description": "1983 Liverpool-set show about twins separated at birth.",
+        "why": "Book, music and lyrics are by Willy Russell; it ran in the West End alongside Lloyd Webber's hits for decades."
+      }
+    ]
+  },
+  {
+    "id": "music-free-reeds",
+    "domain": "music",
+    "tier": "moderate",
+    "theme": "Free-reed instruments: each note comes from a reed that swings freely back and forth in a close-fitting slot.",
+    "decoy": "Reed-driven wind instruments outside the orchestra",
+    "members": [
+      {
+        "title": "Harmonica",
+        "description": "Pocket-sized mouth instrument with a row of holes, played by blowing and drawing."
+      },
+      {
+        "title": "Accordion",
+        "description": "Bellows-driven instrument with a piano-style or button keyboard for the right hand."
+      },
+      {
+        "title": "Concertina",
+        "description": "Small hexagonal bellows instrument with buttons at each end."
+      },
+      {
+        "title": "Melodica",
+        "description": "Keyboard instrument blown through a mouthpiece or flexible tube."
+      },
+      {
+        "title": "Sheng",
+        "description": "Chinese mouth organ of bamboo pipes set in a round wind chest."
+      },
+      {
+        "title": "Harmonium",
+        "description": "Pump organ supplied by foot pedals or a hand-worked bellows."
+      },
+      {
+        "title": "Bandoneon",
+        "description": "Square button-box bellows instrument at the heart of Argentine tango."
+      },
+      {
+        "title": "Khaen",
+        "description": "Lao mouth organ of long bamboo pipes bound in two rows."
+      },
+      {
+        "title": "Hulusi",
+        "description": "Chinese gourd wind instrument with a melody pipe and drone pipes."
+      }
+    ],
+    "intruders": [
+      {
+        "title": "Bagpipes",
+        "description": "Bag-fed instrument with a fingered melody pipe and drone pipes.",
+        "why": "Its chanter and drones use beating cane reeds that close against the pipe, not free reeds, though it is wind-fed like an accordion."
+      },
+      {
+        "title": "Pipe organ",
+        "description": "Keyboard instrument with ranks of pipes supplied from a wind chest.",
+        "why": "Most of its pipes are flue pipes, and its reed stops use beating reeds; the harmonium only imitates it."
+      }
+    ]
+  },
+  {
+    "id": "music-fretted-strings",
+    "domain": "music",
+    "tier": "moderate",
+    "theme": "Instruments fitted with frets.",
+    "decoy": "Lutes and other necked string instruments from around the world",
+    "members": [
+      {
+        "title": "Lute",
+        "description": "Pear-shaped Renaissance instrument with a pegbox bent back at a sharp angle."
+      },
+      {
+        "title": "Banjo",
+        "description": "Round drum-like body with a skin head, often with a short fifth string."
+      },
+      {
+        "title": "Viola da gamba",
+        "description": "Six-string bowed instrument held between the legs, popular before the cello."
+      },
+      {
+        "title": "Balalaika",
+        "description": "Russian instrument with a triangular body and three strings."
+      },
+      {
+        "title": "Bouzouki",
+        "description": "Greek long-necked instrument with a rounded back and paired strings."
+      },
+      {
+        "title": "Appalachian dulcimer",
+        "description": "Elongated box laid across the lap and strummed over a raised fingerboard."
+      },
+      {
+        "title": "Charango",
+        "description": "Small Andean ten-string instrument, traditionally with an armadillo-shell back."
+      },
+      {
+        "title": "Pipa",
+        "description": "Chinese pear-shaped instrument held upright and played with fingerpicks."
+      },
+      {
+        "title": "Ukulele",
+        "description": "Hawaiian four-string instrument developed from Portuguese imports."
+      },
+      {
+        "title": "Cittern",
+        "description": "Renaissance wire-strung instrument with a flat back and a small body."
+      }
+    ],
+    "intruders": [
+      {
+        "title": "Oud",
+        "description": "Short-necked pear-shaped instrument of the Arab world, played with a long plectrum.",
+        "why": "Its fingerboard is fretless; it is the direct ancestor of the European lute, which did have frets."
+      },
+      {
+        "title": "Shamisen",
+        "description": "Japanese three-string instrument with a square skin-covered body, played with a large plectrum.",
+        "why": "Its long neck is fretless, though its skin-headed body makes it resemble a banjo."
+      }
+    ]
+  },
+  {
+    "id": "music-twentieth-century-inventions",
+    "domain": "music",
+    "tier": "moderate",
+    "theme": "Musical devices first built in the 20th century (1901 or later).",
+    "decoy": "Instruments that rely on novel mechanisms or electricity",
+    "members": [
+      {
+        "title": "Theremin",
+        "description": "Played without touch by moving the hands near two antennas."
+      },
+      {
+        "title": "Ondes Martenot",
+        "description": "French keyboard instrument also played by sliding a ring along a wire."
+      },
+      {
+        "title": "Hammond organ",
+        "description": "Organ with spinning tonewheels and drawbars, often paired with a rotating speaker."
+      },
+      {
+        "title": "Mellotron",
+        "description": "Keyboard that plays back a strip of recorded tape for each key."
+      },
+      {
+        "title": "Chapman Stick",
+        "description": "Long fretboard with ten or twelve strings, tapped with both hands."
+      },
+      {
+        "title": "Trautonium",
+        "description": "German instrument played by pressing a wire down onto a metal rail."
+      },
+      {
+        "title": "Minimoog",
+        "description": "Compact portable synthesizer with an integrated keyboard and pitch wheel."
+      },
+      {
+        "title": "Electric guitar",
+        "description": "Guitar whose magnetic pickups feed a signal to an amplifier."
+      },
+      {
+        "title": "Roland TR-808",
+        "description": "Programmable drum machine famous for its booming bass drum sound."
+      }
+    ],
+    "intruders": [
+      {
+        "title": "Sousaphone",
+        "description": "Wrap-around bass horn with a forward-facing bell, built for marching bands.",
+        "why": "Developed in the 1890s at John Philip Sousa's request; it is strongly associated with 20th-century jazz and marching bands."
+      },
+      {
+        "title": "Player piano",
+        "description": "Piano that plays itself by reading a perforated paper roll.",
+        "why": "Roll-operated self-playing pianos such as the Pianola were already built in the 1890s; their heyday came in the early 20th century."
+      }
+    ]
+  },
+  {
+    "id": "music-debut-albums",
+    "domain": "music",
+    "tier": "moderate",
+    "theme": "Each act's first studio album.",
+    "decoy": "Landmark rock and rap albums acclaimed as classics",
+    "members": [
+      {
+        "title": "Are You Experienced",
+        "description": "1967 album by a power trio led by a Seattle-born guitarist."
+      },
+      {
+        "title": "The Velvet Underground & Nico",
+        "description": "1967 album with an Andy Warhol banana on the cover."
+      },
+      {
+        "title": "Horses",
+        "description": "1975 album produced by John Cale, with a Robert Mapplethorpe cover photo."
+      },
+      {
+        "title": "Illmatic",
+        "description": "1994 Queensbridge rap album with beats from DJ Premier and Pete Rock."
+      },
+      {
+        "title": "Boy",
+        "description": "1980 album by a Dublin quartet, produced by Steve Lillywhite."
+      },
+      {
+        "title": "Definitely Maybe",
+        "description": "1994 album by a Manchester band, released on Creation Records."
+      },
+      {
+        "title": "Is This It",
+        "description": "2001 New York garage-rock album produced by Gordon Raphael."
+      },
+      {
+        "title": "The Stone Roses",
+        "description": "1989 Manchester album with a lemon-strewn, Pollock-style painted cover."
+      },
+      {
+        "title": "Ten",
+        "description": "1991 Seattle album named after a basketball player's jersey number."
+      },
+      {
+        "title": "Appetite for Destruction",
+        "description": "1987 Los Angeles hard-rock album released on Geffen Records."
+      }
+    ],
+    "intruders": [
+      {
+        "title": "Nevermind",
+        "description": "1991 Seattle-scene album produced by Butch Vig for DGC Records.",
+        "why": "Nirvana's second album; their first was Bleach (1989). Its breakthrough success makes it feel like an arrival."
+      },
+      {
+        "title": "London Calling",
+        "description": "1979 London double album whose cover shows a bass guitar being smashed onstage.",
+        "why": "The Clash's third album, after The Clash (1977) and Give 'Em Enough Rope (1978)."
+      }
+    ]
+  },
+  {
+    "id": "music-minor-key-classics",
+    "domain": "music",
+    "tier": "moderate",
+    "theme": "Classical works whose home key is a minor key.",
+    "decoy": "Cornerstones of the symphony and concerto repertoire",
+    "members": [
+      {
+        "title": "Beethoven's Fifth Symphony",
+        "description": "1808 symphony built from a terse four-note opening motif."
+      },
+      {
+        "title": "Mozart's Symphony No. 40",
+        "description": "1788 symphony, one of three he wrote in a single summer."
+      },
+      {
+        "title": "New World Symphony",
+        "description": "Dvorak's 1893 symphony, written during his stay in America."
+      },
+      {
+        "title": "Rachmaninoff's Piano Concerto No. 2",
+        "description": "1901 concerto opening with tolling piano chords, dedicated to his doctor."
+      },
+      {
+        "title": "Grieg's Piano Concerto",
+        "description": "1868 concerto opening with a timpani roll and a cascading piano flourish."
+      },
+      {
+        "title": "Mendelssohn's Violin Concerto",
+        "description": "Concerto premiered in Leipzig in 1845, the soloist entering almost at once."
+      },
+      {
+        "title": "Dvorak's Cello Concerto",
+        "description": "1895 concerto begun in New York, a pillar of the cello repertoire."
+      },
+      {
+        "title": "Sibelius's Violin Concerto",
+        "description": "His only concerto, first heard in 1904 and revised a year later."
+      },
+      {
+        "title": "Brahms's First Symphony",
+        "description": "1876 symphony whose finale theme recalls Beethoven's Ninth."
+      }
+    ],
+    "intruders": [
+      {
+        "title": "Tchaikovsky's Violin Concerto",
+        "description": "1878 concerto written at Lake Geneva, once dismissed as unplayable.",
+        "why": "It is in D major, though it sits in the same Romantic concerto canon as Mendelssohn's and Sibelius's."
+      },
+      {
+        "title": "Beethoven's Violin Concerto",
+        "description": "1806 concerto that begins with four soft timpani strokes.",
+        "why": "It is in D major, unlike his Fifth Symphony."
+      },
+      {
+        "title": "Brahms's Violin Concerto",
+        "description": "1878 concerto written for his friend, the violinist Joseph Joachim.",
+        "why": "It is in D major, unlike his First Symphony."
+      }
+    ]
+  },
+  {
+    "id": "music-motown-acts",
+    "domain": "music",
+    "tier": "moderate",
+    "theme": "Acts that recorded for Motown Records or its in-house labels (Tamla, Gordy, Soul) in the 1960s.",
+    "decoy": "Classic 1960s American soul and R&B acts",
+    "members": [
+      {
+        "title": "The Supremes",
+        "description": "Detroit trio fronted by Diana Ross, famous for sequined gowns."
+      },
+      {
+        "title": "The Temptations",
+        "description": "Detroit vocal group known for sharp choreography and five-part harmony."
+      },
+      {
+        "title": "Marvin Gaye",
+        "description": "Washington-born singer behind the 1971 concept album What's Going On."
+      },
+      {
+        "title": "Stevie Wonder",
+        "description": "Blind multi-instrumentalist who signed as an eleven-year-old prodigy."
+      },
+      {
+        "title": "Four Tops",
+        "description": "Detroit quartet with Levi Stubbs's urgent baritone lead."
+      },
+      {
+        "title": "Smokey Robinson & the Miracles",
+        "description": "Vocal group led by a high-voiced singer and prolific songwriter."
+      },
+      {
+        "title": "Martha and the Vandellas",
+        "description": "Detroit girl group fronted by Martha Reeves."
+      },
+      {
+        "title": "The Jackson 5",
+        "description": "Brothers from Gary, Indiana, fronted by the youngest of them."
+      },
+      {
+        "title": "The Marvelettes",
+        "description": "Girl group from Inkster, Michigan, whose 1961 hit was about a mail carrier."
+      },
+      {
+        "title": "Gladys Knight & the Pips",
+        "description": "Atlanta family vocal group with the lead singer's brother among the backing."
+      }
+    ],
+    "intruders": [
+      {
+        "title": "Aretha Franklin",
+        "description": "Detroit-raised singer, daughter of a famous Baptist preacher.",
+        "why": "She recorded for Columbia and then Atlantic in the 1960s, never Motown, despite growing up in Detroit."
+      },
+      {
+        "title": "Otis Redding",
+        "description": "Georgia soul singer with a raw, pleading delivery.",
+        "why": "He recorded for Stax's Volt label in Memphis, Motown's main soul rival."
+      },
+      {
+        "title": "The Ronettes",
+        "description": "New York girl group with towering hairdos and Wall of Sound productions.",
+        "why": "They recorded for Phil Spector's Philles Records, not Motown, despite the girl-group sound."
+      }
+    ]
+  },
+  {
+    "id": "music-sympathetic-strings",
+    "domain": "music",
+    "tier": "subtle",
+    "theme": "Fitted with sympathetic strings: extra strings that nobody plays but that ring in response to the played ones.",
+    "decoy": "Classical and folk string instruments of South Asia and Europe",
+    "members": [
+      {
+        "title": "Sitar",
+        "description": "Long-necked Indian instrument with a gourd body and curved metal frets."
+      },
+      {
+        "title": "Sarod",
+        "description": "Fretless Indian instrument with a metal fingerboard and a skin-covered belly."
+      },
+      {
+        "title": "Sarangi",
+        "description": "Short bowed Indian instrument stopped with the cuticles of the fingers."
+      },
+      {
+        "title": "Hardanger fiddle",
+        "description": "Norwegian folk fiddle decorated with mother-of-pearl inlay and ink drawings."
+      },
+      {
+        "title": "Viola d'amore",
+        "description": "Baroque bowed instrument often topped with a carved head instead of a scroll."
+      },
+      {
+        "title": "Nyckelharpa",
+        "description": "Swedish keyed fiddle whose wooden tangents stop the melody notes."
+      },
+      {
+        "title": "Baryton",
+        "description": "Bowed viol-family instrument for which Haydn wrote over a hundred trios."
+      },
+      {
+        "title": "Esraj",
+        "description": "Bowed Indian instrument with a fretted neck, common in Bengal."
+      },
+      {
+        "title": "Dilruba",
+        "description": "North Indian bowed instrument associated with Sikh devotional music."
+      },
+      {
+        "title": "Rubab",
+        "description": "Afghan short-necked lute carved from a single piece of mulberry wood."
+      }
+    ],
+    "intruders": [
+      {
+        "title": "Tanpura",
+        "description": "Long-necked Indian lute that sustains a drone behind singers and soloists.",
+        "why": "All of its four to six strings are plucked in turn; it has no sympathetic strings, though its buzzing bridge makes it shimmer like a sitar."
+      },
+      {
+        "title": "Saraswati veena",
+        "description": "South Indian lute with a large wooden body and a gourd under the neck.",
+        "why": "Its seven strings are four melody strings and three side drone strings, all plucked; it has no sympathetic strings."
+      }
+    ]
+  },
+  {
+    "id": "music-transposing-instruments",
+    "domain": "music",
+    "tier": "subtle",
+    "theme": "Transposing instruments: their standard parts are written at a different pitch from the one that sounds, including by whole octaves.",
+    "decoy": "Orchestral, band, and jazz instruments with unusual notation conventions",
+    "members": [
+      {
+        "title": "Alto saxophone",
+        "description": "Mid-sized curved single-reed instrument common in jazz and concert bands."
+      },
+      {
+        "title": "Tenor saxophone",
+        "description": "Larger single-reed instrument with a crook bent like a pipe stem, central to jazz."
+      },
+      {
+        "title": "Flugelhorn",
+        "description": "Valved brass instrument with a wide conical bore and a mellow tone."
+      },
+      {
+        "title": "Contrabassoon",
+        "description": "Double-reed instrument of very deep range, its long tube folded several times."
+      },
+      {
+        "title": "Bass clarinet",
+        "description": "Deep single-reed instrument with a curved metal neck and upturned bell."
+      },
+      {
+        "title": "Alto flute",
+        "description": "Larger, lower flute with a curved or straight headjoint."
+      },
+      {
+        "title": "Guitar",
+        "description": "Six-string fretted instrument usually tuned E-A-D-G-B-E."
+      },
+      {
+        "title": "Double bass",
+        "description": "Largest bowed string instrument of the orchestra, played standing or perched on a stool."
+      },
+      {
+        "title": "Glockenspiel",
+        "description": "Set of small steel bars in a keyboard layout, played with hard mallets."
+      },
+      {
+        "title": "Oboe d'amore",
+        "description": "Baroque double-reed instrument with a pear-shaped bell, favored by Bach."
+      }
+    ],
+    "intruders": [
+      {
+        "title": "Viola",
+        "description": "Four-string bowed instrument slightly larger than the violin, reading alto clef.",
+        "why": "Its parts are written at sounding pitch; the unusual alto clef changes how notes are notated, not what pitch sounds."
+      },
+      {
+        "title": "Alto trombone",
+        "description": "Small slide brass instrument that usually reads alto clef.",
+        "why": "It is written at concert pitch, unlike the alto saxophone and alto flute."
+      },
+      {
+        "title": "Bass trombone",
+        "description": "Slide brass instrument with extra valves for its lowest notes.",
+        "why": "It is written at concert pitch in bass clef, even in British brass bands where the other brass parts are transposed."
+      }
+    ]
+  },
+  {
+    "id": "music-nicknames-not-by-composer",
+    "domain": "music",
+    "tier": "subtle",
+    "theme": "Classical works whose famous nickname was coined by someone other than the composer.",
+    "decoy": "Famous classical works best known by a descriptive nickname",
+    "members": [
+      {
+        "title": "Moonlight Sonata",
+        "description": "Beethoven piano sonata of 1801 opening with a slow, rippling triplet movement."
+      },
+      {
+        "title": "Emperor Concerto",
+        "description": "Beethoven's fifth and last piano concerto, completed in 1809."
+      },
+      {
+        "title": "Jupiter Symphony",
+        "description": "Mozart's last symphony, closing with a finale that combines five themes."
+      },
+      {
+        "title": "Minute Waltz",
+        "description": "Chopin's brisk waltz in D-flat major, Op. 64 No. 1."
+      },
+      {
+        "title": "Raindrop Prelude",
+        "description": "Chopin prelude with a note repeated almost throughout, finished in Majorca."
+      },
+      {
+        "title": "Revolutionary Etude",
+        "description": "Chopin study of 1831 with torrential left-hand runs."
+      },
+      {
+        "title": "Unfinished Symphony",
+        "description": "Schubert's two-movement symphony in B minor from 1822."
+      },
+      {
+        "title": "Farewell Symphony",
+        "description": "Haydn symphony whose finale has the players leave one by one."
+      },
+      {
+        "title": "Clock Symphony",
+        "description": "Haydn symphony whose slow movement has a steady ticking accompaniment."
+      }
+    ],
+    "intruders": [
+      {
+        "title": "Eroica Symphony",
+        "description": "Beethoven's third symphony, first planned as a tribute to Napoleon.",
+        "why": "Beethoven himself titled it 'Sinfonia eroica' on the 1806 first edition."
+      },
+      {
+        "title": "Pastoral Symphony",
+        "description": "Beethoven's sixth symphony, with birdcalls and a thunderstorm.",
+        "why": "Beethoven named it 'Pastoral-Sinfonie' himself and gave its movements descriptive headings."
+      },
+      {
+        "title": "Symphonie fantastique",
+        "description": "Berlioz's 1830 program symphony built around a recurring melody.",
+        "why": "Berlioz chose the title and wrote the program himself."
+      }
+    ]
+  },
+  {
+    "id": "music-diminutive-names",
+    "domain": "music",
+    "tier": "subtle",
+    "theme": "Musical terms whose names are diminutives in their source language, literally meaning 'little X'.",
+    "decoy": "Music words borrowed from Italian, French, and Spanish",
+    "members": [
+      {
+        "title": "Cornet",
+        "description": "Valved brass instrument, shorter and more compact than a trumpet."
+      },
+      {
+        "title": "Ocarina",
+        "description": "Egg-shaped vessel flute with finger holes, often made of ceramic."
+      },
+      {
+        "title": "Flageolet",
+        "description": "Duct flute with thumb holes, popular in 17th-century France and England."
+      },
+      {
+        "title": "Castanets",
+        "description": "Pair of shell-shaped wooden clappers held in the hand, heard in flamenco."
+      },
+      {
+        "title": "Tambourine",
+        "description": "Shallow hand-held frame drum ringed with metal jingles."
+      },
+      {
+        "title": "Operetta",
+        "description": "Light theatrical genre with spoken dialogue, perfected by Offenbach and Strauss."
+      },
+      {
+        "title": "Libretto",
+        "description": "Text of an opera or oratorio, often printed separately for the audience."
+      },
+      {
+        "title": "Falsetto",
+        "description": "Voice register above the normal range, produced with thinned vocal folds."
+      },
+      {
+        "title": "Motet",
+        "description": "Polyphonic choral composition, usually sacred, often with a Latin text."
+      },
+      {
+        "title": "Ballet",
+        "description": "Theatrical dance set to music, codified at the French royal court."
+      }
+    ],
+    "intruders": [
+      {
+        "title": "Trombone",
+        "description": "Brass instrument whose pitch changes by extending a telescoping slide.",
+        "why": "Its name is an Italian augmentative of tromba, meaning 'big trumpet', the opposite of a diminutive."
+      },
+      {
+        "title": "Vibrato",
+        "description": "Slight regular wavering of pitch used by singers and string players.",
+        "why": "An Italian past participle meaning 'vibrated'; its -ato ending only resembles diminutive endings like -etto."
+      },
+      {
+        "title": "Soprano",
+        "description": "Highest standard singing voice, typical of leading heroines in opera.",
+        "why": "From Italian sopra, 'above', with an adjective ending; it names a high part, not a small thing."
+      }
+    ]
+  },
+  {
+    "id": "music-minor-third-scales",
+    "domain": "music",
+    "tier": "subtle",
+    "theme": "Scales and modes whose third degree is flattened, lying three semitones above the tonic.",
+    "decoy": "Named modes and scales used in Western, folk, and jazz music",
+    "members": [
+      {
+        "title": "Aeolian",
+        "description": "Church mode played on the white keys from A up to A."
+      },
+      {
+        "title": "Dorian",
+        "description": "Church mode played on the white keys from D up to D."
+      },
+      {
+        "title": "Phrygian",
+        "description": "Church mode played on the white keys from E up to E."
+      },
+      {
+        "title": "Locrian",
+        "description": "Church mode played on the white keys from B up to B."
+      },
+      {
+        "title": "Ukrainian Dorian",
+        "description": "Dorian variant with a raised fourth step, heard in klezmer and Ukrainian folk music."
+      },
+      {
+        "title": "Harmonic minor",
+        "description": "Seven-note pattern with an augmented second between its sixth and seventh steps."
+      },
+      {
+        "title": "Melodic minor",
+        "description": "Pattern whose sixth and seventh steps are raised going up and lowered coming down."
+      },
+      {
+        "title": "Hungarian minor",
+        "description": "Seven-note pattern with two augmented seconds: harmonic minor with a raised fourth."
+      }
+    ],
+    "intruders": [
+      {
+        "title": "Mixolydian",
+        "description": "Church mode played on the white keys from G up to G.",
+        "why": "Its third is major (G to B); only its lowered seventh gives it the bluesy, dark colour that makes it seem to fit."
+      },
+      {
+        "title": "Lydian",
+        "description": "Church mode played on the white keys from F up to F.",
+        "why": "Its third is major (F to A), like the major scale's, even though it looks like any other church mode."
+      },
+      {
+        "title": "Phrygian dominant",
+        "description": "Fifth mode of harmonic minor, common in flamenco and klezmer music.",
+        "why": "Its third is major, although it is named after Phrygian and derived from the harmonic minor."
+      }
+    ]
+  },
+  {
+    "id": "music-hidden-chordophones",
+    "domain": "music",
+    "tier": "subtle",
+    "theme": "Chordophones: the sound comes from vibrating strings, however the player sets them going.",
+    "decoy": "Keyboard and percussion-style instruments played with hammers, keys, or beaters",
+    "members": [
+      {
+        "title": "Piano",
+        "description": "Keyboard instrument with felt hammers, dampers, and a sustain pedal."
+      },
+      {
+        "title": "Harpsichord",
+        "description": "Baroque keyboard instrument, often built with two manuals and a buff stop."
+      },
+      {
+        "title": "Clavichord",
+        "description": "Quiet domestic keyboard whose brass tangents allow a gentle vibrato."
+      },
+      {
+        "title": "Cimbalom",
+        "description": "Hungarian concert instrument on legs, played with cotton-tipped beaters."
+      },
+      {
+        "title": "Hammered dulcimer",
+        "description": "Trapezoidal box played with small hand-held hammers in folk music."
+      },
+      {
+        "title": "Berimbau",
+        "description": "Brazilian bow with a gourd resonator, struck with a stick in capoeira."
+      },
+      {
+        "title": "Clavinet",
+        "description": "Hohner electric keyboard with a percussive, funky tone."
+      },
+      {
+        "title": "Santoor",
+        "description": "Persian and Kashmiri trapezoid played with light walnut mallets."
+      },
+      {
+        "title": "Virginal",
+        "description": "Small rectangular keyboard instrument popular in Tudor England."
+      }
+    ],
+    "intruders": [
+      {
+        "title": "Toy piano",
+        "description": "Miniature keyboard instrument whose hammers strike small metal rods.",
+        "why": "It has no strings: the hammers hit metal rods, so it is an idiophone despite looking like a small piano."
+      },
+      {
+        "title": "Celesta",
+        "description": "Keyboard instrument whose felt hammers strike steel plates over wooden resonators.",
+        "why": "Its sound comes from struck steel plates, not strings, though it looks and plays like an upright piano."
+      },
+      {
+        "title": "Kalimba",
+        "description": "Thumb piano with metal tines mounted on a wooden board or box.",
+        "why": "Its sound comes from plucked metal tongues (lamellae), not strings, despite the 'piano' nickname."
+      }
+    ]
+  },
+  {
+    "id": "music-hit-covers",
+    "domain": "music",
+    "tier": "subtle",
+    "theme": "Songs whose best-known hit version is a cover: another artist had released the song first.",
+    "decoy": "Signature hits of major singers and bands",
+    "members": [
+      {
+        "title": "Hound Dog",
+        "description": "Elvis Presley's 1956 rock-and-roll hit, written by Leiber and Stoller."
+      },
+      {
+        "title": "I Will Always Love You",
+        "description": "Whitney Houston's 1992 soundtrack ballad with an unaccompanied opening."
+      },
+      {
+        "title": "Respect",
+        "description": "Aretha Franklin's 1967 Atlantic soul single, recorded in New York."
+      },
+      {
+        "title": "Nothing Compares 2 U",
+        "description": "Sinead O'Connor's 1990 ballad, written by Prince, with a close-up video."
+      },
+      {
+        "title": "Tainted Love",
+        "description": "Soft Cell's 1981 synth-pop hit, written by Ed Cobb."
+      },
+      {
+        "title": "All Along the Watchtower",
+        "description": "The Jimi Hendrix Experience's 1968 hit with layered guitar solos."
+      },
+      {
+        "title": "Twist and Shout",
+        "description": "The Beatles' 1963 album closer, recorded in a single take."
+      },
+      {
+        "title": "I Love Rock 'n' Roll",
+        "description": "Joan Jett and the Blackhearts' 1981 hard-rocking single."
+      },
+      {
+        "title": "Mr. Tambourine Man",
+        "description": "The Byrds' 1965 folk-rock hit with jangling twelve-string guitar."
+      }
+    ],
+    "intruders": [
+      {
+        "title": "Manic Monday",
+        "description": "The Bangles' 1986 hit, written by Prince under a pseudonym.",
+        "why": "The Bangles' single was the song's first release; Prince's own demo stayed unreleased for decades."
+      },
+      {
+        "title": "Crazy",
+        "description": "Patsy Cline's 1961 country hit, written by Willie Nelson.",
+        "why": "Cline's single was the first released recording; Nelson's own version came out afterwards."
+      }
+    ]
+  },
+  {
+    "id": "music-completed-by-others",
+    "domain": "music",
+    "tier": "subtle",
+    "theme": "Works left incomplete when their composer died and brought to performable form by someone else.",
+    "decoy": "Major works usually heard in versions edited or orchestrated by a second hand",
+    "members": [
+      {
+        "title": "Mozart's Requiem",
+        "description": "Latin Mass setting commissioned anonymously through an intermediary in 1791."
+      },
+      {
+        "title": "Turandot",
+        "description": "Puccini opera about an icy Chinese princess and her three riddles."
+      },
+      {
+        "title": "Mahler's Tenth Symphony",
+        "description": "Symphony whose opening Adagio is often performed on its own."
+      },
+      {
+        "title": "Prince Igor",
+        "description": "Borodin opera about a 12th-century prince, featuring the Polovtsian Dances."
+      },
+      {
+        "title": "Bartok's Viola Concerto",
+        "description": "Concerto commissioned in 1945 by the violist William Primrose."
+      },
+      {
+        "title": "Elgar's Third Symphony",
+        "description": "Symphony commissioned by the BBC and first performed in 1998."
+      },
+      {
+        "title": "Lulu",
+        "description": "Berg's twelve-tone opera drawn from two plays by Frank Wedekind."
+      },
+      {
+        "title": "Khovanshchina",
+        "description": "Mussorgsky opera about princely intrigue and the Old Believers in 1680s Russia."
+      },
+      {
+        "title": "The Tales of Hoffmann",
+        "description": "Offenbach's fantastical opera in which a poet recounts three loves."
+      }
+    ],
+    "intruders": [
+      {
+        "title": "Carmen",
+        "description": "Bizet opera about a Seville cigarette-factory worker and a soldier.",
+        "why": "Bizet finished it and saw its 1875 premiere; Guiraud's sung recitatives, added after Bizet's death, replaced spoken dialogue in a work that was already complete."
+      },
+      {
+        "title": "Boris Godunov",
+        "description": "Mussorgsky opera about a tsar's troubled reign, drawn from Pushkin.",
+        "why": "Mussorgsky completed two versions himself and it premiered in 1874; Rimsky-Korsakov's famous edition is a revision, not a completion."
+      }
+    ]
+  },
+  {
+    "id": "music-lossless-formats",
+    "domain": "music",
+    "tier": "subtle",
+    "theme": "Digital sound encodings that keep every sample intact: none applies lossy, perceptual data reduction.",
+    "decoy": "Digital audio formats and codecs from the CD era onward",
+    "members": [
+      {
+        "title": "ADAT",
+        "description": "Alesis eight-track recorder system of 1991 using S-VHS tapes."
+      },
+      {
+        "title": "ALAC",
+        "description": "Apple's audio codec, released as open source in 2011."
+      },
+      {
+        "title": "Monkey's Audio",
+        "description": "Windows-born audio codec that saves files with the .ape extension."
+      },
+      {
+        "title": "Audio CD",
+        "description": "Red Book disc storing 16-bit, 44.1 kHz stereo audio."
+      },
+      {
+        "title": "DVD-Audio",
+        "description": "Disc format launched in 2000, offering up to 24-bit, 192 kHz stereo."
+      },
+      {
+        "title": "Super Audio CD",
+        "description": "Sony and Philips disc carrying one-bit DSD audio."
+      },
+      {
+        "title": "Dolby TrueHD",
+        "description": "Blu-ray surround audio format built on Meridian's MLP technology."
+      },
+      {
+        "title": "DTS-HD Master Audio",
+        "description": "Blu-ray surround audio format with a backward-compatible core stream."
+      },
+      {
+        "title": "Shorten",
+        "description": "1990s audio codec once popular for trading live concert recordings."
+      }
+    ],
+    "intruders": [
+      {
+        "title": "MiniDisc",
+        "description": "Sony's small rewritable disc in a protective caddy, launched in 1992.",
+        "why": "It stores audio with Sony's ATRAC codec, which is lossy, though it looks like a compact cousin of the CD."
+      },
+      {
+        "title": "Digital Compact Cassette",
+        "description": "Philips's 1992 digital tape format whose decks also played ordinary cassettes.",
+        "why": "It uses PASC, a lossy perceptual codec related to MPEG-1 Audio Layer I."
+      },
+      {
+        "title": "Dolby Digital",
+        "description": "Surround audio format for DVDs and cinemas, also known as AC-3.",
+        "why": "It is a lossy perceptual codec, unlike its Blu-ray sibling Dolby TrueHD."
+      }
+    ]
+  }
+]
