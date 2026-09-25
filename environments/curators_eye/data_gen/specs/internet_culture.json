@@ -1329,27 +1329,27 @@
     "decoy": "Common emoji depicting everyday objects, weather, and marks",
     "members": [
       {
-        "title": "☎️ Telephone",
+        "title": "☎ Telephone",
         "description": "Old desk phone with a handset resting on its cradle."
       },
       {
-        "title": "✈️ Airplane",
+        "title": "✈ Airplane",
         "description": "Passenger jet seen from above, pointing toward the corner."
       },
       {
-        "title": "✂️ Scissors",
+        "title": "✂ Scissors",
         "description": "Pair of open shears, used for cutting or snipping jokes."
       },
       {
-        "title": "☀️ Sun",
+        "title": "☀ Sun",
         "description": "Radiating disc used to signal clear, bright weather."
       },
       {
-        "title": "❄️ Snowflake",
+        "title": "❄ Snowflake",
         "description": "Six-armed ice crystal signaling cold weather or winter."
       },
       {
-        "title": "✉️ Envelope",
+        "title": "✉ Envelope",
         "description": "Sealed paper letter, often used to mean a message."
       },
       {
@@ -1361,11 +1361,11 @@
         "description": "Jagged yellow bolt used for electricity or speed."
       },
       {
-        "title": "✔️ Check Mark",
+        "title": "✔ Check Mark",
         "description": "Bold tick used to confirm, approve, or mark done."
       },
       {
-        "title": "♻️ Recycling",
+        "title": "♻ Recycling",
         "description": "Three chasing arrows forming a loop, signaling reuse."
       }
     ],
@@ -1485,8 +1485,8 @@
         "description": "Microsoft's search service, known for a daily photo on its homepage."
       },
       {
-        "title": "Twitter",
-        "description": "Microblogging service whose posts were capped at 140 characters at launch."
+        "title": "Airbnb",
+        "description": "Home-sharing marketplace born when its founders rented floor space during a design conference."
       }
     ],
     "intruders": [

@@ -1,7 +1,8 @@
 """Quality gates for a built curators-eye JSONL file.
 
 Hard failures (exit 1): malformed rows, item counts outside 8-12, intruder counts
-outside 1-2, duplicate items within a row, duplicate themes across rows.
+outside 1-2, duplicate items within a row, duplicate themes across rows, invisible
+characters (e.g. emoji variation selectors) that could act as hidden cues.
 
 Reported diagnostics (should stay low; investigate outliers):
   * theme-word leak: a word of the hidden theme that appears in member text but in
@@ -25,6 +26,7 @@ from collections import Counter
 from itertools import combinations
 from pathlib import Path
 
+INVISIBLE = re.compile("[\u200b-\u200f\u2060\ufe00-\ufe0f\ufeff]")
 STOP = set(
     "a an and are as at be by for from in into is it its of on or that the their "
     "them they this to was were which with whose who what than then there these "
@@ -108,6 +110,9 @@ def main() -> None:
             errors.append(f"{sid}: {len(gold)} intruders")
         if gold != {it["id"] for it in items if it["is_intruder"]}:
             errors.append(f"{sid}: answer does not match item flags")
+        for it in items:
+            if INVISIBLE.search(it["title"] + it["description"]):
+                errors.append(f"{sid}/{it['id']}: invisible character in item text (a hidden cue)")
         titles = [it["title"].lower() for it in items]
         if len(set(titles)) != len(titles):
             errors.append(f"{sid}: duplicate titles within row")
