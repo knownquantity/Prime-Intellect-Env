@@ -101,7 +101,26 @@ Hugging Face-compatible columns:
 | `answer` | Sorted, comma-joined intruder IDs, e.g. `"C,K"` |
 | `info` | `spec_id`, `theme`, `decoy`, `difficulty`, `domain`, `split`, and `items` (each with `id`, `title`, `description`, `is_intruder`, and `why` for intruders) |
 
-<!-- DATASET_STATS -->
+**Size:** 203 rows, one per theme. 7 domains × 29 rows (design objects, music,
+food, architecture, internet culture, tools, games).
+
+| Tier | Rows | train / eval | 1 intruder / 2 intruders |
+|---|---|---|---|
+| obvious | 67 | 53 / 14 | 34 / 33 |
+| moderate | 72 | 57 / 15 | 33 / 39 |
+| subtle | 64 | 51 / 13 | 27 / 37 |
+
+Collections hold 9–12 items. No item appears in more than one row. Validator
+results on the full set:
+
+| Check | Result |
+|---|---|
+| Theme-word leaks | 0 |
+| Intruder position (first / middle / last third) | 0.31 / 0.38 / 0.32 |
+| Random guess, told the true intruder count | 0.118 mean Jaccard |
+| TF-IDF odd-one-out solver | 0.071 |
+| Description-length outlier solver | 0.056 |
+
 
 **Tiers**
 
@@ -187,4 +206,31 @@ The tests cover dataset integrity, splits and filters, the validator, answer
 parsing, Jaccard scoring (exact, partial, over-flagging, unformatted), the
 no-key fallback, and the judge path with a mocked judge.
 
-<!-- RESULTS -->
+## Reward is non-degenerate: small-model run
+
+Claude Haiku 4.5 answered 90 puzzles blind (30 per tier, stratified sample,
+seed 7). They were posed as the exact system and user prompts above, and the
+answers were scored with this package's own `parse_intruders` and `jaccard`.
+This is intruder reward only (the no-judge mode):
+
+| Tier | Mean reward | Exact set | Scored 0 / partial / 1 |
+|---|---|---|---|
+| obvious | 0.572 | 40% | 7 / 11 / 12 |
+| moderate | 0.328 | 27% | 18 / 4 / 8 |
+| subtle | 0.150 | 7% | 23 / 5 / 2 |
+| **overall** | **0.350** (sd 0.416) | 24% | 48 / 20 / 22 |
+
+The reward falls monotonically with tier. It doesn't saturate at 0 or 1, and
+within-tier variance is high, which is what GRPO-style training needs. Every
+reply was well formatted. Subtle rows sit close to the 0.118 random floor for a
+small model, which leaves headroom for stronger models and for training.
+
+The container used to build this environment had no inference API access, so
+this run went through a sandboxed subagent rather than `vf-eval`. `vf-eval` was
+separately checked end to end, with the `null` harness and subprocess runtime,
+against a local OpenAI-compatible stub. To reproduce with a real endpoint:
+
+```bash
+uv run vf-eval curators-eye -m <model> -n 90 -r 1 --env.agent.harness.id null
+```
+
